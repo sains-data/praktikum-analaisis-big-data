@@ -1,7 +1,5 @@
 # Keterangan File Data — Modul 8
 
-Letakkan semua file ini di dalam folder `praktikum-bigdata/modul8/data/`.
-
 ## Daftar File
 
 | File | Jumlah Record | Digunakan Di | Keterangan |

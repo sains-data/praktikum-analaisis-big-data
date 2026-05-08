@@ -1,4 +1,4 @@
-x# Latihan 1 — Persiapan dan Verifikasi Lingkungan
+# Latihan 1 — Persiapan dan Verifikasi Lingkungan
 **Modul 8 · Analitik Aliran Data** | Estimasi waktu: **10 menit**
 
 ---
