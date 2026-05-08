@@ -1,0 +1,2702 @@
+[
+  {
+    "event_id": "3c59a915",
+    "sensor_id": "sensor-017",
+    "location": "lantai-2",
+    "temperature": 37.52,
+    "humidity": 52.35,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:00+00:00"
+  },
+  {
+    "event_id": "12bc34fc",
+    "sensor_id": "sensor-017",
+    "location": "gudang-B",
+    "temperature": 35.93,
+    "humidity": 53.66,
+    "status": "critical",
+    "event_time": "2024-04-15T08:00:01.371156+00:00"
+  },
+  {
+    "event_id": "24c08997",
+    "sensor_id": "sensor-014",
+    "location": "gudang-B",
+    "temperature": 25.92,
+    "humidity": 45.66,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:02.722887+00:00"
+  },
+  {
+    "event_id": "d71c94c8",
+    "sensor_id": "sensor-013",
+    "location": "lantai-1",
+    "temperature": 27.95,
+    "humidity": 46.32,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:04.611950+00:00"
+  },
+  {
+    "event_id": "a2661d46",
+    "sensor_id": "sensor-005",
+    "location": "parkir",
+    "temperature": 22.72,
+    "humidity": 36.34,
+    "status": "warning",
+    "event_time": "2024-04-15T08:00:06.527282+00:00"
+  },
+  {
+    "event_id": "0a1bf4ba",
+    "sensor_id": "sensor-014",
+    "location": "gudang-A",
+    "temperature": 33.4,
+    "humidity": 87.88,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:07.726365+00:00"
+  },
+  {
+    "event_id": "44d9f66b",
+    "sensor_id": "sensor-015",
+    "location": "lantai-1",
+    "temperature": 41.31,
+    "humidity": 35.43,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:08.904241+00:00"
+  },
+  {
+    "event_id": "7f449793",
+    "sensor_id": "sensor-020",
+    "location": "gudang-A",
+    "temperature": 25.38,
+    "humidity": 81.39,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:10.643821+00:00"
+  },
+  {
+    "event_id": "0322a7b5",
+    "sensor_id": "sensor-008",
+    "location": "lantai-1",
+    "temperature": 29.91,
+    "humidity": 32.94,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:11.280640+00:00"
+  },
+  {
+    "event_id": "68313d1c",
+    "sensor_id": "sensor-006",
+    "location": "gudang-A",
+    "temperature": 43.8,
+    "humidity": 81.28,
+    "status": "critical",
+    "event_time": "2024-04-15T08:00:12.170890+00:00"
+  },
+  {
+    "event_id": "307f448b",
+    "sensor_id": "sensor-008",
+    "location": "gudang-A",
+    "temperature": 31.55,
+    "humidity": 78.23,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:13.793008+00:00"
+  },
+  {
+    "event_id": "2e779153",
+    "sensor_id": "sensor-002",
+    "location": "gudang-B",
+    "temperature": 23.27,
+    "humidity": 79.42,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:14.475188+00:00"
+  },
+  {
+    "event_id": "4899154d",
+    "sensor_id": "sensor-003",
+    "location": "parkir",
+    "temperature": 34.65,
+    "humidity": 85.05,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:16.004616+00:00"
+  },
+  {
+    "event_id": "fe2bbff9",
+    "sensor_id": "sensor-003",
+    "location": "gudang-B",
+    "temperature": 42.56,
+    "humidity": 56.61,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:16.537316+00:00"
+  },
+  {
+    "event_id": "7b61df45",
+    "sensor_id": "sensor-011",
+    "location": "gudang-A",
+    "temperature": 21.07,
+    "humidity": 57.66,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:17.175284+00:00"
+  },
+  {
+    "event_id": "260d1380",
+    "sensor_id": "sensor-014",
+    "location": "lantai-2",
+    "temperature": 32.4,
+    "humidity": 52.96,
+    "status": "warning",
+    "event_time": "2024-04-15T08:00:19.061482+00:00"
+  },
+  {
+    "event_id": "b99d6ce1",
+    "sensor_id": "sensor-007",
+    "location": "gudang-B",
+    "temperature": 26.87,
+    "humidity": 56.76,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:19.820693+00:00"
+  },
+  {
+    "event_id": "ad7dc732",
+    "sensor_id": "sensor-020",
+    "location": "parkir",
+    "temperature": 26.14,
+    "humidity": 47.71,
+    "status": "warning",
+    "event_time": "2024-04-15T08:00:20.372667+00:00"
+  },
+  {
+    "event_id": "5ec3c0e5",
+    "sensor_id": "sensor-016",
+    "location": "gudang-A",
+    "temperature": 22.19,
+    "humidity": 52.98,
+    "status": "warning",
+    "event_time": "2024-04-15T08:00:22.196835+00:00"
+  },
+  {
+    "event_id": "dd64522b",
+    "sensor_id": "sensor-017",
+    "location": "gudang-B",
+    "temperature": 35.77,
+    "humidity": 78.13,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:22.996022+00:00"
+  },
+  {
+    "event_id": "5c81a785",
+    "sensor_id": "sensor-012",
+    "location": "lantai-2",
+    "temperature": 33.61,
+    "humidity": 59.08,
+    "status": "critical",
+    "event_time": "2024-04-15T08:00:24.980127+00:00"
+  },
+  {
+    "event_id": "06b4dd22",
+    "sensor_id": "sensor-013",
+    "location": "lantai-1",
+    "temperature": 24.5,
+    "humidity": 49.13,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:26.233717+00:00"
+  },
+  {
+    "event_id": "d9833c14",
+    "sensor_id": "sensor-009",
+    "location": "gudang-A",
+    "temperature": 40.22,
+    "humidity": 58.3,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:26.777672+00:00"
+  },
+  {
+    "event_id": "2a630638",
+    "sensor_id": "sensor-008",
+    "location": "gudang-B",
+    "temperature": 22.5,
+    "humidity": 69.41,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:28.427935+00:00"
+  },
+  {
+    "event_id": "03e25aec",
+    "sensor_id": "sensor-002",
+    "location": "gudang-B",
+    "temperature": 34.39,
+    "humidity": 88.96,
+    "status": "warning",
+    "event_time": "2024-04-15T08:00:29.728469+00:00"
+  },
+  {
+    "event_id": "f06d310a",
+    "sensor_id": "sensor-006",
+    "location": "gudang-B",
+    "temperature": 25.91,
+    "humidity": 49.08,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:30.760676+00:00"
+  },
+  {
+    "event_id": "f487ef92",
+    "sensor_id": "sensor-001",
+    "location": "lantai-1",
+    "temperature": 43.69,
+    "humidity": 63.82,
+    "status": "critical",
+    "event_time": "2024-04-15T08:00:32.631646+00:00"
+  },
+  {
+    "event_id": "9d789385",
+    "sensor_id": "sensor-016",
+    "location": "parkir",
+    "temperature": 27.73,
+    "humidity": 59.43,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:34.554199+00:00"
+  },
+  {
+    "event_id": "f6824ced",
+    "sensor_id": "sensor-020",
+    "location": "gudang-B",
+    "temperature": 20.5,
+    "humidity": 58.68,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:35.138451+00:00"
+  },
+  {
+    "event_id": "aa7a2c22",
+    "sensor_id": "sensor-007",
+    "location": "gudang-B",
+    "temperature": 28.52,
+    "humidity": 40.65,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:37.015295+00:00"
+  },
+  {
+    "event_id": "11338dd3",
+    "sensor_id": "sensor-005",
+    "location": "parkir",
+    "temperature": 37.62,
+    "humidity": 38.5,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:37.604629+00:00"
+  },
+  {
+    "event_id": "03f2854d",
+    "sensor_id": "sensor-012",
+    "location": "gudang-A",
+    "temperature": 29.34,
+    "humidity": 86.52,
+    "status": "warning",
+    "event_time": "2024-04-15T08:00:39.374350+00:00"
+  },
+  {
+    "event_id": "e0b50f93",
+    "sensor_id": "sensor-011",
+    "location": "lantai-1",
+    "temperature": 28.07,
+    "humidity": 88.55,
+    "status": "warning",
+    "event_time": "2024-04-15T08:00:40.753375+00:00"
+  },
+  {
+    "event_id": "5202994f",
+    "sensor_id": "sensor-016",
+    "location": "lantai-1",
+    "temperature": 24.36,
+    "humidity": 88.12,
+    "status": "critical",
+    "event_time": "2024-04-15T08:00:42.441139+00:00"
+  },
+  {
+    "event_id": "b9a83b28",
+    "sensor_id": "sensor-008",
+    "location": "parkir",
+    "temperature": 40.36,
+    "humidity": 52.7,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:44.121627+00:00"
+  },
+  {
+    "event_id": "f52c95c8",
+    "sensor_id": "sensor-001",
+    "location": "parkir",
+    "temperature": 29.79,
+    "humidity": 89.66,
+    "status": "critical",
+    "event_time": "2024-04-15T08:00:44.812650+00:00"
+  },
+  {
+    "event_id": "62572d15",
+    "sensor_id": "sensor-020",
+    "location": "lantai-1",
+    "temperature": 43.03,
+    "humidity": 88.05,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:45.361224+00:00"
+  },
+  {
+    "event_id": "c78e32b1",
+    "sensor_id": "sensor-004",
+    "location": "lantai-2",
+    "temperature": 23.52,
+    "humidity": 74.72,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:46.820694+00:00"
+  },
+  {
+    "event_id": "d7a8226f",
+    "sensor_id": "sensor-011",
+    "location": "gudang-B",
+    "temperature": 35.9,
+    "humidity": 87.78,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:47.840909+00:00"
+  },
+  {
+    "event_id": "c9a0fd7f",
+    "sensor_id": "sensor-009",
+    "location": "gudang-B",
+    "temperature": 26.24,
+    "humidity": 34.07,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:49.010854+00:00"
+  },
+  {
+    "event_id": "44cf654c",
+    "sensor_id": "sensor-001",
+    "location": "gudang-A",
+    "temperature": 29.65,
+    "humidity": 73.96,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:50.691384+00:00"
+  },
+  {
+    "event_id": "15d5bfa2",
+    "sensor_id": "sensor-016",
+    "location": "lantai-2",
+    "temperature": 28.78,
+    "humidity": 52.52,
+    "status": "warning",
+    "event_time": "2024-04-15T08:00:52.518212+00:00"
+  },
+  {
+    "event_id": "17351e5d",
+    "sensor_id": "sensor-019",
+    "location": "gudang-B",
+    "temperature": 24.07,
+    "humidity": 34.42,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:54.201307+00:00"
+  },
+  {
+    "event_id": "1e284176",
+    "sensor_id": "sensor-011",
+    "location": "lantai-1",
+    "temperature": 43.79,
+    "humidity": 34.45,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:55.143670+00:00"
+  },
+  {
+    "event_id": "eb691369",
+    "sensor_id": "sensor-006",
+    "location": "gudang-A",
+    "temperature": 33.68,
+    "humidity": 83.89,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:56.975567+00:00"
+  },
+  {
+    "event_id": "129e9a30",
+    "sensor_id": "sensor-020",
+    "location": "lantai-2",
+    "temperature": 37.61,
+    "humidity": 55.88,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:57.982493+00:00"
+  },
+  {
+    "event_id": "3c9556c9",
+    "sensor_id": "sensor-014",
+    "location": "gudang-B",
+    "temperature": 21.34,
+    "humidity": 49.87,
+    "status": "normal",
+    "event_time": "2024-04-15T08:00:59.393469+00:00"
+  },
+  {
+    "event_id": "ddacc6ad",
+    "sensor_id": "sensor-018",
+    "location": "parkir",
+    "temperature": 26.63,
+    "humidity": 46.89,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:00.507389+00:00"
+  },
+  {
+    "event_id": "e5343d23",
+    "sensor_id": "sensor-013",
+    "location": "parkir",
+    "temperature": 33.74,
+    "humidity": 59.46,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:01.151263+00:00"
+  },
+  {
+    "event_id": "ff75eac9",
+    "sensor_id": "sensor-014",
+    "location": "gudang-A",
+    "temperature": 27.36,
+    "humidity": 69.72,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:02.192506+00:00"
+  },
+  {
+    "event_id": "ca4d0041",
+    "sensor_id": "sensor-004",
+    "location": "gudang-A",
+    "temperature": 25.17,
+    "humidity": 68.29,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:03.412999+00:00"
+  },
+  {
+    "event_id": "c7c15f5d",
+    "sensor_id": "sensor-004",
+    "location": "lantai-1",
+    "temperature": 39.62,
+    "humidity": 58.26,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:04.623355+00:00"
+  },
+  {
+    "event_id": "8a4deb06",
+    "sensor_id": "sensor-018",
+    "location": "lantai-2",
+    "temperature": 24.62,
+    "humidity": 83.13,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:05.260060+00:00"
+  },
+  {
+    "event_id": "6ccfd3b3",
+    "sensor_id": "sensor-002",
+    "location": "lantai-1",
+    "temperature": 30.99,
+    "humidity": 45.8,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:06.039934+00:00"
+  },
+  {
+    "event_id": "bfc94257",
+    "sensor_id": "sensor-005",
+    "location": "gudang-A",
+    "temperature": 22.14,
+    "humidity": 50.63,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:07.386304+00:00"
+  },
+  {
+    "event_id": "83cd7562",
+    "sensor_id": "sensor-019",
+    "location": "gudang-B",
+    "temperature": 33.84,
+    "humidity": 80.45,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:08.507284+00:00"
+  },
+  {
+    "event_id": "2313aa27",
+    "sensor_id": "sensor-018",
+    "location": "lantai-2",
+    "temperature": 34.32,
+    "humidity": 44.14,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:09.635232+00:00"
+  },
+  {
+    "event_id": "4fa513e1",
+    "sensor_id": "sensor-002",
+    "location": "parkir",
+    "temperature": 34.28,
+    "humidity": 61.01,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:10.253665+00:00"
+  },
+  {
+    "event_id": "5a5bfc1a",
+    "sensor_id": "sensor-020",
+    "location": "gudang-B",
+    "temperature": 23.01,
+    "humidity": 75.43,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:11.769967+00:00"
+  },
+  {
+    "event_id": "e717915d",
+    "sensor_id": "sensor-006",
+    "location": "gudang-B",
+    "temperature": 40.21,
+    "humidity": 37.57,
+    "status": "warning",
+    "event_time": "2024-04-15T08:01:13.693559+00:00"
+  },
+  {
+    "event_id": "294d64d6",
+    "sensor_id": "sensor-014",
+    "location": "gudang-B",
+    "temperature": 44.93,
+    "humidity": 67.63,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:14.311112+00:00"
+  },
+  {
+    "event_id": "28799da5",
+    "sensor_id": "sensor-003",
+    "location": "gudang-A",
+    "temperature": 29.7,
+    "humidity": 53.84,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:15.197942+00:00"
+  },
+  {
+    "event_id": "b95879b6",
+    "sensor_id": "sensor-017",
+    "location": "lantai-2",
+    "temperature": 42.93,
+    "humidity": 30.74,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:16.982878+00:00"
+  },
+  {
+    "event_id": "31351851",
+    "sensor_id": "sensor-014",
+    "location": "gudang-A",
+    "temperature": 30.36,
+    "humidity": 38.89,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:18.364242+00:00"
+  },
+  {
+    "event_id": "e5a54565",
+    "sensor_id": "sensor-004",
+    "location": "gudang-A",
+    "temperature": 34.07,
+    "humidity": 36.06,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:19.738258+00:00"
+  },
+  {
+    "event_id": "d54eb4fd",
+    "sensor_id": "sensor-012",
+    "location": "lantai-2",
+    "temperature": 26.6,
+    "humidity": 69.29,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:21.539471+00:00"
+  },
+  {
+    "event_id": "5eaffa03",
+    "sensor_id": "sensor-002",
+    "location": "gudang-B",
+    "temperature": 26.89,
+    "humidity": 38.63,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:22.952914+00:00"
+  },
+  {
+    "event_id": "ee223450",
+    "sensor_id": "sensor-013",
+    "location": "gudang-A",
+    "temperature": 29.89,
+    "humidity": 82.74,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:24.474133+00:00"
+  },
+  {
+    "event_id": "eb53a12f",
+    "sensor_id": "sensor-016",
+    "location": "lantai-1",
+    "temperature": 42.43,
+    "humidity": 31.21,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:25.048069+00:00"
+  },
+  {
+    "event_id": "ec053ecb",
+    "sensor_id": "sensor-016",
+    "location": "gudang-A",
+    "temperature": 44.31,
+    "humidity": 43.68,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:26.014493+00:00"
+  },
+  {
+    "event_id": "a71f8223",
+    "sensor_id": "sensor-015",
+    "location": "lantai-1",
+    "temperature": 26.74,
+    "humidity": 55.01,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:27.975822+00:00"
+  },
+  {
+    "event_id": "ed03b3d8",
+    "sensor_id": "sensor-007",
+    "location": "lantai-2",
+    "temperature": 38.52,
+    "humidity": 75.57,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:28.757726+00:00"
+  },
+  {
+    "event_id": "a1f50cf7",
+    "sensor_id": "sensor-017",
+    "location": "gudang-B",
+    "temperature": 21.64,
+    "humidity": 72.57,
+    "status": "warning",
+    "event_time": "2024-04-15T08:01:30.489252+00:00"
+  },
+  {
+    "event_id": "0a683fc9",
+    "sensor_id": "sensor-017",
+    "location": "parkir",
+    "temperature": 20.72,
+    "humidity": 41.57,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:31.192727+00:00"
+  },
+  {
+    "event_id": "af4491a1",
+    "sensor_id": "sensor-008",
+    "location": "gudang-A",
+    "temperature": 31.41,
+    "humidity": 85.08,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:32.948192+00:00"
+  },
+  {
+    "event_id": "3924790f",
+    "sensor_id": "sensor-015",
+    "location": "parkir",
+    "temperature": 29.92,
+    "humidity": 85.38,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:33.859158+00:00"
+  },
+  {
+    "event_id": "075ee45e",
+    "sensor_id": "sensor-016",
+    "location": "parkir",
+    "temperature": 31.15,
+    "humidity": 87.63,
+    "status": "warning",
+    "event_time": "2024-04-15T08:01:34.722065+00:00"
+  },
+  {
+    "event_id": "89f5fc68",
+    "sensor_id": "sensor-012",
+    "location": "lantai-1",
+    "temperature": 24.09,
+    "humidity": 83.67,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:36.102385+00:00"
+  },
+  {
+    "event_id": "29aa3427",
+    "sensor_id": "sensor-013",
+    "location": "gudang-A",
+    "temperature": 24.07,
+    "humidity": 64.34,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:37.029989+00:00"
+  },
+  {
+    "event_id": "1f18b189",
+    "sensor_id": "sensor-008",
+    "location": "gudang-B",
+    "temperature": 26.73,
+    "humidity": 54.57,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:38.815656+00:00"
+  },
+  {
+    "event_id": "3b8561e3",
+    "sensor_id": "sensor-001",
+    "location": "lantai-2",
+    "temperature": 42.79,
+    "humidity": 68.84,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:40.612601+00:00"
+  },
+  {
+    "event_id": "9bfd2a25",
+    "sensor_id": "sensor-008",
+    "location": "lantai-1",
+    "temperature": 35.21,
+    "humidity": 86.58,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:42.313898+00:00"
+  },
+  {
+    "event_id": "25ef0356",
+    "sensor_id": "sensor-013",
+    "location": "lantai-1",
+    "temperature": 31.47,
+    "humidity": 43.09,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:43.449608+00:00"
+  },
+  {
+    "event_id": "64971441",
+    "sensor_id": "sensor-020",
+    "location": "lantai-2",
+    "temperature": 34.61,
+    "humidity": 30.44,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:44.965402+00:00"
+  },
+  {
+    "event_id": "8436e25c",
+    "sensor_id": "sensor-020",
+    "location": "parkir",
+    "temperature": 27.07,
+    "humidity": 71.06,
+    "status": "warning",
+    "event_time": "2024-04-15T08:01:46.307588+00:00"
+  },
+  {
+    "event_id": "fdcb75f9",
+    "sensor_id": "sensor-009",
+    "location": "lantai-1",
+    "temperature": 41.54,
+    "humidity": 45.67,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:46.903344+00:00"
+  },
+  {
+    "event_id": "3717d37f",
+    "sensor_id": "sensor-017",
+    "location": "gudang-B",
+    "temperature": 42.49,
+    "humidity": 78.33,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:47.685884+00:00"
+  },
+  {
+    "event_id": "0d0bf30b",
+    "sensor_id": "sensor-011",
+    "location": "gudang-B",
+    "temperature": 38.03,
+    "humidity": 69.32,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:48.792032+00:00"
+  },
+  {
+    "event_id": "f5ec4bdc",
+    "sensor_id": "sensor-014",
+    "location": "lantai-2",
+    "temperature": 29.71,
+    "humidity": 32.12,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:49.681171+00:00"
+  },
+  {
+    "event_id": "b707fe90",
+    "sensor_id": "sensor-011",
+    "location": "gudang-B",
+    "temperature": 37.16,
+    "humidity": 68.3,
+    "status": "warning",
+    "event_time": "2024-04-15T08:01:51.405193+00:00"
+  },
+  {
+    "event_id": "51cbf0f4",
+    "sensor_id": "sensor-012",
+    "location": "parkir",
+    "temperature": 27.5,
+    "humidity": 40.2,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:53.264983+00:00"
+  },
+  {
+    "event_id": "78d2508c",
+    "sensor_id": "sensor-004",
+    "location": "lantai-2",
+    "temperature": 23.2,
+    "humidity": 45.52,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:54.036687+00:00"
+  },
+  {
+    "event_id": "34048559",
+    "sensor_id": "sensor-006",
+    "location": "lantai-1",
+    "temperature": 36.36,
+    "humidity": 43.34,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:55.681064+00:00"
+  },
+  {
+    "event_id": "4c330f32",
+    "sensor_id": "sensor-010",
+    "location": "lantai-2",
+    "temperature": 39.7,
+    "humidity": 49.88,
+    "status": "normal",
+    "event_time": "2024-04-15T08:01:57.297379+00:00"
+  },
+  {
+    "event_id": "72354566",
+    "sensor_id": "sensor-015",
+    "location": "gudang-A",
+    "temperature": 31.76,
+    "humidity": 81.98,
+    "status": "critical",
+    "event_time": "2024-04-15T08:01:58.675735+00:00"
+  },
+  {
+    "event_id": "754b4040",
+    "sensor_id": "sensor-020",
+    "location": "gudang-A",
+    "temperature": 31.81,
+    "humidity": 41.67,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:00.046205+00:00"
+  },
+  {
+    "event_id": "e406818d",
+    "sensor_id": "sensor-013",
+    "location": "parkir",
+    "temperature": 27.46,
+    "humidity": 33.24,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:01.847452+00:00"
+  },
+  {
+    "event_id": "38f87136",
+    "sensor_id": "sensor-007",
+    "location": "lantai-1",
+    "temperature": 30.23,
+    "humidity": 64.16,
+    "status": "warning",
+    "event_time": "2024-04-15T08:02:02.553500+00:00"
+  },
+  {
+    "event_id": "01090dd4",
+    "sensor_id": "sensor-006",
+    "location": "gudang-A",
+    "temperature": 32.19,
+    "humidity": 67.86,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:03.268336+00:00"
+  },
+  {
+    "event_id": "f71aa482",
+    "sensor_id": "sensor-002",
+    "location": "gudang-A",
+    "temperature": 31.3,
+    "humidity": 42.56,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:04.238457+00:00"
+  },
+  {
+    "event_id": "fa612929",
+    "sensor_id": "sensor-006",
+    "location": "lantai-2",
+    "temperature": 39.63,
+    "humidity": 76.79,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:05.602875+00:00"
+  },
+  {
+    "event_id": "308a7ef1",
+    "sensor_id": "sensor-014",
+    "location": "lantai-2",
+    "temperature": 30.73,
+    "humidity": 58.64,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:07.024595+00:00"
+  },
+  {
+    "event_id": "4530154e",
+    "sensor_id": "sensor-007",
+    "location": "lantai-1",
+    "temperature": 43.75,
+    "humidity": 83.52,
+    "status": "critical",
+    "event_time": "2024-04-15T08:02:07.581183+00:00"
+  },
+  {
+    "event_id": "3c881bc4",
+    "sensor_id": "sensor-001",
+    "location": "gudang-B",
+    "temperature": 25.66,
+    "humidity": 82.62,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:08.367048+00:00"
+  },
+  {
+    "event_id": "ee987820",
+    "sensor_id": "sensor-013",
+    "location": "parkir",
+    "temperature": 34.72,
+    "humidity": 40.02,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:09.060444+00:00"
+  },
+  {
+    "event_id": "bb7faf9e",
+    "sensor_id": "sensor-010",
+    "location": "lantai-2",
+    "temperature": 38.2,
+    "humidity": 65.78,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:10.007747+00:00"
+  },
+  {
+    "event_id": "68e24016",
+    "sensor_id": "sensor-005",
+    "location": "lantai-1",
+    "temperature": 44.9,
+    "humidity": 59.41,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:11.158245+00:00"
+  },
+  {
+    "event_id": "89cfdc28",
+    "sensor_id": "sensor-013",
+    "location": "gudang-A",
+    "temperature": 25.71,
+    "humidity": 73.63,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:11.905570+00:00"
+  },
+  {
+    "event_id": "367d3b98",
+    "sensor_id": "sensor-001",
+    "location": "parkir",
+    "temperature": 32.62,
+    "humidity": 37.39,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:12.722355+00:00"
+  },
+  {
+    "event_id": "5537de88",
+    "sensor_id": "sensor-009",
+    "location": "parkir",
+    "temperature": 35.58,
+    "humidity": 65.64,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:13.785144+00:00"
+  },
+  {
+    "event_id": "2b57806a",
+    "sensor_id": "sensor-001",
+    "location": "gudang-A",
+    "temperature": 37.24,
+    "humidity": 55.01,
+    "status": "warning",
+    "event_time": "2024-04-15T08:02:15.278099+00:00"
+  },
+  {
+    "event_id": "187235c2",
+    "sensor_id": "sensor-009",
+    "location": "lantai-2",
+    "temperature": 37.55,
+    "humidity": 42.33,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:15.963492+00:00"
+  },
+  {
+    "event_id": "bc6761f6",
+    "sensor_id": "sensor-004",
+    "location": "parkir",
+    "temperature": 26.75,
+    "humidity": 66.34,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:16.915167+00:00"
+  },
+  {
+    "event_id": "684b7f4a",
+    "sensor_id": "sensor-004",
+    "location": "parkir",
+    "temperature": 37.97,
+    "humidity": 37.06,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:18.043406+00:00"
+  },
+  {
+    "event_id": "075ca6a2",
+    "sensor_id": "sensor-016",
+    "location": "gudang-B",
+    "temperature": 35.23,
+    "humidity": 76.68,
+    "status": "critical",
+    "event_time": "2024-04-15T08:02:19.720546+00:00"
+  },
+  {
+    "event_id": "fa951f2d",
+    "sensor_id": "sensor-012",
+    "location": "lantai-2",
+    "temperature": 27.38,
+    "humidity": 32.36,
+    "status": "warning",
+    "event_time": "2024-04-15T08:02:21.680226+00:00"
+  },
+  {
+    "event_id": "8f595496",
+    "sensor_id": "sensor-016",
+    "location": "lantai-1",
+    "temperature": 25.86,
+    "humidity": 30.76,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:23.545761+00:00"
+  },
+  {
+    "event_id": "67e430fb",
+    "sensor_id": "sensor-019",
+    "location": "lantai-2",
+    "temperature": 23.73,
+    "humidity": 35.4,
+    "status": "critical",
+    "event_time": "2024-04-15T08:02:25.406081+00:00"
+  },
+  {
+    "event_id": "6573304c",
+    "sensor_id": "sensor-004",
+    "location": "lantai-1",
+    "temperature": 36.11,
+    "humidity": 57.41,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:26.018653+00:00"
+  },
+  {
+    "event_id": "fc6e2a44",
+    "sensor_id": "sensor-002",
+    "location": "gudang-A",
+    "temperature": 40.33,
+    "humidity": 82.45,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:26.914841+00:00"
+  },
+  {
+    "event_id": "375468d5",
+    "sensor_id": "sensor-011",
+    "location": "lantai-2",
+    "temperature": 38.46,
+    "humidity": 35.7,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:27.955163+00:00"
+  },
+  {
+    "event_id": "faafc166",
+    "sensor_id": "sensor-005",
+    "location": "gudang-B",
+    "temperature": 28.22,
+    "humidity": 83.67,
+    "status": "critical",
+    "event_time": "2024-04-15T08:02:28.469671+00:00"
+  },
+  {
+    "event_id": "e6db7189",
+    "sensor_id": "sensor-003",
+    "location": "lantai-1",
+    "temperature": 40.37,
+    "humidity": 40.97,
+    "status": "warning",
+    "event_time": "2024-04-15T08:02:29.372135+00:00"
+  },
+  {
+    "event_id": "5c9fe06c",
+    "sensor_id": "sensor-015",
+    "location": "lantai-1",
+    "temperature": 40.89,
+    "humidity": 71.39,
+    "status": "warning",
+    "event_time": "2024-04-15T08:02:30.472510+00:00"
+  },
+  {
+    "event_id": "2c0ffa44",
+    "sensor_id": "sensor-006",
+    "location": "gudang-A",
+    "temperature": 23.31,
+    "humidity": 73.58,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:32.172359+00:00"
+  },
+  {
+    "event_id": "3733d1bb",
+    "sensor_id": "sensor-019",
+    "location": "lantai-2",
+    "temperature": 40.06,
+    "humidity": 70.7,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:32.827929+00:00"
+  },
+  {
+    "event_id": "6df410b4",
+    "sensor_id": "sensor-012",
+    "location": "parkir",
+    "temperature": 20.72,
+    "humidity": 71.07,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:34.244914+00:00"
+  },
+  {
+    "event_id": "688ac0db",
+    "sensor_id": "sensor-016",
+    "location": "gudang-A",
+    "temperature": 42.19,
+    "humidity": 56.44,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:35.469533+00:00"
+  },
+  {
+    "event_id": "518d0187",
+    "sensor_id": "sensor-011",
+    "location": "gudang-A",
+    "temperature": 37.61,
+    "humidity": 70.68,
+    "status": "critical",
+    "event_time": "2024-04-15T08:02:36.361952+00:00"
+  },
+  {
+    "event_id": "40e6d370",
+    "sensor_id": "sensor-008",
+    "location": "lantai-1",
+    "temperature": 32.98,
+    "humidity": 71.29,
+    "status": "critical",
+    "event_time": "2024-04-15T08:02:37.947612+00:00"
+  },
+  {
+    "event_id": "2dd360fb",
+    "sensor_id": "sensor-008",
+    "location": "lantai-2",
+    "temperature": 28.64,
+    "humidity": 70.58,
+    "status": "warning",
+    "event_time": "2024-04-15T08:02:38.590475+00:00"
+  },
+  {
+    "event_id": "29c358c7",
+    "sensor_id": "sensor-018",
+    "location": "parkir",
+    "temperature": 21.36,
+    "humidity": 68.6,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:39.313457+00:00"
+  },
+  {
+    "event_id": "3d0f1291",
+    "sensor_id": "sensor-016",
+    "location": "lantai-2",
+    "temperature": 41.74,
+    "humidity": 34.49,
+    "status": "warning",
+    "event_time": "2024-04-15T08:02:40.571808+00:00"
+  },
+  {
+    "event_id": "6ead9830",
+    "sensor_id": "sensor-011",
+    "location": "lantai-1",
+    "temperature": 21.26,
+    "humidity": 43.36,
+    "status": "warning",
+    "event_time": "2024-04-15T08:02:41.552759+00:00"
+  },
+  {
+    "event_id": "ef0feb66",
+    "sensor_id": "sensor-008",
+    "location": "gudang-A",
+    "temperature": 31.48,
+    "humidity": 78.08,
+    "status": "warning",
+    "event_time": "2024-04-15T08:02:42.657674+00:00"
+  },
+  {
+    "event_id": "c88d24f1",
+    "sensor_id": "sensor-016",
+    "location": "lantai-2",
+    "temperature": 27.9,
+    "humidity": 88.84,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:43.289704+00:00"
+  },
+  {
+    "event_id": "a7a23e1a",
+    "sensor_id": "sensor-014",
+    "location": "gudang-A",
+    "temperature": 33.93,
+    "humidity": 30.01,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:43.943669+00:00"
+  },
+  {
+    "event_id": "f0b116bd",
+    "sensor_id": "sensor-020",
+    "location": "lantai-1",
+    "temperature": 42.25,
+    "humidity": 63.74,
+    "status": "warning",
+    "event_time": "2024-04-15T08:02:45.631344+00:00"
+  },
+  {
+    "event_id": "4ffad614",
+    "sensor_id": "sensor-012",
+    "location": "gudang-A",
+    "temperature": 40.41,
+    "humidity": 80.66,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:47.556877+00:00"
+  },
+  {
+    "event_id": "ad60d8af",
+    "sensor_id": "sensor-020",
+    "location": "parkir",
+    "temperature": 31.83,
+    "humidity": 69.43,
+    "status": "warning",
+    "event_time": "2024-04-15T08:02:48.897103+00:00"
+  },
+  {
+    "event_id": "f5eb36ef",
+    "sensor_id": "sensor-008",
+    "location": "gudang-A",
+    "temperature": 28.53,
+    "humidity": 79.79,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:49.568138+00:00"
+  },
+  {
+    "event_id": "6cd677e1",
+    "sensor_id": "sensor-012",
+    "location": "gudang-A",
+    "temperature": 21.14,
+    "humidity": 39.85,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:50.889674+00:00"
+  },
+  {
+    "event_id": "0e61d4de",
+    "sensor_id": "sensor-014",
+    "location": "gudang-A",
+    "temperature": 26.36,
+    "humidity": 41.76,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:52.622432+00:00"
+  },
+  {
+    "event_id": "aa30e886",
+    "sensor_id": "sensor-013",
+    "location": "gudang-B",
+    "temperature": 31.43,
+    "humidity": 76.89,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:54.517756+00:00"
+  },
+  {
+    "event_id": "f974a822",
+    "sensor_id": "sensor-014",
+    "location": "gudang-A",
+    "temperature": 43.17,
+    "humidity": 80.25,
+    "status": "critical",
+    "event_time": "2024-04-15T08:02:55.179405+00:00"
+  },
+  {
+    "event_id": "f08a8b8f",
+    "sensor_id": "sensor-015",
+    "location": "lantai-2",
+    "temperature": 36.46,
+    "humidity": 87.37,
+    "status": "normal",
+    "event_time": "2024-04-15T08:02:55.864234+00:00"
+  },
+  {
+    "event_id": "68c38713",
+    "sensor_id": "sensor-001",
+    "location": "parkir",
+    "temperature": 38.41,
+    "humidity": 63.19,
+    "status": "warning",
+    "event_time": "2024-04-15T08:02:57.810016+00:00"
+  },
+  {
+    "event_id": "58116533",
+    "sensor_id": "sensor-016",
+    "location": "parkir",
+    "temperature": 39.53,
+    "humidity": 84.61,
+    "status": "critical",
+    "event_time": "2024-04-15T08:02:59.568240+00:00"
+  },
+  {
+    "event_id": "87947d46",
+    "sensor_id": "sensor-005",
+    "location": "gudang-A",
+    "temperature": 29.69,
+    "humidity": 66.03,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:00.328715+00:00"
+  },
+  {
+    "event_id": "3ab017e6",
+    "sensor_id": "sensor-013",
+    "location": "lantai-2",
+    "temperature": 44.49,
+    "humidity": 84.95,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:01.584880+00:00"
+  },
+  {
+    "event_id": "1983901f",
+    "sensor_id": "sensor-011",
+    "location": "lantai-1",
+    "temperature": 31.32,
+    "humidity": 38.0,
+    "status": "warning",
+    "event_time": "2024-04-15T08:03:02.495274+00:00"
+  },
+  {
+    "event_id": "1082d2c9",
+    "sensor_id": "sensor-017",
+    "location": "lantai-1",
+    "temperature": 41.08,
+    "humidity": 62.87,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:03.899061+00:00"
+  },
+  {
+    "event_id": "fa6f667c",
+    "sensor_id": "sensor-018",
+    "location": "gudang-B",
+    "temperature": 25.02,
+    "humidity": 67.45,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:05.466873+00:00"
+  },
+  {
+    "event_id": "ea82e244",
+    "sensor_id": "sensor-005",
+    "location": "gudang-B",
+    "temperature": 32.6,
+    "humidity": 71.66,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:06.996790+00:00"
+  },
+  {
+    "event_id": "15e19f17",
+    "sensor_id": "sensor-012",
+    "location": "parkir",
+    "temperature": 32.01,
+    "humidity": 64.24,
+    "status": "warning",
+    "event_time": "2024-04-15T08:03:08.562319+00:00"
+  },
+  {
+    "event_id": "5c3a151a",
+    "sensor_id": "sensor-018",
+    "location": "lantai-1",
+    "temperature": 41.94,
+    "humidity": 55.34,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:10.073684+00:00"
+  },
+  {
+    "event_id": "2bfc16ad",
+    "sensor_id": "sensor-001",
+    "location": "lantai-2",
+    "temperature": 23.63,
+    "humidity": 70.22,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:11.357779+00:00"
+  },
+  {
+    "event_id": "1bf94628",
+    "sensor_id": "sensor-006",
+    "location": "lantai-1",
+    "temperature": 37.08,
+    "humidity": 38.79,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:12.258246+00:00"
+  },
+  {
+    "event_id": "a7f8c14a",
+    "sensor_id": "sensor-010",
+    "location": "gudang-B",
+    "temperature": 38.84,
+    "humidity": 31.94,
+    "status": "warning",
+    "event_time": "2024-04-15T08:03:13.794138+00:00"
+  },
+  {
+    "event_id": "5f1f50fa",
+    "sensor_id": "sensor-018",
+    "location": "gudang-B",
+    "temperature": 38.56,
+    "humidity": 63.68,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:14.447858+00:00"
+  },
+  {
+    "event_id": "53c480b1",
+    "sensor_id": "sensor-010",
+    "location": "gudang-A",
+    "temperature": 43.16,
+    "humidity": 53.25,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:15.714241+00:00"
+  },
+  {
+    "event_id": "17862f98",
+    "sensor_id": "sensor-002",
+    "location": "gudang-A",
+    "temperature": 38.59,
+    "humidity": 42.19,
+    "status": "warning",
+    "event_time": "2024-04-15T08:03:17.662991+00:00"
+  },
+  {
+    "event_id": "d8212a54",
+    "sensor_id": "sensor-012",
+    "location": "parkir",
+    "temperature": 33.67,
+    "humidity": 66.2,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:19.407966+00:00"
+  },
+  {
+    "event_id": "e0266345",
+    "sensor_id": "sensor-006",
+    "location": "gudang-A",
+    "temperature": 24.67,
+    "humidity": 40.43,
+    "status": "critical",
+    "event_time": "2024-04-15T08:03:20.349233+00:00"
+  },
+  {
+    "event_id": "81361561",
+    "sensor_id": "sensor-002",
+    "location": "lantai-2",
+    "temperature": 26.98,
+    "humidity": 45.85,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:21.028264+00:00"
+  },
+  {
+    "event_id": "c1a8f327",
+    "sensor_id": "sensor-009",
+    "location": "gudang-A",
+    "temperature": 28.26,
+    "humidity": 72.58,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:22.404243+00:00"
+  },
+  {
+    "event_id": "a1bd1d8f",
+    "sensor_id": "sensor-011",
+    "location": "parkir",
+    "temperature": 21.27,
+    "humidity": 85.94,
+    "status": "critical",
+    "event_time": "2024-04-15T08:03:22.964154+00:00"
+  },
+  {
+    "event_id": "717fedf5",
+    "sensor_id": "sensor-010",
+    "location": "lantai-2",
+    "temperature": 39.75,
+    "humidity": 63.01,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:24.728864+00:00"
+  },
+  {
+    "event_id": "b65e0942",
+    "sensor_id": "sensor-011",
+    "location": "parkir",
+    "temperature": 25.5,
+    "humidity": 41.03,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:26.404911+00:00"
+  },
+  {
+    "event_id": "5fe89680",
+    "sensor_id": "sensor-006",
+    "location": "lantai-2",
+    "temperature": 33.58,
+    "humidity": 54.21,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:28.084298+00:00"
+  },
+  {
+    "event_id": "e82cbe81",
+    "sensor_id": "sensor-007",
+    "location": "lantai-1",
+    "temperature": 28.28,
+    "humidity": 47.61,
+    "status": "critical",
+    "event_time": "2024-04-15T08:03:28.916095+00:00"
+  },
+  {
+    "event_id": "4e9e7f80",
+    "sensor_id": "sensor-018",
+    "location": "gudang-A",
+    "temperature": 22.87,
+    "humidity": 50.76,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:30.211843+00:00"
+  },
+  {
+    "event_id": "305df880",
+    "sensor_id": "sensor-020",
+    "location": "parkir",
+    "temperature": 26.1,
+    "humidity": 32.39,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:32.068588+00:00"
+  },
+  {
+    "event_id": "50d190b9",
+    "sensor_id": "sensor-004",
+    "location": "lantai-2",
+    "temperature": 26.41,
+    "humidity": 73.44,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:33.140647+00:00"
+  },
+  {
+    "event_id": "a04a75c0",
+    "sensor_id": "sensor-012",
+    "location": "parkir",
+    "temperature": 40.07,
+    "humidity": 56.73,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:35.007651+00:00"
+  },
+  {
+    "event_id": "6984e193",
+    "sensor_id": "sensor-007",
+    "location": "lantai-1",
+    "temperature": 32.85,
+    "humidity": 86.89,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:35.952302+00:00"
+  },
+  {
+    "event_id": "c9744421",
+    "sensor_id": "sensor-018",
+    "location": "parkir",
+    "temperature": 20.18,
+    "humidity": 33.93,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:37.909745+00:00"
+  },
+  {
+    "event_id": "befd0b74",
+    "sensor_id": "sensor-014",
+    "location": "gudang-A",
+    "temperature": 25.14,
+    "humidity": 79.72,
+    "status": "warning",
+    "event_time": "2024-04-15T08:03:39.707171+00:00"
+  },
+  {
+    "event_id": "d9eabf0f",
+    "sensor_id": "sensor-003",
+    "location": "gudang-B",
+    "temperature": 20.59,
+    "humidity": 73.01,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:41.177013+00:00"
+  },
+  {
+    "event_id": "03c70ac4",
+    "sensor_id": "sensor-002",
+    "location": "gudang-B",
+    "temperature": 39.86,
+    "humidity": 63.49,
+    "status": "critical",
+    "event_time": "2024-04-15T08:03:41.808294+00:00"
+  },
+  {
+    "event_id": "cfe86816",
+    "sensor_id": "sensor-009",
+    "location": "lantai-2",
+    "temperature": 29.7,
+    "humidity": 67.81,
+    "status": "warning",
+    "event_time": "2024-04-15T08:03:43.540723+00:00"
+  },
+  {
+    "event_id": "48c8a894",
+    "sensor_id": "sensor-013",
+    "location": "gudang-A",
+    "temperature": 33.37,
+    "humidity": 68.49,
+    "status": "critical",
+    "event_time": "2024-04-15T08:03:44.515329+00:00"
+  },
+  {
+    "event_id": "b55e74da",
+    "sensor_id": "sensor-019",
+    "location": "gudang-A",
+    "temperature": 37.52,
+    "humidity": 34.36,
+    "status": "critical",
+    "event_time": "2024-04-15T08:03:45.110185+00:00"
+  },
+  {
+    "event_id": "9a4850b3",
+    "sensor_id": "sensor-010",
+    "location": "parkir",
+    "temperature": 22.16,
+    "humidity": 75.92,
+    "status": "warning",
+    "event_time": "2024-04-15T08:03:45.769388+00:00"
+  },
+  {
+    "event_id": "0147f79e",
+    "sensor_id": "sensor-001",
+    "location": "lantai-2",
+    "temperature": 23.91,
+    "humidity": 43.19,
+    "status": "warning",
+    "event_time": "2024-04-15T08:03:46.841508+00:00"
+  },
+  {
+    "event_id": "d88b7387",
+    "sensor_id": "sensor-018",
+    "location": "lantai-1",
+    "temperature": 44.0,
+    "humidity": 38.64,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:48.536664+00:00"
+  },
+  {
+    "event_id": "1c2ba76d",
+    "sensor_id": "sensor-001",
+    "location": "parkir",
+    "temperature": 41.87,
+    "humidity": 38.48,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:50.472751+00:00"
+  },
+  {
+    "event_id": "288ef16a",
+    "sensor_id": "sensor-020",
+    "location": "lantai-2",
+    "temperature": 33.43,
+    "humidity": 86.82,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:50.980296+00:00"
+  },
+  {
+    "event_id": "ed208b27",
+    "sensor_id": "sensor-012",
+    "location": "gudang-B",
+    "temperature": 30.32,
+    "humidity": 68.76,
+    "status": "critical",
+    "event_time": "2024-04-15T08:03:51.795375+00:00"
+  },
+  {
+    "event_id": "a9e329f6",
+    "sensor_id": "sensor-006",
+    "location": "gudang-B",
+    "temperature": 35.42,
+    "humidity": 45.16,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:52.509058+00:00"
+  },
+  {
+    "event_id": "78ade004",
+    "sensor_id": "sensor-019",
+    "location": "gudang-A",
+    "temperature": 41.28,
+    "humidity": 85.94,
+    "status": "critical",
+    "event_time": "2024-04-15T08:03:53.281095+00:00"
+  },
+  {
+    "event_id": "a57ed07f",
+    "sensor_id": "sensor-018",
+    "location": "gudang-A",
+    "temperature": 27.27,
+    "humidity": 34.04,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:54.472993+00:00"
+  },
+  {
+    "event_id": "c8fd728d",
+    "sensor_id": "sensor-019",
+    "location": "lantai-2",
+    "temperature": 43.79,
+    "humidity": 51.43,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:55.269119+00:00"
+  },
+  {
+    "event_id": "85be61aa",
+    "sensor_id": "sensor-020",
+    "location": "gudang-A",
+    "temperature": 42.5,
+    "humidity": 49.07,
+    "status": "warning",
+    "event_time": "2024-04-15T08:03:55.919187+00:00"
+  },
+  {
+    "event_id": "2c421ab9",
+    "sensor_id": "sensor-010",
+    "location": "parkir",
+    "temperature": 23.81,
+    "humidity": 64.01,
+    "status": "normal",
+    "event_time": "2024-04-15T08:03:56.911706+00:00"
+  },
+  {
+    "event_id": "5427c988",
+    "sensor_id": "sensor-006",
+    "location": "gudang-A",
+    "temperature": 27.83,
+    "humidity": 77.14,
+    "status": "warning",
+    "event_time": "2024-04-15T08:03:58.849694+00:00"
+  },
+  {
+    "event_id": "feda3a10",
+    "sensor_id": "sensor-012",
+    "location": "gudang-B",
+    "temperature": 36.99,
+    "humidity": 49.89,
+    "status": "warning",
+    "event_time": "2024-04-15T08:03:59.764714+00:00"
+  },
+  {
+    "event_id": "e20a8f0e",
+    "sensor_id": "sensor-012",
+    "location": "lantai-1",
+    "temperature": 32.17,
+    "humidity": 36.53,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:00.958987+00:00"
+  },
+  {
+    "event_id": "40588cb8",
+    "sensor_id": "sensor-009",
+    "location": "gudang-B",
+    "temperature": 42.28,
+    "humidity": 41.79,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:01.581948+00:00"
+  },
+  {
+    "event_id": "6f17bffe",
+    "sensor_id": "sensor-001",
+    "location": "parkir",
+    "temperature": 35.79,
+    "humidity": 78.76,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:03.173086+00:00"
+  },
+  {
+    "event_id": "043138e1",
+    "sensor_id": "sensor-019",
+    "location": "gudang-B",
+    "temperature": 42.66,
+    "humidity": 63.1,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:04.280788+00:00"
+  },
+  {
+    "event_id": "4761c4a2",
+    "sensor_id": "sensor-018",
+    "location": "lantai-2",
+    "temperature": 36.35,
+    "humidity": 38.92,
+    "status": "warning",
+    "event_time": "2024-04-15T08:04:06.121767+00:00"
+  },
+  {
+    "event_id": "04178a19",
+    "sensor_id": "sensor-019",
+    "location": "lantai-1",
+    "temperature": 23.35,
+    "humidity": 60.07,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:06.956727+00:00"
+  },
+  {
+    "event_id": "b6b1d534",
+    "sensor_id": "sensor-017",
+    "location": "gudang-A",
+    "temperature": 36.57,
+    "humidity": 80.88,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:08.051905+00:00"
+  },
+  {
+    "event_id": "218868e9",
+    "sensor_id": "sensor-017",
+    "location": "gudang-B",
+    "temperature": 31.16,
+    "humidity": 40.75,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:09.578147+00:00"
+  },
+  {
+    "event_id": "50ebe4dc",
+    "sensor_id": "sensor-005",
+    "location": "lantai-2",
+    "temperature": 43.48,
+    "humidity": 32.43,
+    "status": "warning",
+    "event_time": "2024-04-15T08:04:11.067267+00:00"
+  },
+  {
+    "event_id": "e0c62901",
+    "sensor_id": "sensor-009",
+    "location": "lantai-1",
+    "temperature": 25.85,
+    "humidity": 70.12,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:11.914892+00:00"
+  },
+  {
+    "event_id": "fa4b126b",
+    "sensor_id": "sensor-012",
+    "location": "lantai-2",
+    "temperature": 31.74,
+    "humidity": 57.28,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:13.776481+00:00"
+  },
+  {
+    "event_id": "adbb303b",
+    "sensor_id": "sensor-011",
+    "location": "gudang-A",
+    "temperature": 37.59,
+    "humidity": 61.28,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:14.336338+00:00"
+  },
+  {
+    "event_id": "76a6b72a",
+    "sensor_id": "sensor-009",
+    "location": "parkir",
+    "temperature": 33.61,
+    "humidity": 40.43,
+    "status": "warning",
+    "event_time": "2024-04-15T08:04:16.088646+00:00"
+  },
+  {
+    "event_id": "1b373354",
+    "sensor_id": "sensor-003",
+    "location": "parkir",
+    "temperature": 26.29,
+    "humidity": 88.36,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:17.136591+00:00"
+  },
+  {
+    "event_id": "1dc27605",
+    "sensor_id": "sensor-012",
+    "location": "lantai-1",
+    "temperature": 32.17,
+    "humidity": 58.93,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:18.411149+00:00"
+  },
+  {
+    "event_id": "755abd66",
+    "sensor_id": "sensor-005",
+    "location": "lantai-2",
+    "temperature": 24.14,
+    "humidity": 34.63,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:18.921046+00:00"
+  },
+  {
+    "event_id": "2bf8e279",
+    "sensor_id": "sensor-006",
+    "location": "gudang-B",
+    "temperature": 29.06,
+    "humidity": 73.04,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:19.738322+00:00"
+  },
+  {
+    "event_id": "4c206d0e",
+    "sensor_id": "sensor-014",
+    "location": "lantai-1",
+    "temperature": 38.01,
+    "humidity": 58.89,
+    "status": "warning",
+    "event_time": "2024-04-15T08:04:21.229986+00:00"
+  },
+  {
+    "event_id": "369f6fba",
+    "sensor_id": "sensor-019",
+    "location": "gudang-B",
+    "temperature": 36.18,
+    "humidity": 54.65,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:22.448518+00:00"
+  },
+  {
+    "event_id": "f47be29a",
+    "sensor_id": "sensor-019",
+    "location": "parkir",
+    "temperature": 24.03,
+    "humidity": 67.77,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:23.013234+00:00"
+  },
+  {
+    "event_id": "4a04e185",
+    "sensor_id": "sensor-005",
+    "location": "gudang-A",
+    "temperature": 24.16,
+    "humidity": 85.35,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:24.849431+00:00"
+  },
+  {
+    "event_id": "f6c0e7b8",
+    "sensor_id": "sensor-020",
+    "location": "parkir",
+    "temperature": 35.94,
+    "humidity": 82.71,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:26.786789+00:00"
+  },
+  {
+    "event_id": "da1b3521",
+    "sensor_id": "sensor-007",
+    "location": "lantai-2",
+    "temperature": 35.16,
+    "humidity": 58.28,
+    "status": "warning",
+    "event_time": "2024-04-15T08:04:28.707670+00:00"
+  },
+  {
+    "event_id": "96773a75",
+    "sensor_id": "sensor-014",
+    "location": "parkir",
+    "temperature": 23.57,
+    "humidity": 64.96,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:29.463520+00:00"
+  },
+  {
+    "event_id": "571d7b5b",
+    "sensor_id": "sensor-017",
+    "location": "lantai-1",
+    "temperature": 24.19,
+    "humidity": 71.14,
+    "status": "warning",
+    "event_time": "2024-04-15T08:04:30.898338+00:00"
+  },
+  {
+    "event_id": "04f79970",
+    "sensor_id": "sensor-003",
+    "location": "gudang-B",
+    "temperature": 29.46,
+    "humidity": 37.93,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:32.293138+00:00"
+  },
+  {
+    "event_id": "0e5b6781",
+    "sensor_id": "sensor-017",
+    "location": "lantai-2",
+    "temperature": 40.66,
+    "humidity": 66.33,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:33.096661+00:00"
+  },
+  {
+    "event_id": "0ecdd279",
+    "sensor_id": "sensor-020",
+    "location": "parkir",
+    "temperature": 20.98,
+    "humidity": 77.03,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:34.310465+00:00"
+  },
+  {
+    "event_id": "edd6a246",
+    "sensor_id": "sensor-003",
+    "location": "lantai-2",
+    "temperature": 36.48,
+    "humidity": 84.12,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:35.939040+00:00"
+  },
+  {
+    "event_id": "12ca1d98",
+    "sensor_id": "sensor-014",
+    "location": "parkir",
+    "temperature": 30.52,
+    "humidity": 82.49,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:37.680323+00:00"
+  },
+  {
+    "event_id": "d9837213",
+    "sensor_id": "sensor-016",
+    "location": "lantai-2",
+    "temperature": 28.76,
+    "humidity": 78.28,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:38.823757+00:00"
+  },
+  {
+    "event_id": "72973258",
+    "sensor_id": "sensor-005",
+    "location": "lantai-1",
+    "temperature": 31.93,
+    "humidity": 43.95,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:39.470332+00:00"
+  },
+  {
+    "event_id": "3ca2a177",
+    "sensor_id": "sensor-018",
+    "location": "lantai-2",
+    "temperature": 26.45,
+    "humidity": 30.33,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:40.395232+00:00"
+  },
+  {
+    "event_id": "676d11ca",
+    "sensor_id": "sensor-004",
+    "location": "parkir",
+    "temperature": 20.18,
+    "humidity": 69.27,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:41.762213+00:00"
+  },
+  {
+    "event_id": "4b49e836",
+    "sensor_id": "sensor-004",
+    "location": "gudang-B",
+    "temperature": 30.65,
+    "humidity": 65.12,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:42.875481+00:00"
+  },
+  {
+    "event_id": "2b18d3d9",
+    "sensor_id": "sensor-014",
+    "location": "parkir",
+    "temperature": 29.14,
+    "humidity": 46.53,
+    "status": "warning",
+    "event_time": "2024-04-15T08:04:44.657946+00:00"
+  },
+  {
+    "event_id": "65e9da0b",
+    "sensor_id": "sensor-014",
+    "location": "parkir",
+    "temperature": 39.59,
+    "humidity": 58.95,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:46.290404+00:00"
+  },
+  {
+    "event_id": "7f28e42d",
+    "sensor_id": "sensor-016",
+    "location": "lantai-1",
+    "temperature": 44.71,
+    "humidity": 64.66,
+    "status": "warning",
+    "event_time": "2024-04-15T08:04:47.629045+00:00"
+  },
+  {
+    "event_id": "ae4de781",
+    "sensor_id": "sensor-004",
+    "location": "gudang-B",
+    "temperature": 31.16,
+    "humidity": 71.96,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:49.232719+00:00"
+  },
+  {
+    "event_id": "876741c1",
+    "sensor_id": "sensor-017",
+    "location": "lantai-2",
+    "temperature": 39.65,
+    "humidity": 78.05,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:49.883137+00:00"
+  },
+  {
+    "event_id": "9c3c4e1e",
+    "sensor_id": "sensor-002",
+    "location": "gudang-B",
+    "temperature": 29.73,
+    "humidity": 68.15,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:51.428723+00:00"
+  },
+  {
+    "event_id": "2ca2d6cf",
+    "sensor_id": "sensor-016",
+    "location": "parkir",
+    "temperature": 30.88,
+    "humidity": 33.84,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:53.163606+00:00"
+  },
+  {
+    "event_id": "f9f25ff7",
+    "sensor_id": "sensor-020",
+    "location": "gudang-A",
+    "temperature": 38.11,
+    "humidity": 85.84,
+    "status": "warning",
+    "event_time": "2024-04-15T08:04:54.219859+00:00"
+  },
+  {
+    "event_id": "56226620",
+    "sensor_id": "sensor-017",
+    "location": "lantai-1",
+    "temperature": 37.79,
+    "humidity": 65.85,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:55.640807+00:00"
+  },
+  {
+    "event_id": "4d868c7c",
+    "sensor_id": "sensor-015",
+    "location": "gudang-A",
+    "temperature": 25.04,
+    "humidity": 69.41,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:57.101244+00:00"
+  },
+  {
+    "event_id": "b456c8d4",
+    "sensor_id": "sensor-002",
+    "location": "parkir",
+    "temperature": 32.76,
+    "humidity": 71.91,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:58.030254+00:00"
+  },
+  {
+    "event_id": "bdb13379",
+    "sensor_id": "sensor-002",
+    "location": "lantai-1",
+    "temperature": 25.98,
+    "humidity": 30.02,
+    "status": "normal",
+    "event_time": "2024-04-15T08:04:58.784478+00:00"
+  },
+  {
+    "event_id": "2b31d85c",
+    "sensor_id": "sensor-009",
+    "location": "lantai-2",
+    "temperature": 28.83,
+    "humidity": 53.71,
+    "status": "critical",
+    "event_time": "2024-04-15T08:04:59.414742+00:00"
+  },
+  {
+    "event_id": "459eae56",
+    "sensor_id": "sensor-001",
+    "location": "gudang-A",
+    "temperature": 42.98,
+    "humidity": 62.98,
+    "status": "critical",
+    "event_time": "2024-04-15T08:05:00.215208+00:00"
+  },
+  {
+    "event_id": "9ffa536c",
+    "sensor_id": "sensor-012",
+    "location": "lantai-1",
+    "temperature": 44.08,
+    "humidity": 46.59,
+    "status": "critical",
+    "event_time": "2024-04-15T08:05:02.087721+00:00"
+  },
+  {
+    "event_id": "10460c90",
+    "sensor_id": "sensor-015",
+    "location": "lantai-2",
+    "temperature": 34.37,
+    "humidity": 45.67,
+    "status": "warning",
+    "event_time": "2024-04-15T08:05:04.032307+00:00"
+  },
+  {
+    "event_id": "187cb2f5",
+    "sensor_id": "sensor-018",
+    "location": "gudang-A",
+    "temperature": 32.58,
+    "humidity": 50.4,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:05.291664+00:00"
+  },
+  {
+    "event_id": "07f3b181",
+    "sensor_id": "sensor-009",
+    "location": "parkir",
+    "temperature": 40.33,
+    "humidity": 64.49,
+    "status": "warning",
+    "event_time": "2024-04-15T08:05:06.996077+00:00"
+  },
+  {
+    "event_id": "5a6c3141",
+    "sensor_id": "sensor-019",
+    "location": "lantai-2",
+    "temperature": 39.25,
+    "humidity": 75.45,
+    "status": "warning",
+    "event_time": "2024-04-15T08:05:08.945160+00:00"
+  },
+  {
+    "event_id": "8ef663c2",
+    "sensor_id": "sensor-019",
+    "location": "gudang-A",
+    "temperature": 32.05,
+    "humidity": 45.47,
+    "status": "warning",
+    "event_time": "2024-04-15T08:05:10.467552+00:00"
+  },
+  {
+    "event_id": "5bd2d5e9",
+    "sensor_id": "sensor-008",
+    "location": "gudang-B",
+    "temperature": 40.0,
+    "humidity": 54.75,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:11.918045+00:00"
+  },
+  {
+    "event_id": "c8ce5b9d",
+    "sensor_id": "sensor-001",
+    "location": "lantai-1",
+    "temperature": 26.21,
+    "humidity": 35.58,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:13.192801+00:00"
+  },
+  {
+    "event_id": "f0fb5c59",
+    "sensor_id": "sensor-006",
+    "location": "lantai-2",
+    "temperature": 27.85,
+    "humidity": 43.11,
+    "status": "critical",
+    "event_time": "2024-04-15T08:05:13.806844+00:00"
+  },
+  {
+    "event_id": "fa3147ac",
+    "sensor_id": "sensor-007",
+    "location": "lantai-2",
+    "temperature": 38.43,
+    "humidity": 44.09,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:14.710458+00:00"
+  },
+  {
+    "event_id": "82165b37",
+    "sensor_id": "sensor-007",
+    "location": "gudang-B",
+    "temperature": 25.07,
+    "humidity": 44.98,
+    "status": "critical",
+    "event_time": "2024-04-15T08:05:16.519572+00:00"
+  },
+  {
+    "event_id": "aadb8f0c",
+    "sensor_id": "sensor-004",
+    "location": "gudang-A",
+    "temperature": 43.0,
+    "humidity": 70.55,
+    "status": "warning",
+    "event_time": "2024-04-15T08:05:17.553613+00:00"
+  },
+  {
+    "event_id": "9a393950",
+    "sensor_id": "sensor-018",
+    "location": "gudang-A",
+    "temperature": 41.2,
+    "humidity": 52.27,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:18.974353+00:00"
+  },
+  {
+    "event_id": "570cf4ac",
+    "sensor_id": "sensor-019",
+    "location": "lantai-1",
+    "temperature": 32.27,
+    "humidity": 89.06,
+    "status": "critical",
+    "event_time": "2024-04-15T08:05:20.212864+00:00"
+  },
+  {
+    "event_id": "6f2abd00",
+    "sensor_id": "sensor-008",
+    "location": "parkir",
+    "temperature": 23.21,
+    "humidity": 61.54,
+    "status": "warning",
+    "event_time": "2024-04-15T08:05:21.133264+00:00"
+  },
+  {
+    "event_id": "4f1a1790",
+    "sensor_id": "sensor-018",
+    "location": "gudang-A",
+    "temperature": 32.56,
+    "humidity": 53.62,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:22.350744+00:00"
+  },
+  {
+    "event_id": "e0108cde",
+    "sensor_id": "sensor-004",
+    "location": "parkir",
+    "temperature": 31.5,
+    "humidity": 71.35,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:23.536538+00:00"
+  },
+  {
+    "event_id": "b0720a53",
+    "sensor_id": "sensor-013",
+    "location": "parkir",
+    "temperature": 22.52,
+    "humidity": 51.7,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:25.047693+00:00"
+  },
+  {
+    "event_id": "f633346a",
+    "sensor_id": "sensor-009",
+    "location": "gudang-B",
+    "temperature": 26.74,
+    "humidity": 87.51,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:25.828422+00:00"
+  },
+  {
+    "event_id": "6469e629",
+    "sensor_id": "sensor-016",
+    "location": "lantai-2",
+    "temperature": 25.26,
+    "humidity": 72.04,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:26.877308+00:00"
+  },
+  {
+    "event_id": "4fe44d1e",
+    "sensor_id": "sensor-013",
+    "location": "lantai-1",
+    "temperature": 31.27,
+    "humidity": 64.28,
+    "status": "critical",
+    "event_time": "2024-04-15T08:05:27.924925+00:00"
+  },
+  {
+    "event_id": "a517a003",
+    "sensor_id": "sensor-004",
+    "location": "lantai-1",
+    "temperature": 40.1,
+    "humidity": 63.32,
+    "status": "warning",
+    "event_time": "2024-04-15T08:05:29.453943+00:00"
+  },
+  {
+    "event_id": "6b81062f",
+    "sensor_id": "sensor-005",
+    "location": "lantai-2",
+    "temperature": 40.14,
+    "humidity": 40.6,
+    "status": "warning",
+    "event_time": "2024-04-15T08:05:30.248038+00:00"
+  },
+  {
+    "event_id": "43234f74",
+    "sensor_id": "sensor-017",
+    "location": "parkir",
+    "temperature": 38.01,
+    "humidity": 77.12,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:30.949746+00:00"
+  },
+  {
+    "event_id": "4af76875",
+    "sensor_id": "sensor-019",
+    "location": "gudang-A",
+    "temperature": 29.96,
+    "humidity": 71.43,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:31.826207+00:00"
+  },
+  {
+    "event_id": "5ee1e324",
+    "sensor_id": "sensor-009",
+    "location": "lantai-2",
+    "temperature": 40.97,
+    "humidity": 35.78,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:32.649408+00:00"
+  },
+  {
+    "event_id": "a5dc318d",
+    "sensor_id": "sensor-012",
+    "location": "parkir",
+    "temperature": 33.94,
+    "humidity": 78.6,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:33.539062+00:00"
+  },
+  {
+    "event_id": "3b968ee7",
+    "sensor_id": "sensor-004",
+    "location": "lantai-1",
+    "temperature": 41.68,
+    "humidity": 87.79,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:34.068815+00:00"
+  },
+  {
+    "event_id": "915fe5ee",
+    "sensor_id": "sensor-018",
+    "location": "gudang-B",
+    "temperature": 44.48,
+    "humidity": 47.08,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:35.434096+00:00"
+  },
+  {
+    "event_id": "66f75792",
+    "sensor_id": "sensor-016",
+    "location": "lantai-2",
+    "temperature": 42.24,
+    "humidity": 52.86,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:36.943885+00:00"
+  },
+  {
+    "event_id": "4fc7b670",
+    "sensor_id": "sensor-005",
+    "location": "gudang-B",
+    "temperature": 36.01,
+    "humidity": 85.71,
+    "status": "warning",
+    "event_time": "2024-04-15T08:05:38.139513+00:00"
+  },
+  {
+    "event_id": "a354090d",
+    "sensor_id": "sensor-019",
+    "location": "lantai-2",
+    "temperature": 41.22,
+    "humidity": 34.28,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:39.586423+00:00"
+  },
+  {
+    "event_id": "321d4b60",
+    "sensor_id": "sensor-011",
+    "location": "lantai-1",
+    "temperature": 36.33,
+    "humidity": 72.63,
+    "status": "critical",
+    "event_time": "2024-04-15T08:05:40.601861+00:00"
+  },
+  {
+    "event_id": "7a47685f",
+    "sensor_id": "sensor-009",
+    "location": "lantai-2",
+    "temperature": 39.52,
+    "humidity": 86.33,
+    "status": "critical",
+    "event_time": "2024-04-15T08:05:42.068827+00:00"
+  },
+  {
+    "event_id": "86adcdb8",
+    "sensor_id": "sensor-015",
+    "location": "lantai-2",
+    "temperature": 24.18,
+    "humidity": 81.25,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:43.350231+00:00"
+  },
+  {
+    "event_id": "b8b5e91c",
+    "sensor_id": "sensor-009",
+    "location": "gudang-A",
+    "temperature": 25.26,
+    "humidity": 53.82,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:44.941890+00:00"
+  },
+  {
+    "event_id": "118ba47f",
+    "sensor_id": "sensor-016",
+    "location": "parkir",
+    "temperature": 21.35,
+    "humidity": 76.26,
+    "status": "critical",
+    "event_time": "2024-04-15T08:05:45.537579+00:00"
+  },
+  {
+    "event_id": "8a25500c",
+    "sensor_id": "sensor-003",
+    "location": "gudang-A",
+    "temperature": 26.56,
+    "humidity": 39.32,
+    "status": "warning",
+    "event_time": "2024-04-15T08:05:47.185074+00:00"
+  },
+  {
+    "event_id": "20035edb",
+    "sensor_id": "sensor-008",
+    "location": "lantai-1",
+    "temperature": 31.08,
+    "humidity": 37.58,
+    "status": "critical",
+    "event_time": "2024-04-15T08:05:48.149130+00:00"
+  },
+  {
+    "event_id": "26665c2d",
+    "sensor_id": "sensor-001",
+    "location": "gudang-A",
+    "temperature": 36.59,
+    "humidity": 81.62,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:49.906907+00:00"
+  },
+  {
+    "event_id": "b595661b",
+    "sensor_id": "sensor-015",
+    "location": "parkir",
+    "temperature": 43.37,
+    "humidity": 62.91,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:51.703269+00:00"
+  },
+  {
+    "event_id": "f0972659",
+    "sensor_id": "sensor-018",
+    "location": "gudang-B",
+    "temperature": 34.77,
+    "humidity": 57.39,
+    "status": "critical",
+    "event_time": "2024-04-15T08:05:53.657582+00:00"
+  },
+  {
+    "event_id": "261d0c09",
+    "sensor_id": "sensor-018",
+    "location": "lantai-1",
+    "temperature": 42.72,
+    "humidity": 58.9,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:54.810048+00:00"
+  },
+  {
+    "event_id": "1517b8fc",
+    "sensor_id": "sensor-015",
+    "location": "lantai-1",
+    "temperature": 29.14,
+    "humidity": 45.59,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:56.517110+00:00"
+  },
+  {
+    "event_id": "86da505d",
+    "sensor_id": "sensor-017",
+    "location": "gudang-B",
+    "temperature": 28.6,
+    "humidity": 58.15,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:57.032944+00:00"
+  },
+  {
+    "event_id": "4e682045",
+    "sensor_id": "sensor-016",
+    "location": "lantai-2",
+    "temperature": 27.49,
+    "humidity": 75.95,
+    "status": "normal",
+    "event_time": "2024-04-15T08:05:58.564599+00:00"
+  },
+  {
+    "event_id": "9ff50d6d",
+    "sensor_id": "sensor-001",
+    "location": "parkir",
+    "temperature": 29.34,
+    "humidity": 54.7,
+    "status": "critical",
+    "event_time": "2024-04-15T08:05:59.960105+00:00"
+  },
+  {
+    "event_id": "69208e17",
+    "sensor_id": "sensor-008",
+    "location": "gudang-B",
+    "temperature": 37.87,
+    "humidity": 68.76,
+    "status": "warning",
+    "event_time": "2024-04-15T08:06:01.115765+00:00"
+  },
+  {
+    "event_id": "9361136a",
+    "sensor_id": "sensor-003",
+    "location": "lantai-2",
+    "temperature": 35.63,
+    "humidity": 61.0,
+    "status": "critical",
+    "event_time": "2024-04-15T08:06:01.946654+00:00"
+  },
+  {
+    "event_id": "4d205218",
+    "sensor_id": "sensor-009",
+    "location": "lantai-1",
+    "temperature": 36.21,
+    "humidity": 61.92,
+    "status": "normal",
+    "event_time": "2024-04-15T08:06:03.658016+00:00"
+  },
+  {
+    "event_id": "aad6e5d0",
+    "sensor_id": "sensor-003",
+    "location": "gudang-B",
+    "temperature": 23.42,
+    "humidity": 36.62,
+    "status": "warning",
+    "event_time": "2024-04-15T08:06:04.777372+00:00"
+  },
+  {
+    "event_id": "e53a580b",
+    "sensor_id": "sensor-009",
+    "location": "parkir",
+    "temperature": 32.3,
+    "humidity": 49.24,
+    "status": "normal",
+    "event_time": "2024-04-15T08:06:06.203966+00:00"
+  },
+  {
+    "event_id": "f53bfce2",
+    "sensor_id": "sensor-018",
+    "location": "gudang-A",
+    "temperature": 24.65,
+    "humidity": 36.14,
+    "status": "normal",
+    "event_time": "2024-04-15T08:06:06.778414+00:00"
+  },
+  {
+    "event_id": "9b5f5373",
+    "sensor_id": "sensor-015",
+    "location": "gudang-A",
+    "temperature": 25.82,
+    "humidity": 39.04,
+    "status": "warning",
+    "event_time": "2024-04-15T08:06:07.465973+00:00"
+  }
+]

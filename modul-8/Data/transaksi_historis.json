@@ -1,0 +1,4002 @@
+[
+  {
+    "event_id": "1110549d",
+    "user_id": "usr-0007",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 821643.94,
+    "event_time": "2024-04-15T08:00:00+00:00"
+  },
+  {
+    "event_id": "ea2f3c72",
+    "user_id": "usr-0043",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 2675357.99,
+    "event_time": "2024-04-15T08:00:00.726325+00:00"
+  },
+  {
+    "event_id": "902ae964",
+    "user_id": "usr-0030",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 3426225.11,
+    "event_time": "2024-04-15T08:00:01.320098+00:00"
+  },
+  {
+    "event_id": "0c4d32a3",
+    "user_id": "usr-0050",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 2011812.29,
+    "event_time": "2024-04-15T08:00:02.631520+00:00"
+  },
+  {
+    "event_id": "ca54c8bf",
+    "user_id": "usr-0037",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 3280638.94,
+    "event_time": "2024-04-15T08:00:03.010946+00:00"
+  },
+  {
+    "event_id": "9aa8585c",
+    "user_id": "usr-0042",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 1240671.26,
+    "event_time": "2024-04-15T08:00:03.785704+00:00"
+  },
+  {
+    "event_id": "a397c701",
+    "user_id": "usr-0017",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 1816362.25,
+    "event_time": "2024-04-15T08:00:04.759346+00:00"
+  },
+  {
+    "event_id": "16d94267",
+    "user_id": "usr-0009",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 4306903.52,
+    "event_time": "2024-04-15T08:00:06.256137+00:00"
+  },
+  {
+    "event_id": "e5321b67",
+    "user_id": "usr-0011",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 1929988.89,
+    "event_time": "2024-04-15T08:00:06.739547+00:00"
+  },
+  {
+    "event_id": "85d50d64",
+    "user_id": "usr-0030",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 3404614.22,
+    "event_time": "2024-04-15T08:00:07.754613+00:00"
+  },
+  {
+    "event_id": "76f1b51d",
+    "user_id": "usr-0035",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 1474565.64,
+    "event_time": "2024-04-15T08:00:08.192075+00:00"
+  },
+  {
+    "event_id": "cea07f88",
+    "user_id": "usr-0001",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 2543331.56,
+    "event_time": "2024-04-15T08:00:08.681864+00:00"
+  },
+  {
+    "event_id": "da7acbd1",
+    "user_id": "usr-0041",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 772667.95,
+    "event_time": "2024-04-15T08:00:09.109557+00:00"
+  },
+  {
+    "event_id": "3003005b",
+    "user_id": "usr-0035",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 2998733.48,
+    "event_time": "2024-04-15T08:00:10.324570+00:00"
+  },
+  {
+    "event_id": "f19f7461",
+    "user_id": "usr-0008",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 299046.58,
+    "event_time": "2024-04-15T08:00:11.210897+00:00"
+  },
+  {
+    "event_id": "e6e2dd18",
+    "user_id": "usr-0006",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 4890142.62,
+    "event_time": "2024-04-15T08:00:12.564509+00:00"
+  },
+  {
+    "event_id": "63b2cf52",
+    "user_id": "usr-0009",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 1332632.58,
+    "event_time": "2024-04-15T08:00:13.503756+00:00"
+  },
+  {
+    "event_id": "2fb6b2d2",
+    "user_id": "usr-0028",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 3567615.37,
+    "event_time": "2024-04-15T08:00:14.850676+00:00"
+  },
+  {
+    "event_id": "d2d32225",
+    "user_id": "usr-0043",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 613810.94,
+    "event_time": "2024-04-15T08:00:15.629467+00:00"
+  },
+  {
+    "event_id": "6e2e0e4c",
+    "user_id": "usr-0022",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 45882.29,
+    "event_time": "2024-04-15T07:57:25.199104+00:00"
+  },
+  {
+    "event_id": "d633d2c3",
+    "user_id": "usr-0004",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 363578.18,
+    "event_time": "2024-04-15T08:00:17.348513+00:00"
+  },
+  {
+    "event_id": "dc902dc7",
+    "user_id": "usr-0043",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 3619529.3,
+    "event_time": "2024-04-15T08:00:17.934119+00:00"
+  },
+  {
+    "event_id": "9046176e",
+    "user_id": "usr-0037",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 960145.47,
+    "event_time": "2024-04-15T08:00:19.292979+00:00"
+  },
+  {
+    "event_id": "4f525fe6",
+    "user_id": "usr-0028",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 4320545.37,
+    "event_time": "2024-04-15T08:00:19.709296+00:00"
+  },
+  {
+    "event_id": "0b3ff4af",
+    "user_id": "usr-0042",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 2019080.2,
+    "event_time": "2024-04-15T08:00:20.074301+00:00"
+  },
+  {
+    "event_id": "b8359f37",
+    "user_id": "usr-0007",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 709509.66,
+    "event_time": "2024-04-15T08:00:20.781464+00:00"
+  },
+  {
+    "event_id": "b50177b3",
+    "user_id": "usr-0030",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 4042031.0,
+    "event_time": "2024-04-15T08:00:21.301650+00:00"
+  },
+  {
+    "event_id": "bd299b93",
+    "user_id": "usr-0007",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 4845291.32,
+    "event_time": "2024-04-15T08:00:22.628810+00:00"
+  },
+  {
+    "event_id": "dc9f9500",
+    "user_id": "usr-0016",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 1076599.02,
+    "event_time": "2024-04-15T08:00:24.040450+00:00"
+  },
+  {
+    "event_id": "08b4f5b3",
+    "user_id": "usr-0004",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 1333363.26,
+    "event_time": "2024-04-15T08:00:24.821698+00:00"
+  },
+  {
+    "event_id": "f9ed77b9",
+    "user_id": "usr-0030",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 782436.16,
+    "event_time": "2024-04-15T08:00:26.062583+00:00"
+  },
+  {
+    "event_id": "e0b89f2f",
+    "user_id": "usr-0004",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 3742398.05,
+    "event_time": "2024-04-15T08:00:26.718632+00:00"
+  },
+  {
+    "event_id": "4bf6539c",
+    "user_id": "usr-0038",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 293829.1,
+    "event_time": "2024-04-15T08:00:27.087230+00:00"
+  },
+  {
+    "event_id": "b5be9bef",
+    "user_id": "usr-0012",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 2024840.0,
+    "event_time": "2024-04-15T08:00:27.996624+00:00"
+  },
+  {
+    "event_id": "050acac9",
+    "user_id": "usr-0037",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 3100713.74,
+    "event_time": "2024-04-15T08:00:29.426539+00:00"
+  },
+  {
+    "event_id": "80bfa4c3",
+    "user_id": "usr-0038",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 1029253.41,
+    "event_time": "2024-04-15T08:00:30.229609+00:00"
+  },
+  {
+    "event_id": "859376c5",
+    "user_id": "usr-0016",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 2291550.62,
+    "event_time": "2024-04-15T08:00:31.389039+00:00"
+  },
+  {
+    "event_id": "8c1d66e9",
+    "user_id": "usr-0005",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 2692795.68,
+    "event_time": "2024-04-15T07:57:38.803861+00:00"
+  },
+  {
+    "event_id": "9087d1b8",
+    "user_id": "usr-0009",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 1853940.17,
+    "event_time": "2024-04-15T08:00:33.710923+00:00"
+  },
+  {
+    "event_id": "90a7257b",
+    "user_id": "usr-0035",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 3342637.39,
+    "event_time": "2024-04-15T08:00:34.200219+00:00"
+  },
+  {
+    "event_id": "1f432a5c",
+    "user_id": "usr-0043",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 585989.07,
+    "event_time": "2024-04-15T08:00:35.165742+00:00"
+  },
+  {
+    "event_id": "572220fb",
+    "user_id": "usr-0036",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 3590884.81,
+    "event_time": "2024-04-15T08:00:35.594185+00:00"
+  },
+  {
+    "event_id": "c191916b",
+    "user_id": "usr-0041",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 1263095.05,
+    "event_time": "2024-04-15T08:00:36.138502+00:00"
+  },
+  {
+    "event_id": "334e0b0b",
+    "user_id": "usr-0004",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 229992.94,
+    "event_time": "2024-04-15T08:00:37.528293+00:00"
+  },
+  {
+    "event_id": "ba527584",
+    "user_id": "usr-0009",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 3708742.23,
+    "event_time": "2024-04-15T08:00:38.228561+00:00"
+  },
+  {
+    "event_id": "89b40db4",
+    "user_id": "usr-0028",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 4725804.19,
+    "event_time": "2024-04-15T08:00:39.190578+00:00"
+  },
+  {
+    "event_id": "a08b678e",
+    "user_id": "usr-0010",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 2154635.7,
+    "event_time": "2024-04-15T08:00:40.319802+00:00"
+  },
+  {
+    "event_id": "cc424e25",
+    "user_id": "usr-0024",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 1058281.93,
+    "event_time": "2024-04-15T08:00:40.669997+00:00"
+  },
+  {
+    "event_id": "9df557e4",
+    "user_id": "usr-0007",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 4869446.74,
+    "event_time": "2024-04-15T08:00:41.269433+00:00"
+  },
+  {
+    "event_id": "d0ec1bc9",
+    "user_id": "usr-0016",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 133683.95,
+    "event_time": "2024-04-15T08:00:42.468806+00:00"
+  },
+  {
+    "event_id": "db9bdb89",
+    "user_id": "usr-0022",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 1341360.49,
+    "event_time": "2024-04-15T08:00:43.652683+00:00"
+  },
+  {
+    "event_id": "af989c1e",
+    "user_id": "usr-0007",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 1119944.25,
+    "event_time": "2024-04-15T08:00:44.897532+00:00"
+  },
+  {
+    "event_id": "855dc1c1",
+    "user_id": "usr-0030",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 128085.53,
+    "event_time": "2024-04-15T08:00:46.177436+00:00"
+  },
+  {
+    "event_id": "debca35f",
+    "user_id": "usr-0022",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 1762219.18,
+    "event_time": "2024-04-15T08:00:46.709192+00:00"
+  },
+  {
+    "event_id": "21249eef",
+    "user_id": "usr-0044",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 4696793.33,
+    "event_time": "2024-04-15T08:00:47.620479+00:00"
+  },
+  {
+    "event_id": "78acf407",
+    "user_id": "usr-0017",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 550928.71,
+    "event_time": "2024-04-15T08:00:48.058889+00:00"
+  },
+  {
+    "event_id": "1498fe83",
+    "user_id": "usr-0047",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 1932125.21,
+    "event_time": "2024-04-15T08:00:48.880366+00:00"
+  },
+  {
+    "event_id": "f53e0e5f",
+    "user_id": "usr-0017",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 1827465.14,
+    "event_time": "2024-04-15T07:58:28.872272+00:00"
+  },
+  {
+    "event_id": "7d728a6d",
+    "user_id": "usr-0043",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 3320303.51,
+    "event_time": "2024-04-15T08:00:50.256241+00:00"
+  },
+  {
+    "event_id": "8085566a",
+    "user_id": "usr-0020",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 2017977.93,
+    "event_time": "2024-04-15T08:00:50.705791+00:00"
+  },
+  {
+    "event_id": "56486493",
+    "user_id": "usr-0009",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 3081419.43,
+    "event_time": "2024-04-15T08:00:51.360577+00:00"
+  },
+  {
+    "event_id": "8eb62a32",
+    "user_id": "usr-0036",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 1058811.6,
+    "event_time": "2024-04-15T08:00:52.021717+00:00"
+  },
+  {
+    "event_id": "a5d19845",
+    "user_id": "usr-0039",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 2216377.4,
+    "event_time": "2024-04-15T08:00:53.264628+00:00"
+  },
+  {
+    "event_id": "350af77d",
+    "user_id": "usr-0031",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 1426094.16,
+    "event_time": "2024-04-15T08:00:53.821070+00:00"
+  },
+  {
+    "event_id": "392767e0",
+    "user_id": "usr-0040",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 1130956.92,
+    "event_time": "2024-04-15T08:00:54.917695+00:00"
+  },
+  {
+    "event_id": "0b157743",
+    "user_id": "usr-0002",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 2282526.68,
+    "event_time": "2024-04-15T07:58:24.456651+00:00"
+  },
+  {
+    "event_id": "b06ad1f3",
+    "user_id": "usr-0037",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 2004267.79,
+    "event_time": "2024-04-15T08:00:56.820015+00:00"
+  },
+  {
+    "event_id": "9853ef39",
+    "user_id": "usr-0045",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 887674.54,
+    "event_time": "2024-04-15T08:00:00.297101+00:00"
+  },
+  {
+    "event_id": "3b336b4c",
+    "user_id": "usr-0034",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 4588175.37,
+    "event_time": "2024-04-15T08:00:58.746660+00:00"
+  },
+  {
+    "event_id": "669c3172",
+    "user_id": "usr-0009",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 4750697.65,
+    "event_time": "2024-04-15T08:00:59.192290+00:00"
+  },
+  {
+    "event_id": "ba29d946",
+    "user_id": "usr-0040",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 4154540.16,
+    "event_time": "2024-04-15T08:01:00.562001+00:00"
+  },
+  {
+    "event_id": "d5ce0a3e",
+    "user_id": "usr-0011",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 1303365.83,
+    "event_time": "2024-04-15T08:01:01.519447+00:00"
+  },
+  {
+    "event_id": "25db0379",
+    "user_id": "usr-0041",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 3137474.7,
+    "event_time": "2024-04-15T08:01:02.116135+00:00"
+  },
+  {
+    "event_id": "ad0b746c",
+    "user_id": "usr-0005",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 1685879.21,
+    "event_time": "2024-04-15T08:01:02.745652+00:00"
+  },
+  {
+    "event_id": "9c220e93",
+    "user_id": "usr-0006",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 3472809.56,
+    "event_time": "2024-04-15T08:01:04.117284+00:00"
+  },
+  {
+    "event_id": "c9d586bd",
+    "user_id": "usr-0005",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 2084713.43,
+    "event_time": "2024-04-15T08:01:05.264987+00:00"
+  },
+  {
+    "event_id": "87742187",
+    "user_id": "usr-0027",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 4285092.84,
+    "event_time": "2024-04-15T08:01:05.813188+00:00"
+  },
+  {
+    "event_id": "fd493f59",
+    "user_id": "usr-0025",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 3769840.87,
+    "event_time": "2024-04-15T08:01:07.031901+00:00"
+  },
+  {
+    "event_id": "02879b8f",
+    "user_id": "usr-0027",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 2446265.09,
+    "event_time": "2024-04-15T08:01:08.356039+00:00"
+  },
+  {
+    "event_id": "d062f2db",
+    "user_id": "usr-0032",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 4204123.26,
+    "event_time": "2024-04-15T07:59:12.983561+00:00"
+  },
+  {
+    "event_id": "ced24d90",
+    "user_id": "usr-0040",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 428897.84,
+    "event_time": "2024-04-15T08:01:10.387011+00:00"
+  },
+  {
+    "event_id": "15940238",
+    "user_id": "usr-0030",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 1643489.81,
+    "event_time": "2024-04-15T08:01:11.201346+00:00"
+  },
+  {
+    "event_id": "4d4f75d0",
+    "user_id": "usr-0022",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 3762529.02,
+    "event_time": "2024-04-15T08:01:12.046985+00:00"
+  },
+  {
+    "event_id": "4804dc93",
+    "user_id": "usr-0017",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 3747631.06,
+    "event_time": "2024-04-15T08:01:13.345294+00:00"
+  },
+  {
+    "event_id": "ac62feea",
+    "user_id": "usr-0023",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 3773623.69,
+    "event_time": "2024-04-15T08:01:13.707797+00:00"
+  },
+  {
+    "event_id": "d8a6acd4",
+    "user_id": "usr-0013",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 1200339.26,
+    "event_time": "2024-04-15T08:01:15.147331+00:00"
+  },
+  {
+    "event_id": "cf5a79d0",
+    "user_id": "usr-0008",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 3500330.21,
+    "event_time": "2024-04-15T08:01:16.015604+00:00"
+  },
+  {
+    "event_id": "e78fb8fb",
+    "user_id": "usr-0011",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 4823956.66,
+    "event_time": "2024-04-15T08:01:17.235882+00:00"
+  },
+  {
+    "event_id": "a979dfb6",
+    "user_id": "usr-0002",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 1989305.66,
+    "event_time": "2024-04-15T08:01:17.665600+00:00"
+  },
+  {
+    "event_id": "03eacd83",
+    "user_id": "usr-0005",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 3488993.08,
+    "event_time": "2024-04-15T08:01:18.823618+00:00"
+  },
+  {
+    "event_id": "1314be75",
+    "user_id": "usr-0044",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 1742546.79,
+    "event_time": "2024-04-15T08:01:19.485517+00:00"
+  },
+  {
+    "event_id": "1b26479c",
+    "user_id": "usr-0024",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 4249382.38,
+    "event_time": "2024-04-15T08:01:20.299571+00:00"
+  },
+  {
+    "event_id": "17345265",
+    "user_id": "usr-0007",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 3539470.13,
+    "event_time": "2024-04-15T08:01:21.586368+00:00"
+  },
+  {
+    "event_id": "4f2c2a99",
+    "user_id": "usr-0047",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 2329720.12,
+    "event_time": "2024-04-15T08:01:22.408953+00:00"
+  },
+  {
+    "event_id": "8c59e90c",
+    "user_id": "usr-0038",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 1401851.96,
+    "event_time": "2024-04-15T08:01:23.699835+00:00"
+  },
+  {
+    "event_id": "fb9e0903",
+    "user_id": "usr-0049",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 1688619.13,
+    "event_time": "2024-04-15T08:01:24.540797+00:00"
+  },
+  {
+    "event_id": "0c48e040",
+    "user_id": "usr-0021",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 3991183.46,
+    "event_time": "2024-04-15T08:01:25.433965+00:00"
+  },
+  {
+    "event_id": "43ebbd26",
+    "user_id": "usr-0039",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 2587969.99,
+    "event_time": "2024-04-15T08:01:26.142372+00:00"
+  },
+  {
+    "event_id": "81476534",
+    "user_id": "usr-0016",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 3456140.6,
+    "event_time": "2024-04-15T08:01:26.671640+00:00"
+  },
+  {
+    "event_id": "187027ab",
+    "user_id": "usr-0032",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 1478235.55,
+    "event_time": "2024-04-15T08:01:27.746723+00:00"
+  },
+  {
+    "event_id": "5f639205",
+    "user_id": "usr-0016",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 2371569.84,
+    "event_time": "2024-04-15T08:01:28.532004+00:00"
+  },
+  {
+    "event_id": "4b5ff1ea",
+    "user_id": "usr-0028",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 1765534.53,
+    "event_time": "2024-04-15T08:01:29.469110+00:00"
+  },
+  {
+    "event_id": "db239ad2",
+    "user_id": "usr-0020",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 1584584.24,
+    "event_time": "2024-04-15T08:01:30.313604+00:00"
+  },
+  {
+    "event_id": "839ad976",
+    "user_id": "usr-0049",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 3695637.22,
+    "event_time": "2024-04-15T08:01:31.505061+00:00"
+  },
+  {
+    "event_id": "02e92b76",
+    "user_id": "usr-0038",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 4902748.05,
+    "event_time": "2024-04-15T08:01:32.136861+00:00"
+  },
+  {
+    "event_id": "169201f3",
+    "user_id": "usr-0019",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 80600.35,
+    "event_time": "2024-04-15T08:01:33.436015+00:00"
+  },
+  {
+    "event_id": "d799a61a",
+    "user_id": "usr-0018",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 3490112.79,
+    "event_time": "2024-04-15T08:00:51.376977+00:00"
+  },
+  {
+    "event_id": "976929b3",
+    "user_id": "usr-0049",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 2352290.76,
+    "event_time": "2024-04-15T08:01:34.828512+00:00"
+  },
+  {
+    "event_id": "bb8d58d9",
+    "user_id": "usr-0012",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 579294.83,
+    "event_time": "2024-04-15T08:01:35.657075+00:00"
+  },
+  {
+    "event_id": "3fbfeb30",
+    "user_id": "usr-0032",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 754495.95,
+    "event_time": "2024-04-15T08:01:36.035487+00:00"
+  },
+  {
+    "event_id": "40a364d2",
+    "user_id": "usr-0020",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 2794784.44,
+    "event_time": "2024-04-15T08:01:37.010895+00:00"
+  },
+  {
+    "event_id": "ff4dcd44",
+    "user_id": "usr-0039",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 2258067.18,
+    "event_time": "2024-04-15T08:01:37.810304+00:00"
+  },
+  {
+    "event_id": "326a8b42",
+    "user_id": "usr-0038",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 3052058.25,
+    "event_time": "2024-04-15T08:01:38.641569+00:00"
+  },
+  {
+    "event_id": "4d2a9c29",
+    "user_id": "usr-0049",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 3305536.4,
+    "event_time": "2024-04-15T08:01:39.829676+00:00"
+  },
+  {
+    "event_id": "01677664",
+    "user_id": "usr-0012",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 2048502.69,
+    "event_time": "2024-04-15T08:01:40.318145+00:00"
+  },
+  {
+    "event_id": "472717f1",
+    "user_id": "usr-0031",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 3537709.59,
+    "event_time": "2024-04-15T08:01:41.445390+00:00"
+  },
+  {
+    "event_id": "cfba39f7",
+    "user_id": "usr-0030",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 3941261.85,
+    "event_time": "2024-04-15T08:01:42.588975+00:00"
+  },
+  {
+    "event_id": "3e100707",
+    "user_id": "usr-0043",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 582733.75,
+    "event_time": "2024-04-15T08:01:43.639045+00:00"
+  },
+  {
+    "event_id": "045458a2",
+    "user_id": "usr-0010",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 307593.82,
+    "event_time": "2024-04-15T08:01:44.208816+00:00"
+  },
+  {
+    "event_id": "22d945ec",
+    "user_id": "usr-0039",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 2201375.71,
+    "event_time": "2024-04-15T08:01:45.459970+00:00"
+  },
+  {
+    "event_id": "e7bddac3",
+    "user_id": "usr-0020",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 2194416.73,
+    "event_time": "2024-04-15T08:01:46.322408+00:00"
+  },
+  {
+    "event_id": "60f332d3",
+    "user_id": "usr-0028",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 139065.81,
+    "event_time": "2024-04-15T08:01:47.340052+00:00"
+  },
+  {
+    "event_id": "56b780d8",
+    "user_id": "usr-0044",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 4997866.36,
+    "event_time": "2024-04-15T08:01:47.914761+00:00"
+  },
+  {
+    "event_id": "2bcfdae6",
+    "user_id": "usr-0018",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 2599629.57,
+    "event_time": "2024-04-15T08:01:49.021499+00:00"
+  },
+  {
+    "event_id": "94b3cb2e",
+    "user_id": "usr-0018",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 3177575.75,
+    "event_time": "2024-04-15T08:01:49.852174+00:00"
+  },
+  {
+    "event_id": "881803f6",
+    "user_id": "usr-0006",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 1612080.7,
+    "event_time": "2024-04-15T08:01:50.742245+00:00"
+  },
+  {
+    "event_id": "a7270e03",
+    "user_id": "usr-0011",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 3316291.85,
+    "event_time": "2024-04-15T08:01:51.167765+00:00"
+  },
+  {
+    "event_id": "7f79311d",
+    "user_id": "usr-0049",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 1579440.61,
+    "event_time": "2024-04-15T08:01:51.948308+00:00"
+  },
+  {
+    "event_id": "c7462c77",
+    "user_id": "usr-0050",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 3291725.33,
+    "event_time": "2024-04-15T08:01:52.636237+00:00"
+  },
+  {
+    "event_id": "94f7a4b1",
+    "user_id": "usr-0027",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 3116943.02,
+    "event_time": "2024-04-15T08:01:53.587349+00:00"
+  },
+  {
+    "event_id": "747b7633",
+    "user_id": "usr-0029",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 2750606.0,
+    "event_time": "2024-04-15T08:01:54.485541+00:00"
+  },
+  {
+    "event_id": "5cc6a387",
+    "user_id": "usr-0029",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 154058.52,
+    "event_time": "2024-04-15T08:01:55.898748+00:00"
+  },
+  {
+    "event_id": "2499d0b9",
+    "user_id": "usr-0016",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 2765734.53,
+    "event_time": "2024-04-15T08:01:56.954775+00:00"
+  },
+  {
+    "event_id": "8feac46c",
+    "user_id": "usr-0008",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 2496893.77,
+    "event_time": "2024-04-15T08:01:57.366626+00:00"
+  },
+  {
+    "event_id": "58bf7d61",
+    "user_id": "usr-0033",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 4901420.72,
+    "event_time": "2024-04-15T08:01:58.526550+00:00"
+  },
+  {
+    "event_id": "5334b376",
+    "user_id": "usr-0036",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 4321494.4,
+    "event_time": "2024-04-15T08:01:59.119027+00:00"
+  },
+  {
+    "event_id": "78bf2554",
+    "user_id": "usr-0027",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 4104541.87,
+    "event_time": "2024-04-15T08:01:59.750524+00:00"
+  },
+  {
+    "event_id": "1131f0e6",
+    "user_id": "usr-0020",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 4327650.37,
+    "event_time": "2024-04-15T08:02:00.389931+00:00"
+  },
+  {
+    "event_id": "6ec68bce",
+    "user_id": "usr-0031",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 2282169.64,
+    "event_time": "2024-04-15T08:02:01.225788+00:00"
+  },
+  {
+    "event_id": "a27f4f4a",
+    "user_id": "usr-0013",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 1175476.61,
+    "event_time": "2024-04-15T08:02:01.911921+00:00"
+  },
+  {
+    "event_id": "37995271",
+    "user_id": "usr-0003",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 1936532.97,
+    "event_time": "2024-04-15T08:02:03.142574+00:00"
+  },
+  {
+    "event_id": "d85ad4e6",
+    "user_id": "usr-0042",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 639968.89,
+    "event_time": "2024-04-15T08:02:04.239001+00:00"
+  },
+  {
+    "event_id": "b6c5f63b",
+    "user_id": "usr-0022",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 2634495.92,
+    "event_time": "2024-04-15T08:02:05.697425+00:00"
+  },
+  {
+    "event_id": "4badf3ea",
+    "user_id": "usr-0047",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 2352758.1,
+    "event_time": "2024-04-15T08:02:06.545739+00:00"
+  },
+  {
+    "event_id": "0eff3409",
+    "user_id": "usr-0022",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 4260308.81,
+    "event_time": "2024-04-15T08:02:08.008783+00:00"
+  },
+  {
+    "event_id": "d310aaf0",
+    "user_id": "usr-0035",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 4363191.26,
+    "event_time": "2024-04-15T08:02:09.331593+00:00"
+  },
+  {
+    "event_id": "5a884fed",
+    "user_id": "usr-0005",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 3736364.17,
+    "event_time": "2024-04-15T08:02:09.674672+00:00"
+  },
+  {
+    "event_id": "9328ba5e",
+    "user_id": "usr-0007",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 840160.29,
+    "event_time": "2024-04-15T08:02:10.495438+00:00"
+  },
+  {
+    "event_id": "bf1fad04",
+    "user_id": "usr-0002",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 1880457.04,
+    "event_time": "2024-04-15T08:01:27.154797+00:00"
+  },
+  {
+    "event_id": "54524bd7",
+    "user_id": "usr-0034",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 883596.08,
+    "event_time": "2024-04-15T08:02:11.629481+00:00"
+  },
+  {
+    "event_id": "a2f64d34",
+    "user_id": "usr-0025",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 4565016.79,
+    "event_time": "2024-04-15T08:02:12.660871+00:00"
+  },
+  {
+    "event_id": "d6512cb5",
+    "user_id": "usr-0030",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 3337535.18,
+    "event_time": "2024-04-15T08:02:13.132612+00:00"
+  },
+  {
+    "event_id": "cbedec9e",
+    "user_id": "usr-0030",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 378570.88,
+    "event_time": "2024-04-15T08:02:14.511302+00:00"
+  },
+  {
+    "event_id": "45313789",
+    "user_id": "usr-0038",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 2289610.71,
+    "event_time": "2024-04-15T08:02:15.945585+00:00"
+  },
+  {
+    "event_id": "054b33b3",
+    "user_id": "usr-0025",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 1913007.85,
+    "event_time": "2024-04-15T08:02:16.608131+00:00"
+  },
+  {
+    "event_id": "2043bbf2",
+    "user_id": "usr-0019",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 4889942.98,
+    "event_time": "2024-04-15T08:02:17.338882+00:00"
+  },
+  {
+    "event_id": "8ff5d5c4",
+    "user_id": "usr-0018",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 4165866.11,
+    "event_time": "2024-04-15T08:01:36.428758+00:00"
+  },
+  {
+    "event_id": "1095b6e1",
+    "user_id": "usr-0050",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 1102832.65,
+    "event_time": "2024-04-15T08:02:19.812280+00:00"
+  },
+  {
+    "event_id": "0ec457e1",
+    "user_id": "usr-0017",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 4517984.48,
+    "event_time": "2024-04-15T08:02:20.340438+00:00"
+  },
+  {
+    "event_id": "1fda7caa",
+    "user_id": "usr-0020",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 3664475.24,
+    "event_time": "2024-04-15T08:02:21.416047+00:00"
+  },
+  {
+    "event_id": "259e9714",
+    "user_id": "usr-0019",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 1011966.03,
+    "event_time": "2024-04-15T08:02:21.824207+00:00"
+  },
+  {
+    "event_id": "d3c3152d",
+    "user_id": "usr-0024",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 1292280.72,
+    "event_time": "2024-04-15T08:02:23.068022+00:00"
+  },
+  {
+    "event_id": "94dd0393",
+    "user_id": "usr-0031",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 4023120.37,
+    "event_time": "2024-04-15T08:02:24.357650+00:00"
+  },
+  {
+    "event_id": "ef670df9",
+    "user_id": "usr-0005",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 4836676.04,
+    "event_time": "2024-04-15T08:02:25.219648+00:00"
+  },
+  {
+    "event_id": "69f477b3",
+    "user_id": "usr-0024",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 1329648.31,
+    "event_time": "2024-04-15T08:02:26.485153+00:00"
+  },
+  {
+    "event_id": "b918ff72",
+    "user_id": "usr-0024",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 4113862.33,
+    "event_time": "2024-04-15T08:02:26.933459+00:00"
+  },
+  {
+    "event_id": "ff583077",
+    "user_id": "usr-0007",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 3101538.87,
+    "event_time": "2024-04-15T08:02:28.361809+00:00"
+  },
+  {
+    "event_id": "4bafb420",
+    "user_id": "usr-0021",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 3180665.57,
+    "event_time": "2024-04-15T08:02:29.793612+00:00"
+  },
+  {
+    "event_id": "789627d4",
+    "user_id": "usr-0045",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 707487.29,
+    "event_time": "2024-04-15T08:02:30.650733+00:00"
+  },
+  {
+    "event_id": "d7dcc98b",
+    "user_id": "usr-0020",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 1181652.16,
+    "event_time": "2024-04-15T08:02:32.086247+00:00"
+  },
+  {
+    "event_id": "7d5d3da5",
+    "user_id": "usr-0025",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 2940828.32,
+    "event_time": "2024-04-15T08:02:33.031303+00:00"
+  },
+  {
+    "event_id": "44a46b0a",
+    "user_id": "usr-0027",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 4695874.8,
+    "event_time": "2024-04-15T08:02:34.203222+00:00"
+  },
+  {
+    "event_id": "d5c1dbf4",
+    "user_id": "usr-0045",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 4753270.3,
+    "event_time": "2024-04-15T08:02:34.838910+00:00"
+  },
+  {
+    "event_id": "0051cc9d",
+    "user_id": "usr-0007",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 312144.94,
+    "event_time": "2024-04-15T08:02:36.165450+00:00"
+  },
+  {
+    "event_id": "45bb966c",
+    "user_id": "usr-0008",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 3317216.0,
+    "event_time": "2024-04-15T08:02:36.796508+00:00"
+  },
+  {
+    "event_id": "2815fe34",
+    "user_id": "usr-0039",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 1225408.8,
+    "event_time": "2024-04-15T08:02:37.866553+00:00"
+  },
+  {
+    "event_id": "f2d00a4f",
+    "user_id": "usr-0037",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 2936051.59,
+    "event_time": "2024-04-15T08:02:38.317662+00:00"
+  },
+  {
+    "event_id": "6ab8377b",
+    "user_id": "usr-0015",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 1393601.48,
+    "event_time": "2024-04-15T08:02:39.593326+00:00"
+  },
+  {
+    "event_id": "32582c3e",
+    "user_id": "usr-0009",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 3308677.64,
+    "event_time": "2024-04-15T08:02:41.074160+00:00"
+  },
+  {
+    "event_id": "dda51251",
+    "user_id": "usr-0001",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 88747.61,
+    "event_time": "2024-04-15T08:02:41.405096+00:00"
+  },
+  {
+    "event_id": "84ad605a",
+    "user_id": "usr-0009",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 3730869.72,
+    "event_time": "2024-04-15T08:02:42.023537+00:00"
+  },
+  {
+    "event_id": "598645d9",
+    "user_id": "usr-0050",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 2265507.05,
+    "event_time": "2024-04-15T08:02:42.895032+00:00"
+  },
+  {
+    "event_id": "fd4cad20",
+    "user_id": "usr-0040",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 3220270.01,
+    "event_time": "2024-04-15T08:00:00.460892+00:00"
+  },
+  {
+    "event_id": "2b64a476",
+    "user_id": "usr-0031",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 2456441.58,
+    "event_time": "2024-04-15T08:02:43.798273+00:00"
+  },
+  {
+    "event_id": "482b7ecf",
+    "user_id": "usr-0005",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 337754.34,
+    "event_time": "2024-04-15T08:02:45.189914+00:00"
+  },
+  {
+    "event_id": "3539ca60",
+    "user_id": "usr-0041",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 4973192.5,
+    "event_time": "2024-04-15T08:02:45.819933+00:00"
+  },
+  {
+    "event_id": "6dd7e2f6",
+    "user_id": "usr-0030",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 3967549.5,
+    "event_time": "2024-04-15T08:02:46.756601+00:00"
+  },
+  {
+    "event_id": "ac84a358",
+    "user_id": "usr-0042",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 2156049.01,
+    "event_time": "2024-04-15T08:02:47.193898+00:00"
+  },
+  {
+    "event_id": "16a85422",
+    "user_id": "usr-0027",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 2085788.35,
+    "event_time": "2024-04-15T08:02:48.559607+00:00"
+  },
+  {
+    "event_id": "1f6b8b2a",
+    "user_id": "usr-0028",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 4768426.66,
+    "event_time": "2024-04-15T08:02:48.973710+00:00"
+  },
+  {
+    "event_id": "4e77b90b",
+    "user_id": "usr-0031",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 2165063.83,
+    "event_time": "2024-04-15T08:02:50.097895+00:00"
+  },
+  {
+    "event_id": "bc421ce6",
+    "user_id": "usr-0024",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 2936460.76,
+    "event_time": "2024-04-15T08:02:51.291402+00:00"
+  },
+  {
+    "event_id": "5f758d23",
+    "user_id": "usr-0022",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 4369300.79,
+    "event_time": "2024-04-15T08:02:52.265306+00:00"
+  },
+  {
+    "event_id": "937a2576",
+    "user_id": "usr-0028",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 3006046.36,
+    "event_time": "2024-04-15T08:02:53.694662+00:00"
+  },
+  {
+    "event_id": "6188e227",
+    "user_id": "usr-0037",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 1128981.9,
+    "event_time": "2024-04-15T08:02:54.416637+00:00"
+  },
+  {
+    "event_id": "c0ef6cbd",
+    "user_id": "usr-0036",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 4038034.64,
+    "event_time": "2024-04-15T08:02:54.846499+00:00"
+  },
+  {
+    "event_id": "b6c38911",
+    "user_id": "usr-0050",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 3048884.63,
+    "event_time": "2024-04-15T08:02:56.160685+00:00"
+  },
+  {
+    "event_id": "196c0c6f",
+    "user_id": "usr-0045",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 3516466.88,
+    "event_time": "2024-04-15T08:02:57.250082+00:00"
+  },
+  {
+    "event_id": "4bdb3aed",
+    "user_id": "usr-0022",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 2835942.26,
+    "event_time": "2024-04-15T08:02:57.920864+00:00"
+  },
+  {
+    "event_id": "ff38ba95",
+    "user_id": "usr-0010",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 3733097.69,
+    "event_time": "2024-04-15T08:02:58.701805+00:00"
+  },
+  {
+    "event_id": "285d56c3",
+    "user_id": "usr-0027",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 1565070.47,
+    "event_time": "2024-04-15T08:02:59.259964+00:00"
+  },
+  {
+    "event_id": "0c9fe7b9",
+    "user_id": "usr-0037",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 795475.39,
+    "event_time": "2024-04-15T08:02:59.949223+00:00"
+  },
+  {
+    "event_id": "8d253e41",
+    "user_id": "usr-0044",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 2433451.91,
+    "event_time": "2024-04-15T08:03:00.990629+00:00"
+  },
+  {
+    "event_id": "41681b7a",
+    "user_id": "usr-0018",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 1732412.55,
+    "event_time": "2024-04-15T08:03:01.821082+00:00"
+  },
+  {
+    "event_id": "3fc3c5a9",
+    "user_id": "usr-0044",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 236632.64,
+    "event_time": "2024-04-15T08:03:02.254150+00:00"
+  },
+  {
+    "event_id": "c5346c7e",
+    "user_id": "usr-0039",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 4727167.2,
+    "event_time": "2024-04-15T08:03:03.028466+00:00"
+  },
+  {
+    "event_id": "08358677",
+    "user_id": "usr-0049",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 48572.23,
+    "event_time": "2024-04-15T08:03:04.249285+00:00"
+  },
+  {
+    "event_id": "acd57d08",
+    "user_id": "usr-0012",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 2506309.11,
+    "event_time": "2024-04-15T08:03:05.445702+00:00"
+  },
+  {
+    "event_id": "b5f181e1",
+    "user_id": "usr-0023",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 103520.27,
+    "event_time": "2024-04-15T08:03:06.745727+00:00"
+  },
+  {
+    "event_id": "7cf756c5",
+    "user_id": "usr-0021",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 3550399.82,
+    "event_time": "2024-04-15T08:03:08.151122+00:00"
+  },
+  {
+    "event_id": "fe54ff96",
+    "user_id": "usr-0008",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 4008597.55,
+    "event_time": "2024-04-15T08:03:08.952355+00:00"
+  },
+  {
+    "event_id": "16afe5ed",
+    "user_id": "usr-0045",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 4223976.96,
+    "event_time": "2024-04-15T08:03:09.994105+00:00"
+  },
+  {
+    "event_id": "74ed0654",
+    "user_id": "usr-0038",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 4353916.84,
+    "event_time": "2024-04-15T08:03:10.586085+00:00"
+  },
+  {
+    "event_id": "38b441ad",
+    "user_id": "usr-0015",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 2557311.59,
+    "event_time": "2024-04-15T08:03:11.781051+00:00"
+  },
+  {
+    "event_id": "86774fc2",
+    "user_id": "usr-0033",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 3639621.74,
+    "event_time": "2024-04-15T08:03:12.217883+00:00"
+  },
+  {
+    "event_id": "a7badc0e",
+    "user_id": "usr-0010",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 994386.3,
+    "event_time": "2024-04-15T08:03:13.500621+00:00"
+  },
+  {
+    "event_id": "16260ceb",
+    "user_id": "usr-0049",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 4756947.78,
+    "event_time": "2024-04-15T08:03:14.523500+00:00"
+  },
+  {
+    "event_id": "1feeb4d0",
+    "user_id": "usr-0030",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 3408856.06,
+    "event_time": "2024-04-15T08:03:15.577039+00:00"
+  },
+  {
+    "event_id": "660d6e77",
+    "user_id": "usr-0042",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 4322591.91,
+    "event_time": "2024-04-15T08:03:16.935497+00:00"
+  },
+  {
+    "event_id": "52faf6c7",
+    "user_id": "usr-0010",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 3160611.75,
+    "event_time": "2024-04-15T08:03:17.988158+00:00"
+  },
+  {
+    "event_id": "721b3c0b",
+    "user_id": "usr-0038",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 1558935.17,
+    "event_time": "2024-04-15T08:03:19.243754+00:00"
+  },
+  {
+    "event_id": "7259b98f",
+    "user_id": "usr-0004",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 3226885.68,
+    "event_time": "2024-04-15T08:03:20.086051+00:00"
+  },
+  {
+    "event_id": "6ef38ff7",
+    "user_id": "usr-0006",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 2318931.18,
+    "event_time": "2024-04-15T08:03:21.558893+00:00"
+  },
+  {
+    "event_id": "19155eb7",
+    "user_id": "usr-0048",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 1614418.55,
+    "event_time": "2024-04-15T08:03:22.524073+00:00"
+  },
+  {
+    "event_id": "3ed27b95",
+    "user_id": "usr-0010",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 4056724.39,
+    "event_time": "2024-04-15T08:03:23.394828+00:00"
+  },
+  {
+    "event_id": "7da3f8f6",
+    "user_id": "usr-0046",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 1246241.18,
+    "event_time": "2024-04-15T08:03:24.699681+00:00"
+  },
+  {
+    "event_id": "f4aede98",
+    "user_id": "usr-0029",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 1825850.82,
+    "event_time": "2024-04-15T08:03:25.524991+00:00"
+  },
+  {
+    "event_id": "a465f063",
+    "user_id": "usr-0025",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 3948242.39,
+    "event_time": "2024-04-15T08:03:26.926515+00:00"
+  },
+  {
+    "event_id": "4eb8cb05",
+    "user_id": "usr-0005",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 1427893.4,
+    "event_time": "2024-04-15T08:03:28.003281+00:00"
+  },
+  {
+    "event_id": "5e9bc676",
+    "user_id": "usr-0043",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 1673476.56,
+    "event_time": "2024-04-15T08:03:29.171761+00:00"
+  },
+  {
+    "event_id": "ffac4c00",
+    "user_id": "usr-0010",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 653468.77,
+    "event_time": "2024-04-15T08:03:30.171048+00:00"
+  },
+  {
+    "event_id": "9bcc7dcc",
+    "user_id": "usr-0006",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 4067792.07,
+    "event_time": "2024-04-15T08:03:31.321649+00:00"
+  },
+  {
+    "event_id": "8d436256",
+    "user_id": "usr-0048",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 3233663.86,
+    "event_time": "2024-04-15T08:03:32.425789+00:00"
+  },
+  {
+    "event_id": "1f028d2c",
+    "user_id": "usr-0024",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 1715244.4,
+    "event_time": "2024-04-15T08:01:44.233877+00:00"
+  },
+  {
+    "event_id": "bc04c808",
+    "user_id": "usr-0013",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 395053.77,
+    "event_time": "2024-04-15T08:03:34.453264+00:00"
+  },
+  {
+    "event_id": "9f2c31f9",
+    "user_id": "usr-0007",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 3313026.89,
+    "event_time": "2024-04-15T08:03:35.766578+00:00"
+  },
+  {
+    "event_id": "d26a7a07",
+    "user_id": "usr-0040",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 819613.59,
+    "event_time": "2024-04-15T08:03:37.118249+00:00"
+  },
+  {
+    "event_id": "3ec3d796",
+    "user_id": "usr-0050",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 228025.22,
+    "event_time": "2024-04-15T08:03:38.415863+00:00"
+  },
+  {
+    "event_id": "24095f91",
+    "user_id": "usr-0047",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 3764431.91,
+    "event_time": "2024-04-15T08:03:39.153022+00:00"
+  },
+  {
+    "event_id": "f04e0582",
+    "user_id": "usr-0015",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 4520831.95,
+    "event_time": "2024-04-15T08:03:40.393582+00:00"
+  },
+  {
+    "event_id": "e1252d09",
+    "user_id": "usr-0044",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 3849498.37,
+    "event_time": "2024-04-15T08:03:40.926401+00:00"
+  },
+  {
+    "event_id": "36d9f1f0",
+    "user_id": "usr-0033",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 4008283.53,
+    "event_time": "2024-04-15T08:03:42.160150+00:00"
+  },
+  {
+    "event_id": "9e1305f3",
+    "user_id": "usr-0017",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 2777158.32,
+    "event_time": "2024-04-15T08:03:42.626228+00:00"
+  },
+  {
+    "event_id": "50c26d77",
+    "user_id": "usr-0034",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 3817952.98,
+    "event_time": "2024-04-15T08:03:43.049336+00:00"
+  },
+  {
+    "event_id": "9dfa0922",
+    "user_id": "usr-0033",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 4732602.18,
+    "event_time": "2024-04-15T08:03:43.676686+00:00"
+  },
+  {
+    "event_id": "bf26e00e",
+    "user_id": "usr-0029",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 275751.87,
+    "event_time": "2024-04-15T08:03:44.243132+00:00"
+  },
+  {
+    "event_id": "c7620482",
+    "user_id": "usr-0016",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 1130448.41,
+    "event_time": "2024-04-15T08:03:45.145541+00:00"
+  },
+  {
+    "event_id": "8e7c20b1",
+    "user_id": "usr-0007",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 696621.94,
+    "event_time": "2024-04-15T08:03:45.827963+00:00"
+  },
+  {
+    "event_id": "71febbf4",
+    "user_id": "usr-0031",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 2248521.36,
+    "event_time": "2024-04-15T08:03:46.472218+00:00"
+  },
+  {
+    "event_id": "acf446e2",
+    "user_id": "usr-0006",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 564822.43,
+    "event_time": "2024-04-15T08:02:21.778519+00:00"
+  },
+  {
+    "event_id": "c9e9157a",
+    "user_id": "usr-0020",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 3198369.14,
+    "event_time": "2024-04-15T08:03:47.424241+00:00"
+  },
+  {
+    "event_id": "cb6f7b2d",
+    "user_id": "usr-0005",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 3163455.16,
+    "event_time": "2024-04-15T08:03:48.471614+00:00"
+  },
+  {
+    "event_id": "3dca3307",
+    "user_id": "usr-0046",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 3077899.82,
+    "event_time": "2024-04-15T08:03:49.461671+00:00"
+  },
+  {
+    "event_id": "4bba6f0e",
+    "user_id": "usr-0027",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 347719.82,
+    "event_time": "2024-04-15T08:03:50.050348+00:00"
+  },
+  {
+    "event_id": "eb463e94",
+    "user_id": "usr-0033",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 1958364.13,
+    "event_time": "2024-04-15T08:03:50.981619+00:00"
+  },
+  {
+    "event_id": "7f8b6ef1",
+    "user_id": "usr-0041",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 3739109.79,
+    "event_time": "2024-04-15T08:03:51.845781+00:00"
+  },
+  {
+    "event_id": "6fb12cb4",
+    "user_id": "usr-0005",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 675713.85,
+    "event_time": "2024-04-15T08:03:52.574294+00:00"
+  },
+  {
+    "event_id": "a9332ad4",
+    "user_id": "usr-0022",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 4904287.74,
+    "event_time": "2024-04-15T08:03:53.297053+00:00"
+  },
+  {
+    "event_id": "14273ceb",
+    "user_id": "usr-0012",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 194549.11,
+    "event_time": "2024-04-15T08:03:54.171290+00:00"
+  },
+  {
+    "event_id": "597db3d7",
+    "user_id": "usr-0013",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 2581764.11,
+    "event_time": "2024-04-15T08:03:54.713199+00:00"
+  },
+  {
+    "event_id": "b9e68436",
+    "user_id": "usr-0035",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 1437693.37,
+    "event_time": "2024-04-15T08:03:56.200146+00:00"
+  },
+  {
+    "event_id": "ca5bc309",
+    "user_id": "usr-0004",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 631130.29,
+    "event_time": "2024-04-15T08:03:57.534712+00:00"
+  },
+  {
+    "event_id": "06c998d8",
+    "user_id": "usr-0026",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 4868880.69,
+    "event_time": "2024-04-15T08:03:58.276335+00:00"
+  },
+  {
+    "event_id": "cf6dfa5b",
+    "user_id": "usr-0032",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 4007728.96,
+    "event_time": "2024-04-15T08:03:59.171779+00:00"
+  },
+  {
+    "event_id": "a50ed035",
+    "user_id": "usr-0006",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 1612845.03,
+    "event_time": "2024-04-15T08:04:00.344277+00:00"
+  },
+  {
+    "event_id": "c5bfc327",
+    "user_id": "usr-0043",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 841557.41,
+    "event_time": "2024-04-15T08:04:00.740360+00:00"
+  },
+  {
+    "event_id": "5d382ea6",
+    "user_id": "usr-0029",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 1380031.25,
+    "event_time": "2024-04-15T08:02:01.573050+00:00"
+  },
+  {
+    "event_id": "d62332b9",
+    "user_id": "usr-0004",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 2570299.24,
+    "event_time": "2024-04-15T08:04:03.049083+00:00"
+  },
+  {
+    "event_id": "ea55822f",
+    "user_id": "usr-0011",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 183646.84,
+    "event_time": "2024-04-15T08:04:04.248961+00:00"
+  },
+  {
+    "event_id": "a99c10af",
+    "user_id": "usr-0050",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 4747840.89,
+    "event_time": "2024-04-15T08:04:04.629641+00:00"
+  },
+  {
+    "event_id": "35a9942e",
+    "user_id": "usr-0010",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 2225257.05,
+    "event_time": "2024-04-15T08:04:04.968503+00:00"
+  },
+  {
+    "event_id": "982d7184",
+    "user_id": "usr-0009",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 3251308.08,
+    "event_time": "2024-04-15T08:04:05.360766+00:00"
+  },
+  {
+    "event_id": "40970cae",
+    "user_id": "usr-0008",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 4568577.1,
+    "event_time": "2024-04-15T08:02:48.960300+00:00"
+  },
+  {
+    "event_id": "34b034f8",
+    "user_id": "usr-0050",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 4981861.91,
+    "event_time": "2024-04-15T08:04:06.401613+00:00"
+  },
+  {
+    "event_id": "ff5f957d",
+    "user_id": "usr-0032",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 2265693.0,
+    "event_time": "2024-04-15T08:04:07.044305+00:00"
+  },
+  {
+    "event_id": "781248d4",
+    "user_id": "usr-0029",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 3550607.03,
+    "event_time": "2024-04-15T08:04:08.422720+00:00"
+  },
+  {
+    "event_id": "cacc0c0d",
+    "user_id": "usr-0019",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 3970544.96,
+    "event_time": "2024-04-15T08:04:09.382717+00:00"
+  },
+  {
+    "event_id": "e247a0ec",
+    "user_id": "usr-0008",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 3953961.57,
+    "event_time": "2024-04-15T08:04:10.293224+00:00"
+  },
+  {
+    "event_id": "04d8ed54",
+    "user_id": "usr-0036",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 3063622.33,
+    "event_time": "2024-04-15T08:04:10.624765+00:00"
+  },
+  {
+    "event_id": "f47b488a",
+    "user_id": "usr-0020",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 3848131.11,
+    "event_time": "2024-04-15T08:04:11.028224+00:00"
+  },
+  {
+    "event_id": "2634dfe6",
+    "user_id": "usr-0005",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 2255372.73,
+    "event_time": "2024-04-15T08:04:12.316231+00:00"
+  },
+  {
+    "event_id": "9b46f359",
+    "user_id": "usr-0023",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 3841230.37,
+    "event_time": "2024-04-15T08:04:13.432362+00:00"
+  },
+  {
+    "event_id": "0ef4c6c1",
+    "user_id": "usr-0033",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 2595329.64,
+    "event_time": "2024-04-15T08:04:13.887202+00:00"
+  },
+  {
+    "event_id": "dd1e3270",
+    "user_id": "usr-0011",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 4737940.85,
+    "event_time": "2024-04-15T08:04:14.552151+00:00"
+  },
+  {
+    "event_id": "9b09be01",
+    "user_id": "usr-0019",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 3178934.89,
+    "event_time": "2024-04-15T08:04:15.474828+00:00"
+  },
+  {
+    "event_id": "10fc5362",
+    "user_id": "usr-0009",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 2517839.99,
+    "event_time": "2024-04-15T08:04:16.435838+00:00"
+  },
+  {
+    "event_id": "c627096a",
+    "user_id": "usr-0038",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 4214224.72,
+    "event_time": "2024-04-15T08:04:16.938201+00:00"
+  },
+  {
+    "event_id": "8d55f087",
+    "user_id": "usr-0002",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 3259138.59,
+    "event_time": "2024-04-15T08:04:17.914543+00:00"
+  },
+  {
+    "event_id": "069a2ae8",
+    "user_id": "usr-0027",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 4446094.44,
+    "event_time": "2024-04-15T08:04:19.134894+00:00"
+  },
+  {
+    "event_id": "80ad0bfd",
+    "user_id": "usr-0042",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 4025393.89,
+    "event_time": "2024-04-15T08:04:20.089587+00:00"
+  },
+  {
+    "event_id": "47b677b0",
+    "user_id": "usr-0020",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 2203631.44,
+    "event_time": "2024-04-15T08:04:21.211576+00:00"
+  },
+  {
+    "event_id": "cc115eef",
+    "user_id": "usr-0014",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 4308810.53,
+    "event_time": "2024-04-15T08:04:22.092677+00:00"
+  },
+  {
+    "event_id": "2983e93b",
+    "user_id": "usr-0023",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 2579750.87,
+    "event_time": "2024-04-15T08:04:22.775857+00:00"
+  },
+  {
+    "event_id": "3b6e61ed",
+    "user_id": "usr-0016",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 1247115.22,
+    "event_time": "2024-04-15T08:04:23.203278+00:00"
+  },
+  {
+    "event_id": "4e6c25cf",
+    "user_id": "usr-0019",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 1248868.7,
+    "event_time": "2024-04-15T08:04:23.619452+00:00"
+  },
+  {
+    "event_id": "7dc03b84",
+    "user_id": "usr-0011",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 957272.17,
+    "event_time": "2024-04-15T08:04:24.957821+00:00"
+  },
+  {
+    "event_id": "789d535b",
+    "user_id": "usr-0033",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 125649.73,
+    "event_time": "2024-04-15T08:04:25.449032+00:00"
+  },
+  {
+    "event_id": "40a33423",
+    "user_id": "usr-0033",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 2920887.12,
+    "event_time": "2024-04-15T08:04:26.883311+00:00"
+  },
+  {
+    "event_id": "8f9e7da7",
+    "user_id": "usr-0019",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 2688086.84,
+    "event_time": "2024-04-15T08:04:27.241701+00:00"
+  },
+  {
+    "event_id": "51c830c8",
+    "user_id": "usr-0028",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 3821645.25,
+    "event_time": "2024-04-15T08:04:28.558308+00:00"
+  },
+  {
+    "event_id": "c9f43d0f",
+    "user_id": "usr-0026",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 1818993.64,
+    "event_time": "2024-04-15T08:04:29.297433+00:00"
+  },
+  {
+    "event_id": "373b2174",
+    "user_id": "usr-0025",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 4128303.48,
+    "event_time": "2024-04-15T08:04:29.943755+00:00"
+  },
+  {
+    "event_id": "79483f15",
+    "user_id": "usr-0040",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 1872259.7,
+    "event_time": "2024-04-15T08:04:30.991645+00:00"
+  },
+  {
+    "event_id": "08cd2a67",
+    "user_id": "usr-0036",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 3016290.13,
+    "event_time": "2024-04-15T08:04:32.475790+00:00"
+  },
+  {
+    "event_id": "dc05cafa",
+    "user_id": "usr-0003",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 2601470.22,
+    "event_time": "2024-04-15T08:03:28.257455+00:00"
+  },
+  {
+    "event_id": "dea3b149",
+    "user_id": "usr-0033",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 820885.21,
+    "event_time": "2024-04-15T08:04:33.736184+00:00"
+  },
+  {
+    "event_id": "0c84e2de",
+    "user_id": "usr-0048",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 2541501.78,
+    "event_time": "2024-04-15T08:04:35.224923+00:00"
+  },
+  {
+    "event_id": "eae9bda3",
+    "user_id": "usr-0032",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 4080586.68,
+    "event_time": "2024-04-15T08:04:36.136580+00:00"
+  },
+  {
+    "event_id": "dad8af28",
+    "user_id": "usr-0044",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 3985806.52,
+    "event_time": "2024-04-15T08:04:36.878609+00:00"
+  },
+  {
+    "event_id": "237b8a5f",
+    "user_id": "usr-0045",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 1334996.88,
+    "event_time": "2024-04-15T08:04:38.048998+00:00"
+  },
+  {
+    "event_id": "ae1efef7",
+    "user_id": "usr-0050",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 2921781.15,
+    "event_time": "2024-04-15T08:04:39.135707+00:00"
+  },
+  {
+    "event_id": "8972845c",
+    "user_id": "usr-0041",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 4110089.84,
+    "event_time": "2024-04-15T08:04:39.640321+00:00"
+  },
+  {
+    "event_id": "20d5c43d",
+    "user_id": "usr-0037",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 104497.46,
+    "event_time": "2024-04-15T08:04:40.230957+00:00"
+  },
+  {
+    "event_id": "e20b7262",
+    "user_id": "usr-0010",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 2514079.33,
+    "event_time": "2024-04-15T08:04:40.907388+00:00"
+  },
+  {
+    "event_id": "4370af35",
+    "user_id": "usr-0031",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 2598229.23,
+    "event_time": "2024-04-15T08:04:41.941162+00:00"
+  },
+  {
+    "event_id": "271107ea",
+    "user_id": "usr-0043",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 4783860.61,
+    "event_time": "2024-04-15T08:04:42.914226+00:00"
+  },
+  {
+    "event_id": "5fdd4a0c",
+    "user_id": "usr-0035",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 3054282.13,
+    "event_time": "2024-04-15T08:04:43.765822+00:00"
+  },
+  {
+    "event_id": "2761f1be",
+    "user_id": "usr-0016",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 4708012.88,
+    "event_time": "2024-04-15T08:04:44.296539+00:00"
+  },
+  {
+    "event_id": "fb405547",
+    "user_id": "usr-0050",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 1592033.32,
+    "event_time": "2024-04-15T08:04:45.775251+00:00"
+  },
+  {
+    "event_id": "64851d93",
+    "user_id": "usr-0047",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 4479844.7,
+    "event_time": "2024-04-15T08:04:46.493815+00:00"
+  },
+  {
+    "event_id": "833eca8c",
+    "user_id": "usr-0023",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 219911.77,
+    "event_time": "2024-04-15T08:04:47.267254+00:00"
+  },
+  {
+    "event_id": "0b2928be",
+    "user_id": "usr-0006",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 3739219.11,
+    "event_time": "2024-04-15T08:04:48.713630+00:00"
+  },
+  {
+    "event_id": "95724dd6",
+    "user_id": "usr-0035",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 694992.04,
+    "event_time": "2024-04-15T08:04:49.270414+00:00"
+  },
+  {
+    "event_id": "261dbf18",
+    "user_id": "usr-0038",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 3193343.42,
+    "event_time": "2024-04-15T08:04:50.309226+00:00"
+  },
+  {
+    "event_id": "a676ee7c",
+    "user_id": "usr-0027",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 3409148.01,
+    "event_time": "2024-04-15T08:04:50.672215+00:00"
+  },
+  {
+    "event_id": "9176d03b",
+    "user_id": "usr-0036",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 3267935.06,
+    "event_time": "2024-04-15T08:04:51.137175+00:00"
+  },
+  {
+    "event_id": "9de4dadb",
+    "user_id": "usr-0031",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 1612626.83,
+    "event_time": "2024-04-15T08:04:52.493952+00:00"
+  },
+  {
+    "event_id": "8b16e7d3",
+    "user_id": "usr-0050",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 2680409.86,
+    "event_time": "2024-04-15T08:04:53.569030+00:00"
+  },
+  {
+    "event_id": "f79854f5",
+    "user_id": "usr-0003",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 4412402.42,
+    "event_time": "2024-04-15T08:04:54.736771+00:00"
+  },
+  {
+    "event_id": "e91be643",
+    "user_id": "usr-0003",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 939695.04,
+    "event_time": "2024-04-15T08:04:55.247717+00:00"
+  },
+  {
+    "event_id": "fc66476a",
+    "user_id": "usr-0019",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 2844129.72,
+    "event_time": "2024-04-15T08:04:56.446521+00:00"
+  },
+  {
+    "event_id": "19562b93",
+    "user_id": "usr-0022",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 4447407.22,
+    "event_time": "2024-04-15T08:04:56.875282+00:00"
+  },
+  {
+    "event_id": "35aa6e68",
+    "user_id": "usr-0033",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 1660113.64,
+    "event_time": "2024-04-15T08:04:57.336322+00:00"
+  },
+  {
+    "event_id": "74216cc7",
+    "user_id": "usr-0042",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 3685723.3,
+    "event_time": "2024-04-15T08:04:58.513665+00:00"
+  },
+  {
+    "event_id": "b5b9d0ab",
+    "user_id": "usr-0037",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 3058662.95,
+    "event_time": "2024-04-15T08:04:59.762586+00:00"
+  },
+  {
+    "event_id": "30e820f3",
+    "user_id": "usr-0026",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 442821.47,
+    "event_time": "2024-04-15T08:05:00.829057+00:00"
+  },
+  {
+    "event_id": "339ff0ef",
+    "user_id": "usr-0012",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 4679768.68,
+    "event_time": "2024-04-15T08:05:01.932164+00:00"
+  },
+  {
+    "event_id": "8ac10f88",
+    "user_id": "usr-0025",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 1516709.74,
+    "event_time": "2024-04-15T08:05:02.240360+00:00"
+  },
+  {
+    "event_id": "3e7deaed",
+    "user_id": "usr-0001",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 320000.42,
+    "event_time": "2024-04-15T08:05:03.407819+00:00"
+  },
+  {
+    "event_id": "d667d3ef",
+    "user_id": "usr-0020",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 3454548.98,
+    "event_time": "2024-04-15T08:05:03.849689+00:00"
+  },
+  {
+    "event_id": "77697820",
+    "user_id": "usr-0019",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 4787229.08,
+    "event_time": "2024-04-15T08:05:04.916143+00:00"
+  },
+  {
+    "event_id": "254fb476",
+    "user_id": "usr-0030",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 2085069.62,
+    "event_time": "2024-04-15T08:05:05.789961+00:00"
+  },
+  {
+    "event_id": "37685411",
+    "user_id": "usr-0031",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 3404906.18,
+    "event_time": "2024-04-15T08:05:06.749042+00:00"
+  },
+  {
+    "event_id": "0186f6f0",
+    "user_id": "usr-0006",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 399732.58,
+    "event_time": "2024-04-15T08:05:07.764019+00:00"
+  },
+  {
+    "event_id": "0e6e39b0",
+    "user_id": "usr-0004",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 2867781.35,
+    "event_time": "2024-04-15T08:05:08.741021+00:00"
+  },
+  {
+    "event_id": "9c7e7e05",
+    "user_id": "usr-0021",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 3404673.24,
+    "event_time": "2024-04-15T08:05:09.220844+00:00"
+  },
+  {
+    "event_id": "ab03da51",
+    "user_id": "usr-0032",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 4045373.5,
+    "event_time": "2024-04-15T08:05:10.381146+00:00"
+  },
+  {
+    "event_id": "29669cf6",
+    "user_id": "usr-0033",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 2798398.02,
+    "event_time": "2024-04-15T08:05:11.225265+00:00"
+  },
+  {
+    "event_id": "3792c7a9",
+    "user_id": "usr-0020",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 4084101.6,
+    "event_time": "2024-04-15T08:05:12.332586+00:00"
+  },
+  {
+    "event_id": "69263902",
+    "user_id": "usr-0038",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 3504920.54,
+    "event_time": "2024-04-15T08:05:13.527551+00:00"
+  },
+  {
+    "event_id": "a5a49f98",
+    "user_id": "usr-0004",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 168357.01,
+    "event_time": "2024-04-15T08:05:14.476947+00:00"
+  },
+  {
+    "event_id": "973b6582",
+    "user_id": "usr-0050",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 4964354.43,
+    "event_time": "2024-04-15T08:05:15.267587+00:00"
+  },
+  {
+    "event_id": "6c6c53fe",
+    "user_id": "usr-0025",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 3271135.15,
+    "event_time": "2024-04-15T08:05:16.026563+00:00"
+  },
+  {
+    "event_id": "d03923a2",
+    "user_id": "usr-0012",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 3642012.12,
+    "event_time": "2024-04-15T08:05:16.743887+00:00"
+  },
+  {
+    "event_id": "4380cf47",
+    "user_id": "usr-0001",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 3370764.29,
+    "event_time": "2024-04-15T08:05:17.311115+00:00"
+  },
+  {
+    "event_id": "73ffaf98",
+    "user_id": "usr-0035",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 2308520.14,
+    "event_time": "2024-04-15T08:05:18.264449+00:00"
+  },
+  {
+    "event_id": "3d5b6ccc",
+    "user_id": "usr-0013",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 4049296.14,
+    "event_time": "2024-04-15T08:05:18.750595+00:00"
+  },
+  {
+    "event_id": "33ec519c",
+    "user_id": "usr-0050",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 1038347.29,
+    "event_time": "2024-04-15T08:05:19.553684+00:00"
+  },
+  {
+    "event_id": "869d6850",
+    "user_id": "usr-0003",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 3705299.98,
+    "event_time": "2024-04-15T08:05:19.974760+00:00"
+  },
+  {
+    "event_id": "33dd7d6d",
+    "user_id": "usr-0015",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 2524440.29,
+    "event_time": "2024-04-15T08:05:20.757478+00:00"
+  },
+  {
+    "event_id": "ff2f3d28",
+    "user_id": "usr-0047",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 1192151.13,
+    "event_time": "2024-04-15T08:05:21.404594+00:00"
+  },
+  {
+    "event_id": "0e5d4426",
+    "user_id": "usr-0043",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 1383018.06,
+    "event_time": "2024-04-15T08:05:22.756104+00:00"
+  },
+  {
+    "event_id": "6355616a",
+    "user_id": "usr-0038",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 2783694.82,
+    "event_time": "2024-04-15T08:05:23.724166+00:00"
+  },
+  {
+    "event_id": "902ffa5d",
+    "user_id": "usr-0023",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 3484578.95,
+    "event_time": "2024-04-15T08:05:24.080427+00:00"
+  },
+  {
+    "event_id": "62d500ce",
+    "user_id": "usr-0020",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 1212431.26,
+    "event_time": "2024-04-15T08:05:24.870338+00:00"
+  },
+  {
+    "event_id": "5cb82766",
+    "user_id": "usr-0046",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 2816305.89,
+    "event_time": "2024-04-15T08:05:25.440751+00:00"
+  },
+  {
+    "event_id": "12083f6b",
+    "user_id": "usr-0036",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 1282428.27,
+    "event_time": "2024-04-15T08:05:26.902094+00:00"
+  },
+  {
+    "event_id": "e868e605",
+    "user_id": "usr-0006",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 2682821.33,
+    "event_time": "2024-04-15T08:05:27.598410+00:00"
+  },
+  {
+    "event_id": "7788c1b6",
+    "user_id": "usr-0004",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 4369366.09,
+    "event_time": "2024-04-15T08:05:28.893698+00:00"
+  },
+  {
+    "event_id": "d0eb54c0",
+    "user_id": "usr-0049",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 2402177.09,
+    "event_time": "2024-04-15T08:05:29.419494+00:00"
+  },
+  {
+    "event_id": "4f3ac608",
+    "user_id": "usr-0022",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 4686427.22,
+    "event_time": "2024-04-15T08:05:30.762863+00:00"
+  },
+  {
+    "event_id": "6e0b0e6a",
+    "user_id": "usr-0008",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 3481175.17,
+    "event_time": "2024-04-15T08:05:32.217356+00:00"
+  },
+  {
+    "event_id": "36d6825d",
+    "user_id": "usr-0026",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 3879814.27,
+    "event_time": "2024-04-15T08:05:33.361878+00:00"
+  },
+  {
+    "event_id": "db7eaedb",
+    "user_id": "usr-0035",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 1804626.64,
+    "event_time": "2024-04-15T08:05:34.118672+00:00"
+  },
+  {
+    "event_id": "78c04bcc",
+    "user_id": "usr-0030",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 4572509.19,
+    "event_time": "2024-04-15T08:05:35.478046+00:00"
+  },
+  {
+    "event_id": "2a9a0fc4",
+    "user_id": "usr-0027",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 1311262.81,
+    "event_time": "2024-04-15T08:04:10.222892+00:00"
+  },
+  {
+    "event_id": "5e24efd5",
+    "user_id": "usr-0038",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 988997.0,
+    "event_time": "2024-04-15T08:05:37.644602+00:00"
+  },
+  {
+    "event_id": "afc75cdf",
+    "user_id": "usr-0037",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 1294060.52,
+    "event_time": "2024-04-15T08:05:38.220624+00:00"
+  },
+  {
+    "event_id": "d4f10e4e",
+    "user_id": "usr-0047",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 849485.89,
+    "event_time": "2024-04-15T08:05:39.506534+00:00"
+  },
+  {
+    "event_id": "d31af76b",
+    "user_id": "usr-0011",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 928398.39,
+    "event_time": "2024-04-15T08:05:40.760505+00:00"
+  },
+  {
+    "event_id": "3c39d453",
+    "user_id": "usr-0042",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 4196951.78,
+    "event_time": "2024-04-15T08:05:42.127742+00:00"
+  },
+  {
+    "event_id": "5efa3908",
+    "user_id": "usr-0043",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 4214298.14,
+    "event_time": "2024-04-15T08:05:11.516938+00:00"
+  },
+  {
+    "event_id": "d3ddccc7",
+    "user_id": "usr-0046",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 1872271.46,
+    "event_time": "2024-04-15T08:05:43.094658+00:00"
+  },
+  {
+    "event_id": "9e213677",
+    "user_id": "usr-0043",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 88501.52,
+    "event_time": "2024-04-15T08:05:44.136060+00:00"
+  },
+  {
+    "event_id": "461cd079",
+    "user_id": "usr-0027",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 95541.56,
+    "event_time": "2024-04-15T08:03:00.074715+00:00"
+  },
+  {
+    "event_id": "0ee9a471",
+    "user_id": "usr-0044",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 4591063.73,
+    "event_time": "2024-04-15T08:05:46.350504+00:00"
+  },
+  {
+    "event_id": "af4fa6e8",
+    "user_id": "usr-0016",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 4077919.81,
+    "event_time": "2024-04-15T08:05:47.279766+00:00"
+  },
+  {
+    "event_id": "f5a7dffa",
+    "user_id": "usr-0026",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 2829360.89,
+    "event_time": "2024-04-15T08:05:47.900556+00:00"
+  },
+  {
+    "event_id": "c965e545",
+    "user_id": "usr-0015",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 476567.52,
+    "event_time": "2024-04-15T08:05:49.388836+00:00"
+  },
+  {
+    "event_id": "62ba5479",
+    "user_id": "usr-0036",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 422603.75,
+    "event_time": "2024-04-15T08:05:50.143953+00:00"
+  },
+  {
+    "event_id": "af0fd48a",
+    "user_id": "usr-0042",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 4475008.15,
+    "event_time": "2024-04-15T08:05:51.458349+00:00"
+  },
+  {
+    "event_id": "cfca68b5",
+    "user_id": "usr-0015",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 1362764.31,
+    "event_time": "2024-04-15T08:05:52.861332+00:00"
+  },
+  {
+    "event_id": "c0bf9522",
+    "user_id": "usr-0044",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 904978.97,
+    "event_time": "2024-04-15T08:05:54.270323+00:00"
+  },
+  {
+    "event_id": "a89ed0fb",
+    "user_id": "usr-0002",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 3763749.8,
+    "event_time": "2024-04-15T08:05:55.590836+00:00"
+  },
+  {
+    "event_id": "06f6a544",
+    "user_id": "usr-0026",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 2824151.42,
+    "event_time": "2024-04-15T08:05:56.746090+00:00"
+  },
+  {
+    "event_id": "aaad6849",
+    "user_id": "usr-0025",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 1925392.61,
+    "event_time": "2024-04-15T08:05:57.726125+00:00"
+  },
+  {
+    "event_id": "fa42e52a",
+    "user_id": "usr-0045",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 277945.2,
+    "event_time": "2024-04-15T08:05:58.913819+00:00"
+  },
+  {
+    "event_id": "2d8f0543",
+    "user_id": "usr-0005",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 4844913.43,
+    "event_time": "2024-04-15T08:05:59.738325+00:00"
+  },
+  {
+    "event_id": "b6572fab",
+    "user_id": "usr-0041",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 1148410.57,
+    "event_time": "2024-04-15T08:06:00.429977+00:00"
+  },
+  {
+    "event_id": "c6a0c81b",
+    "user_id": "usr-0025",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 437613.65,
+    "event_time": "2024-04-15T08:06:01.393622+00:00"
+  },
+  {
+    "event_id": "68432dee",
+    "user_id": "usr-0016",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 779562.61,
+    "event_time": "2024-04-15T08:06:02.435961+00:00"
+  },
+  {
+    "event_id": "c5d1d590",
+    "user_id": "usr-0041",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 1809894.14,
+    "event_time": "2024-04-15T08:06:03.589974+00:00"
+  },
+  {
+    "event_id": "dfec279d",
+    "user_id": "usr-0020",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 671209.95,
+    "event_time": "2024-04-15T08:06:03.999799+00:00"
+  },
+  {
+    "event_id": "d8455e8c",
+    "user_id": "usr-0029",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 525431.71,
+    "event_time": "2024-04-15T08:06:04.524669+00:00"
+  },
+  {
+    "event_id": "a014ed62",
+    "user_id": "usr-0036",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 4319953.7,
+    "event_time": "2024-04-15T08:06:04.932212+00:00"
+  },
+  {
+    "event_id": "c2f92f52",
+    "user_id": "usr-0027",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 2864082.55,
+    "event_time": "2024-04-15T08:06:05.247021+00:00"
+  },
+  {
+    "event_id": "3086b0ea",
+    "user_id": "usr-0025",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 1349349.92,
+    "event_time": "2024-04-15T08:06:05.750521+00:00"
+  },
+  {
+    "event_id": "194424c2",
+    "user_id": "usr-0011",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 2426314.26,
+    "event_time": "2024-04-15T08:06:06.225643+00:00"
+  },
+  {
+    "event_id": "f1c9b865",
+    "user_id": "usr-0017",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 2294729.55,
+    "event_time": "2024-04-15T08:06:06.617949+00:00"
+  },
+  {
+    "event_id": "10a1f5be",
+    "user_id": "usr-0001",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 4022341.55,
+    "event_time": "2024-04-15T08:06:07.080536+00:00"
+  },
+  {
+    "event_id": "4dd595d4",
+    "user_id": "usr-0022",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 1509172.07,
+    "event_time": "2024-04-15T08:06:07.775986+00:00"
+  },
+  {
+    "event_id": "84ac1412",
+    "user_id": "usr-0045",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 4823227.37,
+    "event_time": "2024-04-15T08:06:08.799840+00:00"
+  },
+  {
+    "event_id": "d8500e56",
+    "user_id": "usr-0019",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 1636172.32,
+    "event_time": "2024-04-15T08:06:10.262310+00:00"
+  },
+  {
+    "event_id": "4a0890fb",
+    "user_id": "usr-0026",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 2965212.9,
+    "event_time": "2024-04-15T08:06:10.898670+00:00"
+  },
+  {
+    "event_id": "10d87ea5",
+    "user_id": "usr-0044",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 4715444.83,
+    "event_time": "2024-04-15T08:06:11.853425+00:00"
+  },
+  {
+    "event_id": "afd93097",
+    "user_id": "usr-0019",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 3368158.49,
+    "event_time": "2024-04-15T08:06:12.405003+00:00"
+  },
+  {
+    "event_id": "aab6ac66",
+    "user_id": "usr-0020",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 3947493.05,
+    "event_time": "2024-04-15T08:06:12.872018+00:00"
+  },
+  {
+    "event_id": "351ae95f",
+    "user_id": "usr-0039",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 2722789.56,
+    "event_time": "2024-04-15T08:06:13.260776+00:00"
+  },
+  {
+    "event_id": "189f66bf",
+    "user_id": "usr-0024",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 555753.43,
+    "event_time": "2024-04-15T08:06:14.509641+00:00"
+  },
+  {
+    "event_id": "02184f7b",
+    "user_id": "usr-0043",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 2820469.26,
+    "event_time": "2024-04-15T08:06:15.107518+00:00"
+  },
+  {
+    "event_id": "00499d84",
+    "user_id": "usr-0042",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 538663.31,
+    "event_time": "2024-04-15T08:06:16.181555+00:00"
+  },
+  {
+    "event_id": "bd7425e6",
+    "user_id": "usr-0015",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 2234434.97,
+    "event_time": "2024-04-15T08:06:16.599883+00:00"
+  },
+  {
+    "event_id": "ca5eb71c",
+    "user_id": "usr-0050",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 1731387.26,
+    "event_time": "2024-04-15T08:06:17.369244+00:00"
+  },
+  {
+    "event_id": "1edac733",
+    "user_id": "usr-0007",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 4158275.55,
+    "event_time": "2024-04-15T08:06:17.698719+00:00"
+  },
+  {
+    "event_id": "e98767e3",
+    "user_id": "usr-0023",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 2610363.0,
+    "event_time": "2024-04-15T08:06:18.874900+00:00"
+  },
+  {
+    "event_id": "6d4b62f1",
+    "user_id": "usr-0007",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 345199.96,
+    "event_time": "2024-04-15T08:06:19.592860+00:00"
+  },
+  {
+    "event_id": "4e046998",
+    "user_id": "usr-0046",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 3388925.27,
+    "event_time": "2024-04-15T08:06:19.946480+00:00"
+  },
+  {
+    "event_id": "c4c7193d",
+    "user_id": "usr-0048",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 1661638.38,
+    "event_time": "2024-04-15T08:06:20.443705+00:00"
+  },
+  {
+    "event_id": "bddbc7f6",
+    "user_id": "usr-0030",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 940070.76,
+    "event_time": "2024-04-15T08:06:21.255348+00:00"
+  },
+  {
+    "event_id": "7ae7d8f6",
+    "user_id": "usr-0026",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 1950290.54,
+    "event_time": "2024-04-15T08:05:02.344117+00:00"
+  },
+  {
+    "event_id": "2cd70433",
+    "user_id": "usr-0014",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 3999516.76,
+    "event_time": "2024-04-15T08:06:23.489800+00:00"
+  },
+  {
+    "event_id": "fc7e5336",
+    "user_id": "usr-0024",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 1319143.44,
+    "event_time": "2024-04-15T08:06:24.434067+00:00"
+  },
+  {
+    "event_id": "fb0dac5d",
+    "user_id": "usr-0034",
+    "product": "makanan",
+    "channel": "teller",
+    "amount": 3060429.02,
+    "event_time": "2024-04-15T08:06:25.769231+00:00"
+  },
+  {
+    "event_id": "fb06ae53",
+    "user_id": "usr-0023",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 4070553.89,
+    "event_time": "2024-04-15T08:06:26.773637+00:00"
+  },
+  {
+    "event_id": "2fdc114a",
+    "user_id": "usr-0020",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 3363829.31,
+    "event_time": "2024-04-15T08:06:27.920823+00:00"
+  },
+  {
+    "event_id": "9cb1ac99",
+    "user_id": "usr-0016",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 3470248.34,
+    "event_time": "2024-04-15T08:06:28.596646+00:00"
+  },
+  {
+    "event_id": "1aee424a",
+    "user_id": "usr-0027",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 2120963.52,
+    "event_time": "2024-04-15T08:06:29.509636+00:00"
+  },
+  {
+    "event_id": "4eee2a6b",
+    "user_id": "usr-0035",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 2453313.71,
+    "event_time": "2024-04-15T08:06:30.393640+00:00"
+  },
+  {
+    "event_id": "8dafe966",
+    "user_id": "usr-0021",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 4328955.93,
+    "event_time": "2024-04-15T08:06:30.861996+00:00"
+  },
+  {
+    "event_id": "bc5822fc",
+    "user_id": "usr-0032",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 2051580.4,
+    "event_time": "2024-04-15T08:06:32.304206+00:00"
+  },
+  {
+    "event_id": "8308f12f",
+    "user_id": "usr-0046",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 422526.42,
+    "event_time": "2024-04-15T08:06:33.194277+00:00"
+  },
+  {
+    "event_id": "dee0157e",
+    "user_id": "usr-0049",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 1131968.65,
+    "event_time": "2024-04-15T08:06:33.531310+00:00"
+  },
+  {
+    "event_id": "cfa6030a",
+    "user_id": "usr-0050",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 2867843.13,
+    "event_time": "2024-04-15T08:06:34.177714+00:00"
+  },
+  {
+    "event_id": "1861d2cb",
+    "user_id": "usr-0035",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 3802420.61,
+    "event_time": "2024-04-15T08:06:34.799181+00:00"
+  },
+  {
+    "event_id": "36241601",
+    "user_id": "usr-0014",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 1495567.59,
+    "event_time": "2024-04-15T08:06:35.628821+00:00"
+  },
+  {
+    "event_id": "8f5abd03",
+    "user_id": "usr-0029",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 4327799.45,
+    "event_time": "2024-04-15T08:06:37.127996+00:00"
+  },
+  {
+    "event_id": "73d86e95",
+    "user_id": "usr-0016",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 4306632.99,
+    "event_time": "2024-04-15T08:06:37.568859+00:00"
+  },
+  {
+    "event_id": "c41b9e94",
+    "user_id": "usr-0028",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 4069514.03,
+    "event_time": "2024-04-15T08:06:38.601173+00:00"
+  },
+  {
+    "event_id": "e58cfc01",
+    "user_id": "usr-0037",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 1625031.54,
+    "event_time": "2024-04-15T08:06:39.867702+00:00"
+  },
+  {
+    "event_id": "fcae543f",
+    "user_id": "usr-0019",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 686588.64,
+    "event_time": "2024-04-15T08:06:41.012567+00:00"
+  },
+  {
+    "event_id": "aef2f1d9",
+    "user_id": "usr-0027",
+    "product": "makanan",
+    "channel": "web",
+    "amount": 3510118.37,
+    "event_time": "2024-04-15T08:06:42.212680+00:00"
+  },
+  {
+    "event_id": "f5113c34",
+    "user_id": "usr-0010",
+    "product": "fashion",
+    "channel": "teller",
+    "amount": 2452399.04,
+    "event_time": "2024-04-15T08:06:42.671909+00:00"
+  },
+  {
+    "event_id": "7ede2c23",
+    "user_id": "usr-0018",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 386826.2,
+    "event_time": "2024-04-15T08:06:43.664820+00:00"
+  },
+  {
+    "event_id": "79a79747",
+    "user_id": "usr-0050",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 3476571.04,
+    "event_time": "2024-04-15T08:06:44.918338+00:00"
+  },
+  {
+    "event_id": "df760c4a",
+    "user_id": "usr-0030",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 4345849.74,
+    "event_time": "2024-04-15T08:06:46.271119+00:00"
+  },
+  {
+    "event_id": "7837e9b3",
+    "user_id": "usr-0006",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 4252030.14,
+    "event_time": "2024-04-15T08:06:47.587720+00:00"
+  },
+  {
+    "event_id": "df598b51",
+    "user_id": "usr-0026",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 2478627.59,
+    "event_time": "2024-04-15T08:06:48.842534+00:00"
+  },
+  {
+    "event_id": "9757f6b0",
+    "user_id": "usr-0019",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 2835049.13,
+    "event_time": "2024-04-15T08:06:49.529972+00:00"
+  },
+  {
+    "event_id": "a9ace1b4",
+    "user_id": "usr-0022",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 506877.96,
+    "event_time": "2024-04-15T08:06:50.412377+00:00"
+  },
+  {
+    "event_id": "5ec19d51",
+    "user_id": "usr-0030",
+    "product": "kesehatan",
+    "channel": "teller",
+    "amount": 13372.9,
+    "event_time": "2024-04-15T08:05:41.653045+00:00"
+  },
+  {
+    "event_id": "973238a5",
+    "user_id": "usr-0013",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 803297.54,
+    "event_time": "2024-04-15T08:06:53.102683+00:00"
+  },
+  {
+    "event_id": "14da2219",
+    "user_id": "usr-0018",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 421278.45,
+    "event_time": "2024-04-15T08:06:54.521954+00:00"
+  },
+  {
+    "event_id": "f8102fe6",
+    "user_id": "usr-0042",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 3632681.93,
+    "event_time": "2024-04-15T08:06:55.619365+00:00"
+  },
+  {
+    "event_id": "4a3e8690",
+    "user_id": "usr-0028",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 1074971.67,
+    "event_time": "2024-04-15T08:06:56.825644+00:00"
+  },
+  {
+    "event_id": "e0d861b6",
+    "user_id": "usr-0038",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 50232.22,
+    "event_time": "2024-04-15T08:06:57.219170+00:00"
+  },
+  {
+    "event_id": "4ce19afa",
+    "user_id": "usr-0008",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 2393724.2,
+    "event_time": "2024-04-15T08:06:57.931459+00:00"
+  },
+  {
+    "event_id": "074e71c3",
+    "user_id": "usr-0006",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 1573623.87,
+    "event_time": "2024-04-15T08:06:58.506195+00:00"
+  },
+  {
+    "event_id": "7e1d5619",
+    "user_id": "usr-0009",
+    "product": "fashion",
+    "channel": "web",
+    "amount": 351373.92,
+    "event_time": "2024-04-15T08:06:59.863382+00:00"
+  },
+  {
+    "event_id": "5cf2e2ab",
+    "user_id": "usr-0040",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 3614935.81,
+    "event_time": "2024-04-15T08:07:00.839331+00:00"
+  },
+  {
+    "event_id": "76160fc5",
+    "user_id": "usr-0010",
+    "product": "otomotif",
+    "channel": "teller",
+    "amount": 4301213.0,
+    "event_time": "2024-04-15T08:07:01.893027+00:00"
+  },
+  {
+    "event_id": "bfc9f9bf",
+    "user_id": "usr-0007",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 1764162.85,
+    "event_time": "2024-04-15T08:07:02.297053+00:00"
+  },
+  {
+    "event_id": "e8f118b3",
+    "user_id": "usr-0009",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 2771449.19,
+    "event_time": "2024-04-15T08:07:03.112319+00:00"
+  },
+  {
+    "event_id": "d8023d49",
+    "user_id": "usr-0039",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 1035174.13,
+    "event_time": "2024-04-15T08:07:04.132328+00:00"
+  },
+  {
+    "event_id": "9a659840",
+    "user_id": "usr-0013",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 3921169.98,
+    "event_time": "2024-04-15T08:07:05.160640+00:00"
+  },
+  {
+    "event_id": "c42d0872",
+    "user_id": "usr-0016",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 2502916.88,
+    "event_time": "2024-04-15T08:07:06.413174+00:00"
+  },
+  {
+    "event_id": "c2cd9380",
+    "user_id": "usr-0034",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 4670282.76,
+    "event_time": "2024-04-15T08:07:07.425890+00:00"
+  },
+  {
+    "event_id": "76559d95",
+    "user_id": "usr-0037",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 3816002.43,
+    "event_time": "2024-04-15T08:07:07.884269+00:00"
+  },
+  {
+    "event_id": "0c5ba9fb",
+    "user_id": "usr-0050",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 78829.19,
+    "event_time": "2024-04-15T08:07:09.329613+00:00"
+  },
+  {
+    "event_id": "10c6f15f",
+    "user_id": "usr-0004",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 3146567.77,
+    "event_time": "2024-04-15T08:07:09.888505+00:00"
+  },
+  {
+    "event_id": "45d6aee7",
+    "user_id": "usr-0027",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 3206281.07,
+    "event_time": "2024-04-15T08:07:10.789764+00:00"
+  },
+  {
+    "event_id": "e72f5d43",
+    "user_id": "usr-0010",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 2561410.44,
+    "event_time": "2024-04-15T08:07:11.734950+00:00"
+  },
+  {
+    "event_id": "5275422b",
+    "user_id": "usr-0010",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 1557745.77,
+    "event_time": "2024-04-15T08:07:12.278787+00:00"
+  },
+  {
+    "event_id": "43b5755b",
+    "user_id": "usr-0016",
+    "product": "elektronik",
+    "channel": "teller",
+    "amount": 588773.04,
+    "event_time": "2024-04-15T08:07:13.103770+00:00"
+  },
+  {
+    "event_id": "49cc08c3",
+    "user_id": "usr-0004",
+    "product": "fashion",
+    "channel": "mobile",
+    "amount": 73198.21,
+    "event_time": "2024-04-15T08:07:14.138526+00:00"
+  },
+  {
+    "event_id": "bfddb9a7",
+    "user_id": "usr-0001",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 843145.14,
+    "event_time": "2024-04-15T08:07:14.603180+00:00"
+  },
+  {
+    "event_id": "663214d1",
+    "user_id": "usr-0050",
+    "product": "elektronik",
+    "channel": "mobile",
+    "amount": 1681705.02,
+    "event_time": "2024-04-15T08:07:15.055497+00:00"
+  },
+  {
+    "event_id": "f4b60c15",
+    "user_id": "usr-0034",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 2485776.37,
+    "event_time": "2024-04-15T08:07:15.870686+00:00"
+  },
+  {
+    "event_id": "132e0f94",
+    "user_id": "usr-0004",
+    "product": "otomotif",
+    "channel": "web",
+    "amount": 1844762.01,
+    "event_time": "2024-04-15T08:07:16.783624+00:00"
+  },
+  {
+    "event_id": "ceeda5ee",
+    "user_id": "usr-0007",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 3706492.01,
+    "event_time": "2024-04-15T08:07:17.389763+00:00"
+  },
+  {
+    "event_id": "3bb34728",
+    "user_id": "usr-0001",
+    "product": "kesehatan",
+    "channel": "atm",
+    "amount": 1921067.58,
+    "event_time": "2024-04-15T08:07:17.692845+00:00"
+  },
+  {
+    "event_id": "5345f401",
+    "user_id": "usr-0003",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 1615792.05,
+    "event_time": "2024-04-15T08:07:18.172947+00:00"
+  },
+  {
+    "event_id": "3463468a",
+    "user_id": "usr-0047",
+    "product": "elektronik",
+    "channel": "atm",
+    "amount": 605810.64,
+    "event_time": "2024-04-15T08:07:18.972455+00:00"
+  },
+  {
+    "event_id": "9f66b7fb",
+    "user_id": "usr-0004",
+    "product": "otomotif",
+    "channel": "mobile",
+    "amount": 4770856.24,
+    "event_time": "2024-04-15T08:07:20.080446+00:00"
+  },
+  {
+    "event_id": "78e04046",
+    "user_id": "usr-0030",
+    "product": "makanan",
+    "channel": "atm",
+    "amount": 441063.76,
+    "event_time": "2024-04-15T08:07:20.463158+00:00"
+  },
+  {
+    "event_id": "23f46b4d",
+    "user_id": "usr-0024",
+    "product": "otomotif",
+    "channel": "atm",
+    "amount": 3700484.17,
+    "event_time": "2024-04-15T08:07:21.311253+00:00"
+  },
+  {
+    "event_id": "c8974262",
+    "user_id": "usr-0024",
+    "product": "kesehatan",
+    "channel": "web",
+    "amount": 3664992.05,
+    "event_time": "2024-04-15T08:07:21.902354+00:00"
+  },
+  {
+    "event_id": "b35d03b8",
+    "user_id": "usr-0016",
+    "product": "kesehatan",
+    "channel": "mobile",
+    "amount": 1172658.73,
+    "event_time": "2024-04-15T08:07:22.858225+00:00"
+  },
+  {
+    "event_id": "51a6d03d",
+    "user_id": "usr-0045",
+    "product": "makanan",
+    "channel": "mobile",
+    "amount": 3797056.47,
+    "event_time": "2024-04-15T08:07:23.573933+00:00"
+  },
+  {
+    "event_id": "12a7b5fd",
+    "user_id": "usr-0048",
+    "product": "elektronik",
+    "channel": "web",
+    "amount": 2653774.3,
+    "event_time": "2024-04-15T08:07:24.325463+00:00"
+  },
+  {
+    "event_id": "443012c0",
+    "user_id": "usr-0032",
+    "product": "fashion",
+    "channel": "atm",
+    "amount": 474202.93,
+    "event_time": "2024-04-15T08:07:24.911264+00:00"
+  }
+]

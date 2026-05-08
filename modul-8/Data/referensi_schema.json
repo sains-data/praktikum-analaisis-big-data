@@ -1,0 +1,125 @@
+{
+  "topics": {
+    "transaksi-stream": {
+      "partitions": 3,
+      "replication_factor": 1,
+      "fields": {
+        "event_id": {
+          "type": "string",
+          "example": "3a9f21b0",
+          "note": "UUID 8 karakter pertama"
+        },
+        "user_id": {
+          "type": "string",
+          "example": "usr-0023",
+          "note": "Juga digunakan sebagai Kafka message key"
+        },
+        "product": {
+          "type": "string",
+          "example": "elektronik",
+          "enum": [
+            "elektronik",
+            "fashion",
+            "makanan",
+            "kesehatan",
+            "otomotif"
+          ]
+        },
+        "channel": {
+          "type": "string",
+          "example": "mobile",
+          "enum": [
+            "mobile",
+            "web",
+            "atm",
+            "teller"
+          ]
+        },
+        "amount": {
+          "type": "double",
+          "example": 872345.0,
+          "range": "10000 – 5000000"
+        },
+        "event_time": {
+          "type": "timestamp",
+          "example": "2024-04-15T10:01:05.123456+00:00",
+          "note": "ISO 8601, UTC"
+        }
+      }
+    },
+    "sensor-iot": {
+      "partitions": 2,
+      "replication_factor": 1,
+      "fields": {
+        "event_id": {
+          "type": "string",
+          "example": "b2c3d4e5"
+        },
+        "sensor_id": {
+          "type": "string",
+          "example": "sensor-007",
+          "note": "Juga digunakan sebagai Kafka message key"
+        },
+        "location": {
+          "type": "string",
+          "example": "gudang-A",
+          "enum": [
+            "gudang-A",
+            "gudang-B",
+            "lantai-1",
+            "lantai-2",
+            "parkir"
+          ]
+        },
+        "temperature": {
+          "type": "double",
+          "example": 32.5,
+          "range": "20.0 – 45.0 °C"
+        },
+        "humidity": {
+          "type": "double",
+          "example": 67.3,
+          "range": "30.0 – 90.0 %"
+        },
+        "status": {
+          "type": "string",
+          "example": "normal",
+          "enum": [
+            "normal",
+            "warning",
+            "critical"
+          ]
+        },
+        "event_time": {
+          "type": "timestamp",
+          "example": "2024-04-15T09:15:00+00:00"
+        }
+      }
+    },
+    "penjualan-agregat": {
+      "partitions": 1,
+      "replication_factor": 1,
+      "note": "Ditulis oleh Spark Streaming — output agregasi dari transaksi-stream",
+      "fields": {
+        "window_start": {
+          "type": "timestamp"
+        },
+        "window_end": {
+          "type": "timestamp"
+        },
+        "channel": {
+          "type": "string"
+        },
+        "transaksi_count": {
+          "type": "long"
+        },
+        "total_penjualan": {
+          "type": "double"
+        },
+        "avg_penjualan": {
+          "type": "double"
+        }
+      }
+    }
+  }
+}
