@@ -811,7 +811,7 @@ bash scripts/init_topics.sh
 
 ## 9. Checklist Sebelum Memulai Latihan
 
-Gunakan checklist ini untuk memastikan lingkungan siap sebelum membagikan ke mahasiswa.
+Periksa checklist ini untuk memastikan lingkungan siap sebelum memulai latihan.
 
 - [ ] `docker compose ps` menampilkan `kafka-broker` status **Up (healthy)**
 - [ ] `docker compose ps` menampilkan `kafka-ui` status **Up**
