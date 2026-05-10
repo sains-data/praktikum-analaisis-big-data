@@ -6,11 +6,11 @@ Letakkan semua file ini di dalam folder `bigdata-spark/modul9/data/`.
 
 | File | Record | Format | Digunakan Di | Keterangan |
 |---|---|---|---|---|
-| `transaksi_ml.json` | 10.000 | JSON | Tahap 1–5 | Dataset utama — seed ke HDFS sebelum latihan |
-| `transaksi_ml.csv` | 10.000 | CSV | Eksplorasi lokal | Format pandas-friendly, tanpa perlu Spark |
-| `transaksi_ml_sample.json` | 100 | JSON | Referensi cepat | Cuplikan tiap 100 baris untuk melihat schema |
-| `pelanggan_agregat.json` | 200 | JSON | Tahap 3 preview | Agregasi per pelanggan — preview input K-Means |
-| `referensi_schema.json` | — | JSON | Semua tahap | Dokumentasi schema, label, fitur, statistik |
+| `transaksi_ml.json`,`transaksi_ml.parquet` | 10.000 | JSON, Parquet | Tahap 1–5 | Dataset utama — seed ke HDFS sebelum latihan |
+| `transaksi_ml.csv`, `transaksi_ml.parquet` | 10.000 | CSV, Parquet | Eksplorasi lokal | Format pandas-friendly, tanpa perlu Spark |
+| `transaksi_ml_sample.json`, `transaksi_ml_sample.parquet` | 100 | JSON, Parquet | Referensi cepat | Cuplikan tiap 100 baris untuk melihat schema |
+| `pelanggan_agregat.json`, `pelanggan_agregat.parquet` | 200 | JSON, Parquet | Tahap 3 preview | Agregasi per pelanggan — preview input K-Means |
+| `referensi_schema.json`, `referensi_schema.parquet` | — | JSON, Parquet | Semua tahap | Dokumentasi schema, label, fitur, statistik |
 
 ## Cara Menggunakan
 
