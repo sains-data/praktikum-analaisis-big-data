@@ -1,0 +1,258 @@
+{
+  "dataset": "transaksi_ml",
+  "total_baris": 10000,
+  "random_seed": 42,
+  "total_pelanggan_unik": 200,
+  "hdfs_path": {
+    "bronze": "hdfs:///datalake/bronze/transaksi/",
+    "silver": "hdfs:///datalake/silver/transaksi/",
+    "gold_segmentasi": "hdfs:///datalake/gold/segmentasi_pelanggan/",
+    "gold_prediksi": "hdfs:///datalake/gold/prediksi_segmen/",
+    "model_dt": "hdfs:///models/segmentasi_dt/v1",
+    "model_klasifikasi": "hdfs:///models/klasifikasi_transaksi/v1",
+    "feature_store": "hdfs:///feature_store/pelanggan_v1/"
+  },
+  "schema_kolom": {
+    "id_transaksi": {
+      "tipe": "StringType",
+      "nullable": true,
+      "deskripsi": "UUID 8 karakter, unik per baris"
+    },
+    "id_pelanggan": {
+      "tipe": "StringType",
+      "nullable": true,
+      "deskripsi": "200 pelanggan unik, format usr-XXXX"
+    },
+    "kategori": {
+      "tipe": "StringType",
+      "nullable": true,
+      "deskripsi": "Kategori produk",
+      "nilai_unik": [
+        "elektronik",
+        "fashion",
+        "makanan",
+        "kesehatan",
+        "otomotif",
+        "olahraga"
+      ]
+    },
+    "channel": {
+      "tipe": "StringType",
+      "nullable": true,
+      "deskripsi": "Saluran transaksi",
+      "nilai_unik": [
+        "mobile",
+        "web",
+        "atm",
+        "teller"
+      ]
+    },
+    "kuantitas": {
+      "tipe": "IntegerType",
+      "nullable": true,
+      "deskripsi": "Jumlah unit",
+      "range": "1–20"
+    },
+    "harga_satuan": {
+      "tipe": "DoubleType",
+      "nullable": true,
+      "deskripsi": "Harga per unit (Rp), berbeda per kategori"
+    },
+    "diskon": {
+      "tipe": "DoubleType",
+      "nullable": true,
+      "deskripsi": "Rasio diskon 0.0–0.3"
+    },
+    "total_nilai": {
+      "tipe": "DoubleType",
+      "nullable": true,
+      "deskripsi": "kuantitas × harga_satuan × (1–diskon)"
+    },
+    "berat_kg": {
+      "tipe": "DoubleType",
+      "nullable": true,
+      "deskripsi": "Berat paket kg, range 0.1–10.0"
+    }
+  },
+  "label_derivasi": {
+    "segmen_risiko": {
+      "kolom_sumber": "total_nilai",
+      "tipe_tugas": "Klasifikasi multi-kelas (3 kelas)",
+      "digunakan_di": [
+        "Logistic Regression",
+        "Decision Tree",
+        "Pipeline E2E"
+      ],
+      "aturan": {
+        "rendah": "total_nilai < 100.000",
+        "menengah": "100.000 ≤ total_nilai < 1.000.000",
+        "tinggi": "total_nilai ≥ 1.000.000"
+      },
+      "distribusi": {
+        "menengah": 2110,
+        "tinggi": 7762,
+        "rendah": 128
+      },
+      "catatan": "Kelas tidak seimbang: tinggi >> menengah > rendah — relevan untuk diskusi Precision/Recall"
+    },
+    "label_regresi": {
+      "kolom_sumber": "total_nilai",
+      "tipe_tugas": "Regresi kontinu",
+      "digunakan_di": [
+        "Linear Regression"
+      ]
+    },
+    "label_biner_opsional": {
+      "kolom_sumber": "total_nilai",
+      "aturan": "1 jika total_nilai > 1.000.000 else 0",
+      "digunakan_di": [
+        "Logistic Regression versi biner — Kode 102 di modul"
+      ]
+    }
+  },
+  "fitur_per_model": {
+    "Linear Regression": {
+      "label": "total_nilai",
+      "features_raw": [
+        "kuantitas",
+        "harga_satuan",
+        "diskon",
+        "berat_kg"
+      ],
+      "features_encoded": [
+        "kat_idx (dari StringIndexer kategori)",
+        "ch_idx (dari StringIndexer channel)"
+      ],
+      "preprocessing": "StandardScaler (withMean=True, withStd=True)",
+      "split": "80% train / 20% test, seed=42",
+      "metrik": [
+        "RMSE",
+        "MAE",
+        "R2"
+      ]
+    },
+    "Logistic Regression": {
+      "label": "segmen → label (StringIndexer)",
+      "features_raw": [
+        "kuantitas",
+        "harga_satuan",
+        "diskon",
+        "berat_kg"
+      ],
+      "features_encoded": [
+        "kat_idx",
+        "ch_idx"
+      ],
+      "preprocessing": "StandardScaler",
+      "split": "80/20 seed=42",
+      "metrik": [
+        "Accuracy",
+        "F1",
+        "AUC-ROC"
+      ]
+    },
+    "Decision Tree": {
+      "label": "segmen → label (StringIndexer)",
+      "features_raw": [
+        "kuantitas",
+        "harga_satuan",
+        "diskon",
+        "berat_kg"
+      ],
+      "features_encoded": [
+        "kat_idx",
+        "ch_idx"
+      ],
+      "hyperparameter": {
+        "maxDepth": 6,
+        "impurity": "gini"
+      },
+      "split": "80/20 seed=42",
+      "metrik": [
+        "Accuracy",
+        "F1",
+        "Precision",
+        "Recall"
+      ],
+      "output_tambahan": "featureImportances"
+    },
+    "K-Means": {
+      "unit_analisis": "id_pelanggan (bukan per transaksi, harus di-aggregate dulu)",
+      "features_agg": [
+        "total_trx",
+        "total_belanja",
+        "avg_belanja",
+        "maks_belanja",
+        "ragam_kategori"
+      ],
+      "preprocessing": "StandardScaler (withMean=True, withStd=True)",
+      "k_range": "2–7 (elbow method)",
+      "metrik": [
+        "Silhouette Score",
+        "Inertia (trainingCost)"
+      ],
+      "output": "hdfs:///datalake/gold/segmentasi_pelanggan/"
+    }
+  },
+  "harga_dasar_per_kategori_Rp": {
+    "elektronik": 500000,
+    "otomotif": 800000,
+    "fashion": 200000,
+    "makanan": 50000,
+    "kesehatan": 150000,
+    "olahraga": 300000
+  },
+  "statistik_deskriptif": {
+    "kuantitas": {
+      "mean": 10.45,
+      "min": 1,
+      "max": 20
+    },
+    "harga_satuan": {
+      "mean": 590819.28,
+      "min": 25068.1,
+      "max": 2399847.45
+    },
+    "diskon": {
+      "mean": 0.15,
+      "min": 0.0,
+      "max": 0.3
+    },
+    "total_nilai": {
+      "mean": 5238263.25,
+      "min": 18078.81,
+      "max": 45543907.06
+    },
+    "distribusi_kategori": {
+      "olahraga": 1716,
+      "otomotif": 1732,
+      "kesehatan": 1642,
+      "fashion": 1624,
+      "elektronik": 1622,
+      "makanan": 1664
+    },
+    "distribusi_channel": {
+      "mobile": 2519,
+      "web": 2482,
+      "atm": 2460,
+      "teller": 2539
+    },
+    "distribusi_segmen": {
+      "menengah": 2110,
+      "tinggi": 7762,
+      "rendah": 128
+    }
+  },
+  "nilai_null_per_kolom": {
+    "id_transaksi": 0,
+    "id_pelanggan": 0,
+    "kategori": 0,
+    "channel": 0,
+    "kuantitas": 0,
+    "harga_satuan": 0,
+    "diskon": 0,
+    "total_nilai": 0,
+    "berat_kg": 0,
+    "segmen": 0
+  }
+}

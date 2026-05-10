@@ -1,0 +1,1602 @@
+[
+  {
+    "id_pelanggan": "usr-0001",
+    "total_trx": 49,
+    "total_belanja": 270749030.34,
+    "avg_belanja": 5525490.42,
+    "maks_belanja": 25812064.9,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0002",
+    "total_trx": 45,
+    "total_belanja": 197500096.04,
+    "avg_belanja": 4388891.02,
+    "maks_belanja": 34170391.97,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0003",
+    "total_trx": 49,
+    "total_belanja": 348202785.77,
+    "avg_belanja": 7106179.3,
+    "maks_belanja": 31834536.68,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0004",
+    "total_trx": 49,
+    "total_belanja": 203787113.37,
+    "avg_belanja": 4158920.68,
+    "maks_belanja": 28203421.69,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0005",
+    "total_trx": 47,
+    "total_belanja": 310341984.78,
+    "avg_belanja": 6603020.95,
+    "maks_belanja": 21251053.16,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0006",
+    "total_trx": 60,
+    "total_belanja": 322439368.82,
+    "avg_belanja": 5373989.48,
+    "maks_belanja": 22016180.88,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0007",
+    "total_trx": 43,
+    "total_belanja": 225630860.31,
+    "avg_belanja": 5247229.31,
+    "maks_belanja": 31937754.57,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0008",
+    "total_trx": 54,
+    "total_belanja": 301579199.93,
+    "avg_belanja": 5584800.0,
+    "maks_belanja": 24168210.25,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0009",
+    "total_trx": 49,
+    "total_belanja": 208484290.78,
+    "avg_belanja": 4254781.44,
+    "maks_belanja": 45543907.06,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0010",
+    "total_trx": 56,
+    "total_belanja": 304223391.7,
+    "avg_belanja": 5432560.57,
+    "maks_belanja": 27456710.53,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0011",
+    "total_trx": 56,
+    "total_belanja": 293697136.25,
+    "avg_belanja": 5244591.72,
+    "maks_belanja": 19378493.41,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0012",
+    "total_trx": 44,
+    "total_belanja": 223039506.85,
+    "avg_belanja": 5069079.7,
+    "maks_belanja": 27938384.76,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0013",
+    "total_trx": 47,
+    "total_belanja": 263491237.62,
+    "avg_belanja": 5606196.55,
+    "maks_belanja": 24085746.34,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0014",
+    "total_trx": 49,
+    "total_belanja": 233427977.29,
+    "avg_belanja": 4763836.27,
+    "maks_belanja": 34760846.31,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0015",
+    "total_trx": 56,
+    "total_belanja": 308228421.22,
+    "avg_belanja": 5504078.95,
+    "maks_belanja": 32708738.86,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0016",
+    "total_trx": 56,
+    "total_belanja": 394924669.31,
+    "avg_belanja": 7052226.24,
+    "maks_belanja": 30314944.01,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0017",
+    "total_trx": 51,
+    "total_belanja": 296684587.44,
+    "avg_belanja": 5817344.85,
+    "maks_belanja": 32011797.05,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0018",
+    "total_trx": 54,
+    "total_belanja": 297007391.25,
+    "avg_belanja": 5500136.88,
+    "maks_belanja": 24192263.41,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0019",
+    "total_trx": 51,
+    "total_belanja": 202216350.97,
+    "avg_belanja": 3965026.49,
+    "maks_belanja": 27230046.25,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0020",
+    "total_trx": 51,
+    "total_belanja": 250979123.98,
+    "avg_belanja": 4921159.29,
+    "maks_belanja": 34007199.18,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0021",
+    "total_trx": 48,
+    "total_belanja": 269877366.24,
+    "avg_belanja": 5622445.13,
+    "maks_belanja": 23640795.81,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0022",
+    "total_trx": 49,
+    "total_belanja": 378934103.44,
+    "avg_belanja": 7733349.05,
+    "maks_belanja": 38080731.41,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0023",
+    "total_trx": 47,
+    "total_belanja": 256655340.39,
+    "avg_belanja": 5460751.92,
+    "maks_belanja": 20527910.28,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0024",
+    "total_trx": 46,
+    "total_belanja": 279511500.14,
+    "avg_belanja": 6076336.96,
+    "maks_belanja": 32222734.55,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0025",
+    "total_trx": 46,
+    "total_belanja": 248452338.81,
+    "avg_belanja": 5401137.8,
+    "maks_belanja": 30218157.31,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0026",
+    "total_trx": 59,
+    "total_belanja": 210425134.43,
+    "avg_belanja": 3566527.7,
+    "maks_belanja": 15680939.4,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0027",
+    "total_trx": 53,
+    "total_belanja": 292003422.4,
+    "avg_belanja": 5509498.54,
+    "maks_belanja": 31467456.45,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0028",
+    "total_trx": 54,
+    "total_belanja": 274431761.01,
+    "avg_belanja": 5082069.65,
+    "maks_belanja": 23793589.58,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0029",
+    "total_trx": 55,
+    "total_belanja": 229804127.27,
+    "avg_belanja": 4178256.86,
+    "maks_belanja": 20718678.52,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0030",
+    "total_trx": 55,
+    "total_belanja": 255231494.17,
+    "avg_belanja": 4640572.62,
+    "maks_belanja": 32167799.11,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0031",
+    "total_trx": 62,
+    "total_belanja": 351149769.83,
+    "avg_belanja": 5663705.96,
+    "maks_belanja": 30930617.25,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0032",
+    "total_trx": 49,
+    "total_belanja": 254235160.0,
+    "avg_belanja": 5188472.65,
+    "maks_belanja": 27403329.12,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0033",
+    "total_trx": 48,
+    "total_belanja": 229649829.02,
+    "avg_belanja": 4784371.44,
+    "maks_belanja": 25393572.52,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0034",
+    "total_trx": 47,
+    "total_belanja": 261933290.49,
+    "avg_belanja": 5573048.73,
+    "maks_belanja": 22408704.63,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0035",
+    "total_trx": 42,
+    "total_belanja": 214866603.88,
+    "avg_belanja": 5115871.52,
+    "maks_belanja": 23818304.02,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0036",
+    "total_trx": 55,
+    "total_belanja": 328017809.67,
+    "avg_belanja": 5963960.18,
+    "maks_belanja": 28484870.28,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0037",
+    "total_trx": 60,
+    "total_belanja": 271676252.55,
+    "avg_belanja": 4527937.54,
+    "maks_belanja": 27488097.65,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0038",
+    "total_trx": 56,
+    "total_belanja": 274210058.6,
+    "avg_belanja": 4896608.19,
+    "maks_belanja": 23805136.22,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0039",
+    "total_trx": 42,
+    "total_belanja": 219894968.0,
+    "avg_belanja": 5235594.48,
+    "maks_belanja": 33007182.55,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0040",
+    "total_trx": 62,
+    "total_belanja": 394854984.92,
+    "avg_belanja": 6368628.79,
+    "maks_belanja": 37073980.29,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0041",
+    "total_trx": 55,
+    "total_belanja": 266601772.3,
+    "avg_belanja": 4847304.95,
+    "maks_belanja": 30220772.0,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0042",
+    "total_trx": 38,
+    "total_belanja": 192159936.74,
+    "avg_belanja": 5056840.44,
+    "maks_belanja": 23844672.98,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0043",
+    "total_trx": 54,
+    "total_belanja": 282312201.19,
+    "avg_belanja": 5228003.73,
+    "maks_belanja": 26819732.82,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0044",
+    "total_trx": 42,
+    "total_belanja": 189302640.83,
+    "avg_belanja": 4507205.73,
+    "maks_belanja": 18487559.92,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0045",
+    "total_trx": 64,
+    "total_belanja": 475992348.45,
+    "avg_belanja": 7437380.44,
+    "maks_belanja": 32759501.35,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0046",
+    "total_trx": 54,
+    "total_belanja": 215013576.96,
+    "avg_belanja": 3981732.91,
+    "maks_belanja": 18955512.54,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0047",
+    "total_trx": 58,
+    "total_belanja": 381334483.48,
+    "avg_belanja": 6574732.47,
+    "maks_belanja": 30075110.5,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0048",
+    "total_trx": 44,
+    "total_belanja": 172611070.67,
+    "avg_belanja": 3922978.88,
+    "maks_belanja": 16928765.69,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0049",
+    "total_trx": 51,
+    "total_belanja": 262934588.81,
+    "avg_belanja": 5155580.17,
+    "maks_belanja": 22379222.6,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0050",
+    "total_trx": 47,
+    "total_belanja": 250022102.19,
+    "avg_belanja": 5319619.2,
+    "maks_belanja": 26757362.57,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0051",
+    "total_trx": 47,
+    "total_belanja": 206303239.62,
+    "avg_belanja": 4389430.63,
+    "maks_belanja": 23022800.55,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0052",
+    "total_trx": 44,
+    "total_belanja": 204037763.14,
+    "avg_belanja": 4637221.89,
+    "maks_belanja": 18371510.68,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0053",
+    "total_trx": 51,
+    "total_belanja": 235356187.79,
+    "avg_belanja": 4614827.21,
+    "maks_belanja": 20993762.35,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0054",
+    "total_trx": 55,
+    "total_belanja": 307850495.67,
+    "avg_belanja": 5597281.74,
+    "maks_belanja": 21968129.32,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0055",
+    "total_trx": 45,
+    "total_belanja": 207247576.75,
+    "avg_belanja": 4605501.71,
+    "maks_belanja": 25242613.91,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0056",
+    "total_trx": 54,
+    "total_belanja": 315627525.18,
+    "avg_belanja": 5844954.17,
+    "maks_belanja": 33931835.74,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0057",
+    "total_trx": 48,
+    "total_belanja": 242631126.42,
+    "avg_belanja": 5054815.13,
+    "maks_belanja": 29107598.46,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0058",
+    "total_trx": 58,
+    "total_belanja": 319725957.03,
+    "avg_belanja": 5512516.5,
+    "maks_belanja": 20958771.04,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0059",
+    "total_trx": 52,
+    "total_belanja": 355307601.64,
+    "avg_belanja": 6832838.49,
+    "maks_belanja": 36553223.1,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0060",
+    "total_trx": 52,
+    "total_belanja": 277842527.13,
+    "avg_belanja": 5343125.52,
+    "maks_belanja": 34037468.53,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0061",
+    "total_trx": 47,
+    "total_belanja": 206653779.39,
+    "avg_belanja": 4396888.92,
+    "maks_belanja": 30232329.68,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0062",
+    "total_trx": 39,
+    "total_belanja": 183554683.21,
+    "avg_belanja": 4706530.34,
+    "maks_belanja": 21791937.01,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0063",
+    "total_trx": 45,
+    "total_belanja": 256191081.16,
+    "avg_belanja": 5693135.14,
+    "maks_belanja": 25638945.06,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0064",
+    "total_trx": 40,
+    "total_belanja": 197516943.99,
+    "avg_belanja": 4937923.6,
+    "maks_belanja": 25438628.08,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0065",
+    "total_trx": 57,
+    "total_belanja": 243360094.53,
+    "avg_belanja": 4269475.34,
+    "maks_belanja": 17888575.13,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0066",
+    "total_trx": 54,
+    "total_belanja": 212000460.79,
+    "avg_belanja": 3925934.46,
+    "maks_belanja": 28892108.85,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0067",
+    "total_trx": 43,
+    "total_belanja": 175945370.43,
+    "avg_belanja": 4091752.8,
+    "maks_belanja": 29272262.44,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0068",
+    "total_trx": 55,
+    "total_belanja": 277918722.32,
+    "avg_belanja": 5053067.68,
+    "maks_belanja": 26894639.26,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0069",
+    "total_trx": 52,
+    "total_belanja": 324070857.05,
+    "avg_belanja": 6232131.87,
+    "maks_belanja": 26267247.16,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0070",
+    "total_trx": 49,
+    "total_belanja": 262865935.57,
+    "avg_belanja": 5364610.93,
+    "maks_belanja": 32683230.3,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0071",
+    "total_trx": 51,
+    "total_belanja": 276289556.97,
+    "avg_belanja": 5417442.29,
+    "maks_belanja": 23951359.94,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0072",
+    "total_trx": 46,
+    "total_belanja": 230252857.81,
+    "avg_belanja": 5005496.91,
+    "maks_belanja": 18641699.17,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0073",
+    "total_trx": 51,
+    "total_belanja": 245521596.32,
+    "avg_belanja": 4814148.95,
+    "maks_belanja": 19484752.44,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0074",
+    "total_trx": 52,
+    "total_belanja": 219233038.12,
+    "avg_belanja": 4216019.96,
+    "maks_belanja": 20393566.1,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0075",
+    "total_trx": 50,
+    "total_belanja": 222763195.19,
+    "avg_belanja": 4455263.9,
+    "maks_belanja": 25064650.2,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0076",
+    "total_trx": 38,
+    "total_belanja": 289492134.47,
+    "avg_belanja": 7618214.07,
+    "maks_belanja": 27423343.09,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0077",
+    "total_trx": 49,
+    "total_belanja": 186618208.8,
+    "avg_belanja": 3808534.87,
+    "maks_belanja": 29378365.28,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0078",
+    "total_trx": 51,
+    "total_belanja": 264995276.82,
+    "avg_belanja": 5195985.82,
+    "maks_belanja": 29734543.9,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0079",
+    "total_trx": 43,
+    "total_belanja": 214146839.13,
+    "avg_belanja": 4980159.05,
+    "maks_belanja": 23475008.63,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0080",
+    "total_trx": 50,
+    "total_belanja": 307290183.91,
+    "avg_belanja": 6145803.68,
+    "maks_belanja": 43211309.66,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0081",
+    "total_trx": 41,
+    "total_belanja": 231055610.26,
+    "avg_belanja": 5635502.69,
+    "maks_belanja": 32227261.59,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0082",
+    "total_trx": 47,
+    "total_belanja": 241915575.42,
+    "avg_belanja": 5147139.9,
+    "maks_belanja": 42912190.46,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0083",
+    "total_trx": 61,
+    "total_belanja": 272886630.72,
+    "avg_belanja": 4473551.32,
+    "maks_belanja": 21989437.45,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0084",
+    "total_trx": 53,
+    "total_belanja": 319825709.36,
+    "avg_belanja": 6034447.35,
+    "maks_belanja": 37640353.47,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0085",
+    "total_trx": 57,
+    "total_belanja": 310799066.51,
+    "avg_belanja": 5452615.2,
+    "maks_belanja": 38202304.99,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0086",
+    "total_trx": 52,
+    "total_belanja": 244214824.44,
+    "avg_belanja": 4696438.93,
+    "maks_belanja": 15986852.65,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0087",
+    "total_trx": 52,
+    "total_belanja": 219571755.5,
+    "avg_belanja": 4222533.76,
+    "maks_belanja": 19460043.03,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0088",
+    "total_trx": 42,
+    "total_belanja": 235679774.49,
+    "avg_belanja": 5611423.2,
+    "maks_belanja": 41711500.93,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0089",
+    "total_trx": 55,
+    "total_belanja": 265075729.47,
+    "avg_belanja": 4819558.72,
+    "maks_belanja": 21115604.43,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0090",
+    "total_trx": 39,
+    "total_belanja": 156838262.49,
+    "avg_belanja": 4021493.91,
+    "maks_belanja": 25086652.83,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0091",
+    "total_trx": 36,
+    "total_belanja": 268697084.6,
+    "avg_belanja": 7463807.91,
+    "maks_belanja": 24115547.51,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0092",
+    "total_trx": 45,
+    "total_belanja": 144547589.1,
+    "avg_belanja": 3212168.65,
+    "maks_belanja": 18085082.24,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0093",
+    "total_trx": 42,
+    "total_belanja": 234320794.69,
+    "avg_belanja": 5579066.54,
+    "maks_belanja": 34011141.34,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0094",
+    "total_trx": 50,
+    "total_belanja": 251994766.85,
+    "avg_belanja": 5039895.34,
+    "maks_belanja": 29755819.9,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0095",
+    "total_trx": 53,
+    "total_belanja": 303576088.49,
+    "avg_belanja": 5727850.73,
+    "maks_belanja": 27548622.62,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0096",
+    "total_trx": 43,
+    "total_belanja": 268169757.71,
+    "avg_belanja": 6236505.99,
+    "maks_belanja": 31880720.88,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0097",
+    "total_trx": 57,
+    "total_belanja": 289427381.7,
+    "avg_belanja": 5077673.36,
+    "maks_belanja": 30505700.14,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0098",
+    "total_trx": 58,
+    "total_belanja": 361701704.69,
+    "avg_belanja": 6236236.29,
+    "maks_belanja": 31661032.2,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0099",
+    "total_trx": 51,
+    "total_belanja": 299925937.59,
+    "avg_belanja": 5880900.74,
+    "maks_belanja": 30285280.93,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0100",
+    "total_trx": 50,
+    "total_belanja": 216848219.73,
+    "avg_belanja": 4336964.39,
+    "maks_belanja": 20996233.01,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0101",
+    "total_trx": 51,
+    "total_belanja": 257413878.44,
+    "avg_belanja": 5047330.95,
+    "maks_belanja": 28252198.53,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0102",
+    "total_trx": 47,
+    "total_belanja": 141130919.63,
+    "avg_belanja": 3002785.52,
+    "maks_belanja": 15247287.02,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0103",
+    "total_trx": 44,
+    "total_belanja": 247911788.08,
+    "avg_belanja": 5634358.82,
+    "maks_belanja": 25396236.28,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0104",
+    "total_trx": 36,
+    "total_belanja": 194844624.1,
+    "avg_belanja": 5412350.67,
+    "maks_belanja": 22921810.63,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0105",
+    "total_trx": 43,
+    "total_belanja": 208158483.95,
+    "avg_belanja": 4840894.98,
+    "maks_belanja": 20147127.92,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0106",
+    "total_trx": 48,
+    "total_belanja": 198634324.81,
+    "avg_belanja": 4138215.1,
+    "maks_belanja": 15949741.46,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0107",
+    "total_trx": 40,
+    "total_belanja": 269270141.53,
+    "avg_belanja": 6731753.54,
+    "maks_belanja": 37714578.31,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0108",
+    "total_trx": 55,
+    "total_belanja": 248919279.5,
+    "avg_belanja": 4525805.08,
+    "maks_belanja": 23912697.12,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0109",
+    "total_trx": 58,
+    "total_belanja": 361134189.19,
+    "avg_belanja": 6226451.54,
+    "maks_belanja": 36185866.07,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0110",
+    "total_trx": 53,
+    "total_belanja": 265916420.41,
+    "avg_belanja": 5017290.95,
+    "maks_belanja": 17128412.56,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0111",
+    "total_trx": 49,
+    "total_belanja": 306754015.89,
+    "avg_belanja": 6260286.04,
+    "maks_belanja": 34101313.36,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0112",
+    "total_trx": 46,
+    "total_belanja": 251081193.14,
+    "avg_belanja": 5458286.81,
+    "maks_belanja": 28514757.31,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0113",
+    "total_trx": 66,
+    "total_belanja": 403996095.74,
+    "avg_belanja": 6121152.97,
+    "maks_belanja": 26059620.1,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0114",
+    "total_trx": 48,
+    "total_belanja": 224179771.9,
+    "avg_belanja": 4670411.91,
+    "maks_belanja": 28353117.36,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0115",
+    "total_trx": 50,
+    "total_belanja": 170567447.82,
+    "avg_belanja": 3411348.96,
+    "maks_belanja": 27425916.96,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0116",
+    "total_trx": 46,
+    "total_belanja": 210028972.12,
+    "avg_belanja": 4565847.22,
+    "maks_belanja": 23329591.06,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0117",
+    "total_trx": 50,
+    "total_belanja": 221239655.64,
+    "avg_belanja": 4424793.11,
+    "maks_belanja": 30784412.13,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0118",
+    "total_trx": 50,
+    "total_belanja": 235710634.74,
+    "avg_belanja": 4714212.69,
+    "maks_belanja": 25756718.52,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0119",
+    "total_trx": 50,
+    "total_belanja": 332267359.78,
+    "avg_belanja": 6645347.2,
+    "maks_belanja": 38065769.23,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0120",
+    "total_trx": 37,
+    "total_belanja": 127622840.03,
+    "avg_belanja": 3449265.95,
+    "maks_belanja": 17709683.54,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0121",
+    "total_trx": 58,
+    "total_belanja": 317519385.82,
+    "avg_belanja": 5474472.17,
+    "maks_belanja": 40947629.45,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0122",
+    "total_trx": 46,
+    "total_belanja": 288841556.06,
+    "avg_belanja": 6279164.26,
+    "maks_belanja": 29989429.15,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0123",
+    "total_trx": 59,
+    "total_belanja": 298305865.82,
+    "avg_belanja": 5056031.62,
+    "maks_belanja": 36286986.26,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0124",
+    "total_trx": 51,
+    "total_belanja": 234462425.04,
+    "avg_belanja": 4597302.45,
+    "maks_belanja": 19262897.15,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0125",
+    "total_trx": 50,
+    "total_belanja": 244484530.15,
+    "avg_belanja": 4889690.6,
+    "maks_belanja": 22779390.76,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0126",
+    "total_trx": 55,
+    "total_belanja": 261358411.48,
+    "avg_belanja": 4751971.12,
+    "maks_belanja": 29040734.16,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0127",
+    "total_trx": 55,
+    "total_belanja": 314290420.59,
+    "avg_belanja": 5714371.28,
+    "maks_belanja": 32684469.4,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0128",
+    "total_trx": 50,
+    "total_belanja": 345431881.15,
+    "avg_belanja": 6908637.62,
+    "maks_belanja": 37039746.36,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0129",
+    "total_trx": 46,
+    "total_belanja": 229482143.89,
+    "avg_belanja": 4988742.26,
+    "maks_belanja": 24851486.95,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0130",
+    "total_trx": 57,
+    "total_belanja": 273316722.14,
+    "avg_belanja": 4795030.21,
+    "maks_belanja": 19905681.13,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0131",
+    "total_trx": 42,
+    "total_belanja": 190464710.46,
+    "avg_belanja": 4534874.06,
+    "maks_belanja": 20449129.9,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0132",
+    "total_trx": 44,
+    "total_belanja": 206168270.59,
+    "avg_belanja": 4685642.51,
+    "maks_belanja": 16980601.12,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0133",
+    "total_trx": 57,
+    "total_belanja": 366615091.36,
+    "avg_belanja": 6431843.71,
+    "maks_belanja": 30234449.07,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0134",
+    "total_trx": 43,
+    "total_belanja": 192101327.08,
+    "avg_belanja": 4467472.72,
+    "maks_belanja": 24576902.34,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0135",
+    "total_trx": 49,
+    "total_belanja": 235819113.44,
+    "avg_belanja": 4812634.97,
+    "maks_belanja": 26801724.22,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0136",
+    "total_trx": 54,
+    "total_belanja": 291234483.93,
+    "avg_belanja": 5393231.18,
+    "maks_belanja": 40287200.97,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0137",
+    "total_trx": 56,
+    "total_belanja": 281958804.5,
+    "avg_belanja": 5034978.65,
+    "maks_belanja": 17799162.44,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0138",
+    "total_trx": 56,
+    "total_belanja": 277380900.25,
+    "avg_belanja": 4953230.36,
+    "maks_belanja": 35511974.3,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0139",
+    "total_trx": 38,
+    "total_belanja": 166050852.75,
+    "avg_belanja": 4369759.28,
+    "maks_belanja": 15371730.11,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0140",
+    "total_trx": 49,
+    "total_belanja": 268617159.24,
+    "avg_belanja": 5481982.84,
+    "maks_belanja": 23951853.14,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0141",
+    "total_trx": 40,
+    "total_belanja": 162754523.83,
+    "avg_belanja": 4068863.1,
+    "maks_belanja": 19118892.78,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0142",
+    "total_trx": 44,
+    "total_belanja": 217291149.83,
+    "avg_belanja": 4938435.22,
+    "maks_belanja": 30908004.09,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0143",
+    "total_trx": 52,
+    "total_belanja": 259018248.15,
+    "avg_belanja": 4981120.16,
+    "maks_belanja": 31516045.47,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0144",
+    "total_trx": 54,
+    "total_belanja": 261326296.19,
+    "avg_belanja": 4839375.86,
+    "maks_belanja": 26321792.01,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0145",
+    "total_trx": 41,
+    "total_belanja": 200223302.32,
+    "avg_belanja": 4883495.18,
+    "maks_belanja": 23403531.33,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0146",
+    "total_trx": 59,
+    "total_belanja": 463254028.18,
+    "avg_belanja": 7851763.19,
+    "maks_belanja": 32749882.08,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0147",
+    "total_trx": 69,
+    "total_belanja": 411285525.17,
+    "avg_belanja": 5960659.79,
+    "maks_belanja": 30793825.45,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0148",
+    "total_trx": 54,
+    "total_belanja": 318751104.85,
+    "avg_belanja": 5902798.24,
+    "maks_belanja": 29283952.98,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0149",
+    "total_trx": 51,
+    "total_belanja": 258911707.76,
+    "avg_belanja": 5076700.15,
+    "maks_belanja": 23408509.13,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0150",
+    "total_trx": 47,
+    "total_belanja": 231793934.91,
+    "avg_belanja": 4931785.85,
+    "maks_belanja": 28144380.77,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0151",
+    "total_trx": 43,
+    "total_belanja": 176332055.55,
+    "avg_belanja": 4100745.48,
+    "maks_belanja": 18578405.99,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0152",
+    "total_trx": 52,
+    "total_belanja": 376507595.59,
+    "avg_belanja": 7240530.68,
+    "maks_belanja": 40735448.61,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0153",
+    "total_trx": 53,
+    "total_belanja": 275871153.0,
+    "avg_belanja": 5205116.09,
+    "maks_belanja": 20806426.37,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0154",
+    "total_trx": 42,
+    "total_belanja": 266752374.34,
+    "avg_belanja": 6351247.01,
+    "maks_belanja": 36402921.06,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0155",
+    "total_trx": 56,
+    "total_belanja": 350529604.48,
+    "avg_belanja": 6259457.22,
+    "maks_belanja": 30507934.23,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0156",
+    "total_trx": 44,
+    "total_belanja": 235558703.93,
+    "avg_belanja": 5353606.91,
+    "maks_belanja": 18263391.88,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0157",
+    "total_trx": 51,
+    "total_belanja": 263744625.19,
+    "avg_belanja": 5171463.24,
+    "maks_belanja": 27043436.55,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0158",
+    "total_trx": 57,
+    "total_belanja": 229389709.34,
+    "avg_belanja": 4024380.87,
+    "maks_belanja": 22804272.44,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0159",
+    "total_trx": 44,
+    "total_belanja": 230521734.77,
+    "avg_belanja": 5239130.34,
+    "maks_belanja": 31550438.35,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0160",
+    "total_trx": 44,
+    "total_belanja": 229018724.09,
+    "avg_belanja": 5204971.0,
+    "maks_belanja": 26710852.19,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0161",
+    "total_trx": 56,
+    "total_belanja": 348785995.33,
+    "avg_belanja": 6228321.35,
+    "maks_belanja": 27912412.21,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0162",
+    "total_trx": 38,
+    "total_belanja": 190579124.71,
+    "avg_belanja": 5015240.12,
+    "maks_belanja": 16997651.41,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0163",
+    "total_trx": 45,
+    "total_belanja": 223045956.25,
+    "avg_belanja": 4956576.81,
+    "maks_belanja": 18821504.3,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0164",
+    "total_trx": 45,
+    "total_belanja": 264765371.62,
+    "avg_belanja": 5883674.92,
+    "maks_belanja": 29481314.15,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0165",
+    "total_trx": 57,
+    "total_belanja": 299635199.76,
+    "avg_belanja": 5256757.89,
+    "maks_belanja": 20151136.81,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0166",
+    "total_trx": 56,
+    "total_belanja": 237424683.45,
+    "avg_belanja": 4239726.49,
+    "maks_belanja": 26076546.57,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0167",
+    "total_trx": 51,
+    "total_belanja": 251869331.66,
+    "avg_belanja": 4938614.35,
+    "maks_belanja": 21048466.78,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0168",
+    "total_trx": 42,
+    "total_belanja": 246897368.1,
+    "avg_belanja": 5878508.76,
+    "maks_belanja": 31560858.7,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0169",
+    "total_trx": 48,
+    "total_belanja": 210667776.4,
+    "avg_belanja": 4388912.01,
+    "maks_belanja": 24134995.53,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0170",
+    "total_trx": 48,
+    "total_belanja": 211307141.85,
+    "avg_belanja": 4402232.12,
+    "maks_belanja": 20769423.67,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0171",
+    "total_trx": 55,
+    "total_belanja": 273088621.75,
+    "avg_belanja": 4965247.67,
+    "maks_belanja": 23265764.17,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0172",
+    "total_trx": 38,
+    "total_belanja": 198383239.12,
+    "avg_belanja": 5220611.56,
+    "maks_belanja": 42647396.68,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0173",
+    "total_trx": 47,
+    "total_belanja": 323566824.69,
+    "avg_belanja": 6884400.53,
+    "maks_belanja": 42171257.95,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0174",
+    "total_trx": 59,
+    "total_belanja": 305185636.42,
+    "avg_belanja": 5172637.91,
+    "maks_belanja": 43622444.55,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0175",
+    "total_trx": 57,
+    "total_belanja": 373023548.21,
+    "avg_belanja": 6544272.78,
+    "maks_belanja": 34419238.13,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0176",
+    "total_trx": 53,
+    "total_belanja": 302629808.38,
+    "avg_belanja": 5709996.38,
+    "maks_belanja": 28556296.26,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0177",
+    "total_trx": 64,
+    "total_belanja": 307088601.81,
+    "avg_belanja": 4798259.4,
+    "maks_belanja": 33172998.63,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0178",
+    "total_trx": 53,
+    "total_belanja": 308621155.26,
+    "avg_belanja": 5823040.67,
+    "maks_belanja": 41660805.15,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0179",
+    "total_trx": 51,
+    "total_belanja": 291168454.99,
+    "avg_belanja": 5709185.39,
+    "maks_belanja": 32864712.9,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0180",
+    "total_trx": 52,
+    "total_belanja": 210170473.61,
+    "avg_belanja": 4041739.88,
+    "maks_belanja": 23012469.2,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0181",
+    "total_trx": 52,
+    "total_belanja": 284161284.27,
+    "avg_belanja": 5464640.08,
+    "maks_belanja": 29215855.23,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0182",
+    "total_trx": 57,
+    "total_belanja": 277492692.46,
+    "avg_belanja": 4868292.85,
+    "maks_belanja": 27312288.51,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0183",
+    "total_trx": 38,
+    "total_belanja": 245629959.02,
+    "avg_belanja": 6463946.29,
+    "maks_belanja": 32023612.72,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0184",
+    "total_trx": 43,
+    "total_belanja": 264086527.44,
+    "avg_belanja": 6141547.15,
+    "maks_belanja": 40619396.55,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0185",
+    "total_trx": 45,
+    "total_belanja": 262516856.67,
+    "avg_belanja": 5833707.93,
+    "maks_belanja": 32051285.55,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0186",
+    "total_trx": 46,
+    "total_belanja": 202126012.84,
+    "avg_belanja": 4394043.76,
+    "maks_belanja": 24136802.36,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0187",
+    "total_trx": 42,
+    "total_belanja": 147856695.65,
+    "avg_belanja": 3520397.52,
+    "maks_belanja": 25074470.57,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0188",
+    "total_trx": 56,
+    "total_belanja": 298783378.18,
+    "avg_belanja": 5335417.47,
+    "maks_belanja": 20081922.53,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0189",
+    "total_trx": 50,
+    "total_belanja": 232929464.29,
+    "avg_belanja": 4658589.29,
+    "maks_belanja": 17313668.64,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0190",
+    "total_trx": 55,
+    "total_belanja": 300821755.47,
+    "avg_belanja": 5469486.46,
+    "maks_belanja": 30517370.04,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0191",
+    "total_trx": 57,
+    "total_belanja": 234269851.93,
+    "avg_belanja": 4109997.4,
+    "maks_belanja": 37593128.24,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0192",
+    "total_trx": 45,
+    "total_belanja": 294060251.58,
+    "avg_belanja": 6534672.26,
+    "maks_belanja": 40998611.26,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0193",
+    "total_trx": 40,
+    "total_belanja": 259578669.12,
+    "avg_belanja": 6489466.73,
+    "maks_belanja": 35835893.06,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0194",
+    "total_trx": 45,
+    "total_belanja": 183531539.97,
+    "avg_belanja": 4078478.67,
+    "maks_belanja": 21452854.58,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0195",
+    "total_trx": 56,
+    "total_belanja": 314783868.41,
+    "avg_belanja": 5621140.51,
+    "maks_belanja": 25988438.26,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0196",
+    "total_trx": 58,
+    "total_belanja": 277377157.9,
+    "avg_belanja": 4782364.79,
+    "maks_belanja": 40148852.09,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0197",
+    "total_trx": 47,
+    "total_belanja": 195861787.98,
+    "avg_belanja": 4167272.08,
+    "maks_belanja": 20307601.06,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0198",
+    "total_trx": 49,
+    "total_belanja": 308640721.57,
+    "avg_belanja": 6298790.24,
+    "maks_belanja": 24778479.19,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0199",
+    "total_trx": 64,
+    "total_belanja": 351180848.7,
+    "avg_belanja": 5487200.76,
+    "maks_belanja": 27124525.03,
+    "ragam_kategori": 6
+  },
+  {
+    "id_pelanggan": "usr-0200",
+    "total_trx": 51,
+    "total_belanja": 243099032.5,
+    "avg_belanja": 4766647.7,
+    "maks_belanja": 31649957.93,
+    "ragam_kategori": 6
+  }
+]

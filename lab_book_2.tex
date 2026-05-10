@@ -1,0 +1,566 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Analisis Big Data — Modul Praktikum
+% Desain: Academic Navy (Elegan + Aksen Emas)
+% Institut Teknologi Sumatera · Sains Data
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%  PACKAGES AND DOCUMENT CONFIGURATION
+%----------------------------------------------------------------------------------------
+
+\documentclass[
+  fontsize=11pt,
+  paper=a4,
+  twoside,
+  captions=tableheading,
+  index=totoc,
+  hyperref
+]{labbook}
+
+%--- Layout ---
+\usepackage[
+  top=25mm,
+  bottom=25mm,
+  inner=30mm,
+  outer=20mm
+]{geometry}
+
+%--- Language & Encoding ---
+\usepackage[indonesian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+%--- Typography: Palatino (serif body) + Bera Sans + JetBrains-like mono ---
+\usepackage[osf]{mathpazo}           % Palatino with oldstyle figures
+\linespread{1.06}\selectfont
+\usepackage[scaled=0.86]{berasans}
+\usepackage[scaled=0.84]{beramono}
+\usepackage{microtype}
+
+%--- Math ---
+\usepackage{amsmath,amssymb}
+
+%--- Colors ---
+\usepackage[dvipsnames,svgnames,x11names]{xcolor}
+
+% Navy + Gold palette
+\definecolor{NavyDeep}{RGB}{13,31,60}       % deep navy (cover, chapters)
+\definecolor{NavyMid}{RGB}{28,56,102}       % mid navy (accents)
+\definecolor{Gold}{RGB}{201,163,77}         % antique gold
+\definecolor{GoldLight}{RGB}{245,236,210}   % pale gold (box bg)
+\definecolor{NavyText}{RGB}{18,30,58}       % body text
+\definecolor{BodyGray}{RGB}{88,88,96}       % secondary text
+\definecolor{RuleGray}{RGB}{200,200,205}    % thin rules
+\definecolor{CodeBg}{RGB}{246,246,248}      % code block bg
+\definecolor{PageBg}{RGB}{253,252,250}      % warm off-white page
+
+\definecolor{primary}{rgb}{0.16,0.24,0.64}  % ambil dari titleblue
+\definecolor{accent}{rgb}{0.00,0.00,0.42}   % ambil dari linkcolor
+\definecolor{bronze}{rgb}{0.72,0.45,0.20}
+\definecolor{silver}{rgb}{0.75,0.75,0.75}
+\definecolor{gold}{rgb}{0.85,0.66,0.13}
+
+%--- Graphics & TikZ ---
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{
+  positioning, arrows.meta, shapes.geometric, shapes.multipart,
+  fit, backgrounds, calc, shadows.blur, decorations.pathreplacing
+}
+
+\tikzset{
+  box/.style={
+    rectangle, rounded corners=5pt,
+    draw=NavyMid, thick,
+    minimum width=4cm, minimum height=1.2cm, align=center,
+    fill=GoldLight
+  },
+  datastore/.style={
+    cylinder, shape border rotate=90,
+    draw=NavyMid, thick,
+    minimum height=1.2cm, minimum width=2.5cm, align=center,
+    fill=GoldLight
+  },
+  arrow/.style={-{Stealth[length=3mm]}, thick, color=Gold}
+}
+
+%--- Tables ---
+\usepackage{booktabs,array,tabularx,longtable,multirow}
+
+%--- Code Listings ---
+\usepackage{listings}
+\lstdefinestyle{navy}{
+  backgroundcolor=\color{CodeBg},
+  basicstyle=\ttfamily\small\color{NavyText},
+  keywordstyle=\bfseries\color{NavyMid},
+  commentstyle=\itshape\color{BodyGray},
+  stringstyle=\color{Gold!80!NavyDeep},
+  numberstyle=\tiny\color{BodyGray},
+  numbers=left,
+  numbersep=10pt,
+  frame=none,
+  xleftmargin=18pt,
+  xrightmargin=8pt,
+  breaklines=true,
+  breakatwhitespace=true,
+  columns=fullflexible,
+  keepspaces=true,
+  showstringspaces=false,
+  tabsize=2,
+  aboveskip=12pt,
+  belowskip=12pt,
+  rulecolor=\color{Gold!40},
+}
+\lstset{style=navy}
+
+%--- Misc ---
+\usepackage{lipsum}
+\usepackage{etoolbox}
+\usepackage{lastpage}
+\usepackage{chngcntr}
+\usepackage{enumitem}
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+\usepackage{caption}
+\usepackage[norule]{footmisc}
+
+
+%--- Renaming ---
+\addto\captionsindonesian{
+  \renewcommand{\refname}{Daftar Pustaka}
+  \renewcommand{\contentsname}{Daftar Isi}
+  \renewcommand{\figurename}{Gambar}
+  \renewcommand{\tablename}{Tabel}
+  \renewcommand{\lstlistingname}{Kode}
+}
+
+%--- No blank page between chapters ---
+\let\cleardoublepage\clearpage
+\makeatletter
+\patchcmd{\addchap}{\if@openright\cleardoublepage\else\clearpage\fi}{\par}{}{}
+\makeatother
+\renewcommand*{\chapterpagestyle}{scrheadings}
+
+%--- Continuous numbering ---
+\counterwithout{figure}{labday}
+\counterwithout{equation}{labday}
+
+%========================================================================================
+%  KOMA-SCRIPT FONT SETTINGS
+%========================================================================================
+
+\setkomafont{title}{\Huge\rmfamily\color{NavyDeep}}
+\setkomafont{chapter}{\large\rmfamily\bfseries\color{NavyDeep}}
+\setkomafont{section}{\normalsize\rmfamily\bfseries\color{NavyDeep}}
+\setkomafont{subsection}{\normalsize\rmfamily\itshape\color{NavyMid}}
+\setkomafont{caption}{\small\rmfamily\itshape\color{BodyGray}}
+\setkomafont{captionlabel}{\small\rmfamily\bfseries\color{Gold}}
+\setkomafont{footnote}{\small\rmfamily}
+\setkomafont{descriptionlabel}{\rmfamily\bfseries\color{NavyDeep}}
+\setcapwidth[l]{0.85\textwidth}
+
+%========================================================================================
+%  HEADERS & FOOTERS
+%========================================================================================
+
+\usepackage[nouppercase,headsepline]{scrlayer-scrpage}
+\pagestyle{scrheadings}
+\clearscrheadfoot
+
+\automark[chapter]{chapter}
+
+\ihead{\small\rmfamily\itshape\color{BodyGray}\headmark}
+\ohead{\small\rmfamily\color{BodyGray}Analisis Big Data}
+
+\setheadsepline{0.6pt}[\color{RuleGray}]
+\setlength{\headheight}{20pt}
+
+\ofoot[\normalfont\small\color{BodyGray}{\thepage\ |\ \pageref{LastPage}}]%
+      {\normalfont\small\color{BodyGray}{\thepage\ |\ \pageref{LastPage}}}
+
+\ifoot[\normalfont\small\color{BodyGray}{Institut Teknologi Sumatera}]%
+      {\normalfont\small\color{BodyGray}{Institut Teknologi Sumatera}}
+
+%========================================================================================
+%  CUSTOM ENVIRONMENTS
+%========================================================================================
+\raggedbottom
+
+
+% ======================
+% CHAPTER TYPOGRAPHY STYLE
+% ======================
+\setkomafont{chapter}{\Huge\bfseries}         % Judul bab besar & bold
+\setkomafont{chapterprefix}{\Large}           % "Bab" atau prefix
+\tcbset{
+  before skip=6pt,
+  after skip=6pt
+}
+
+\RedeclareSectionCommand[
+  beforeskip=3cm,   % jarak dari atas halaman
+  afterskip=1.5cm   % jarak ke konten
+]{chapter}
+
+\renewcommand*\chapterformat{%
+  \mbox{}\par
+  \vspace{-1cm}
+  {\Large\thechapter}\par\vspace{0.5cm}
+}
+
+\setkomafont{section}{\Large\bfseries}
+\setkomafont{subsection}{\normalsize\bfseries}
+\setlength{\parskip}{0.4em plus 0.1em minus 0.05em}
+\setlength{\emergencystretch}{1em}
+\setlength{\parindent}{0pt}
+
+\usepackage{tcolorbox}
+\usepackage{xcolor}
+
+\definecolor{expgray}{gray}{0.92}
+
+\let\oldexperiment\experiment
+\renewcommand{\experiment}[1]{%
+  \par\vspace{0.4em} 
+  \begin{tcolorbox}[
+    colback=expgray,
+    colframe=white,
+    boxrule=0pt,
+    arc=2pt,
+    left=8pt,
+    right=8pt,
+    top=6pt,
+    bottom=6pt,
+    width=\linewidth,
+    boxsep=0pt
+  ]
+  \large\bfseries \oldexperiment{#1}
+  \end{tcolorbox}
+}
+
+
+
+%--- Tujuan Pembelajaran ---
+\newtcolorbox{tujuan}[1][]{
+  breakable, enhanced,
+  colback=GoldLight,
+  colframe=Gold,
+  leftrule=3pt, rightrule=0pt, toprule=0.4pt, bottomrule=0.4pt,
+  arc=2pt,
+  left=12pt, right=12pt, top=10pt, bottom=10pt,
+  fonttitle={\small\bfseries\rmfamily\color{NavyDeep}\MakeUppercase},
+  title={Tujuan Pembelajaran},
+  attach boxed title to top left={yshift=-2pt, xshift=8pt},
+  boxed title style={
+    colback=GoldLight, colframe=Gold,
+    leftrule=3pt, rightrule=0pt, toprule=0pt, bottomrule=0pt,
+    arc=0pt
+  },
+  #1
+}
+
+%--- Catatan ---
+\newtcolorbox{catatan}[1][]{
+  breakable, enhanced,
+  colback=NavyDeep!4,
+  colframe=NavyMid!40,
+  leftrule=2pt, rightrule=0pt, toprule=0pt, bottomrule=0pt,
+  arc=0pt,
+  left=12pt, right=12pt, top=8pt, bottom=8pt,
+  fonttitle={\small\bfseries\rmfamily\color{NavyDeep}},
+  title={Catatan},
+  #1
+}
+
+%--- Peringatan ---
+\newtcolorbox{peringatan}[1][]{
+  breakable, enhanced,
+  colback=Gold!8,
+  colframe=Gold!60,
+  leftrule=2pt, rightrule=0pt, toprule=0pt, bottomrule=0pt,
+  arc=0pt,
+  left=12pt, right=12pt, top=8pt, bottom=8pt,
+  fonttitle={\small\bfseries\rmfamily\color{NavyDeep}},
+  title={Perhatian},
+  #1
+}
+
+%--- Langkah / Steps ---
+\newcounter{langkah}
+\newenvironment{langkah}{%
+  \setcounter{langkah}{0}%
+  \newcommand{\step}[1]{%
+    \stepcounter{langkah}%
+    \par\vspace{6pt}%
+    \noindent
+    \begin{tikzpicture}[baseline=(num.base)]
+      \node[
+        circle,
+        fill=NavyDeep,
+        text=Gold,
+        inner sep=0pt,
+        minimum size=18pt,
+        font=\small\bfseries
+      ] (num) {\thelangkah};
+    \end{tikzpicture}%
+    \hspace{8pt}\textbf{\color{NavyDeep}##1}\par\vspace{2pt}%
+  }%
+}{}
+
+%--- Pertanyaan ---
+\newenvironment{pertanyaan}{%
+  \par\vspace{8pt}
+  \noindent{\color{Gold}\rule{\linewidth}{0.8pt}}\par\vspace{2pt}
+  \noindent{%
+    \small\bfseries\color{NavyDeep}\MakeUppercase{Pertanyaan Praktikum}%
+  }\par\vspace{6pt}
+  \begin{enumerate}[label=\textbf{\color{Gold}\arabic*.}, leftmargin=*, itemsep=6pt]
+}{%
+  \end{enumerate}
+  \par\vspace{4pt}
+  \noindent{\color{Gold}\rule{\linewidth}{0.8pt}}\par
+}
+
+%========================================================================================
+%  HYPERREF
+%========================================================================================
+
+\usepackage[
+  bookmarksopen=true,
+  linktoc=all,
+  colorlinks=true,
+  linkcolor=NavyMid,
+  citecolor=BodyGray,
+  urlcolor=NavyMid
+]{hyperref}
+
+
+%========================================================================================
+%  DEFINITION OF EXPERIMENTS
+%========================================================================================
+
+\newexperiment{hadoop}[Hadoop \& HDFS]{Hadoop dan HDFS}
+\newexperiment{mapreduce}[MapReduce]{MapReduce Programming Model}
+\newexperiment{spark}[Apache Spark]{Apache Spark Dasar}
+\newexperiment{sparksql}[Spark SQL]{Spark SQL \& DataFrames}
+\newexperiment{streaming}[Spark Streaming]{Spark Streaming}
+\newexperiment{ml}[MLlib]{Machine Learning dengan MLlib}
+\newexperiment{kafka}[Apache Kafka]{Apache Kafka}
+\newexperiment{pipeline}[Data Pipeline]{Membangun Data Pipeline}
+
+\newsubexperiment{install}[Instalasi]{Instalasi dan Konfigurasi}
+\newsubexperiment{praktik}[Praktik]{Sesi Praktik}
+\newsubexperiment{latihan}[Latihan]{Latihan Mandiri}
+
+%========================================================================================
+%  TITLE PAGE
+%========================================================================================
+
+\renewcommand{\maketitle}{%
+  \begin{titlepage}
+    \thispagestyle{empty}
+
+    \begin{tikzpicture}[remember picture, overlay]
+
+      %--- Full navy background ---
+      \fill[NavyDeep]
+        (current page.south west) rectangle (current page.north east);
+
+      %--- Decorative concentric circle (top-right) ---
+      \foreach \r/\op in {9/0.06, 7/0.08, 5/0.10}{
+        \draw[Gold, line width=0.4pt, opacity=\op]
+          ([xshift=-40mm, yshift=-40mm]current page.north east)
+          circle (\r cm);
+      }
+
+      %--- Gold horizontal rule (top) ---
+      \draw[Gold, line width=1.5pt]
+        ([xshift=20mm, yshift=-32mm]current page.north west)
+        --
+        ([xshift=-20mm, yshift=-32mm]current page.north east);
+
+      %--- Gold horizontal rule (bottom) ---
+      \draw[Gold, line width=1.5pt]
+        ([xshift=20mm, yshift=32mm]current page.south west)
+        --
+        ([xshift=-20mm, yshift=32mm]current page.south east);
+
+      %--- Thin inner rules ---
+      \draw[Gold!30, line width=0.4pt]
+        ([xshift=20mm, yshift=-35mm]current page.north west)
+        --
+        ([xshift=-20mm, yshift=-35mm]current page.north east);
+
+      \draw[Gold!30, line width=0.4pt]
+        ([xshift=20mm, yshift=35mm]current page.south west)
+        --
+        ([xshift=-20mm, yshift=35mm]current page.south east);
+
+    \end{tikzpicture}
+
+    %--- Content ---
+    \centering
+    \vspace*{36mm}
+
+    % Badge
+    {\color{Gold}\small\bfseries\sffamily\MakeUppercase{%
+      Institut Teknologi Sumatera\ ·\ Program Studi Sains Data%
+    }}
+
+    \vspace{10mm}
+
+    % Main title
+    {\fontsize{54pt}{52pt}\selectfont\rmfamily\color{white}
+      Analisis Big Data}
+
+    \vspace{6mm}
+
+    % Gold divider
+    \textcolor{Gold}{\rule{60mm}{1pt}}
+
+    \vspace{10mm}
+
+    % Subtitle
+    {\large\rmfamily\color{white!60}
+      Modul Praktikum}
+
+    \vspace{4mm}
+
+    % Description
+    {\small\rmfamily\color{white!45}
+      \parbox{90mm}{\centering
+        Ardika Satria\\
+        Luluk Muthoharoh \\
+        Febri Dwi Irawati
+      }
+    }
+
+    \vfill
+
+
+    \vspace{16mm}
+
+
+    \vspace{28mm}
+
+  \end{titlepage}
+}
+
+%========================================================================================
+%  TABLE OF CONTENTS STYLE
+%========================================================================================
+
+\usepackage{titletoc}
+\contentsmargin{0pt}
+
+\titlecontents{chapter}
+  [0pt]
+  {\vspace{8pt}}
+  {%
+    \color{Gold}\bfseries\rmfamily\sffamily
+    \makebox[28pt][l]{\thecontentslabel}%
+    \color{NavyDeep}\bfseries\rmfamily
+  }
+  {}
+  {\hspace{4pt}{\color{RuleGray}\titlerule*[6pt]{·}}\hspace{4pt}%
+   \color{NavyDeep}\bfseries\contentspage}
+  [\vspace{2pt}]
+
+\titlecontents{section}
+  [30pt]
+  {}
+  {%
+    \makebox[24pt][l]{\color{Gold}\thecontentslabel}%
+    \color{BodyGray}\rmfamily
+  }
+  {}
+  {{\color{RuleGray}\titlerule*[6pt]{·}}%
+   \color{BodyGray}\contentspage}
+  [\vspace{1pt}]
+
+%========================================================================================
+%  BEGIN DOCUMENT
+%========================================================================================
+
+\usepackage{xcolor}
+
+\definecolor{covercolor}{rgb}{0.16,0.24,0.64}
+
+\begin{document}
+
+\maketitle
+
+\clearpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\input{Katapengantar.tex}
+
+{
+  \setlength{\parskip}{0pt}
+  \tableofcontents
+}
+\clearpage
+
+\begin{addmargin}[0cm]{0cm}
+
+\pagestyle{scrheadings}
+
+%--- Modules ---
+\input{preface.tex}
+\input{Panduan-Praktikum.tex}
+\input{Modul1.tex}
+\input{Modul2.tex}
+\input{Modul3.tex}
+\input{Modul4.tex}
+\input{Modul5.tex}
+\input{Modul6.tex}
+\input{Modul7.tex}
+\input{Modul8.tex}
+\input{Modul9.tex}
+\input{Modul10.tex}
+\input{penutup.tex}
+\input{Daftarpustaka.tex}
+
+\end{addmargin}
+
+\clearpage
+\thispagestyle{empty}
+
+\begin{tikzpicture}[remember picture, overlay]
+    \fill[NavyDeep] (current page.south west) rectangle (current page.north east);
+\end{tikzpicture}
+
+\vspace*{3cm}
+
+\begin{center}
+\color{white}
+
+{\Huge\bfseries Analisis Big Data}\\[0.5cm]
+{\Large Modul Praktikum}
+
+\vspace{1.5cm}
+
+\begin{minipage}{0.75\textwidth}
+\small
+Modul praktikum ini dirancang untuk memberikan pemahaman komprehensif mengenai konsep dan implementasi analisis data skala besar (\textit{big data}). Materi disusun secara sistematis, mencakup arsitektur data, pemrosesan terdistribusi, serta orkestrasi pipeline menggunakan teknologi modern seperti Apache Spark, Kafka, dan Airflow.
+
+Modul ini ditujukan bagi mahasiswa Sains Data dan bidang terkait yang ingin mengembangkan keterampilan praktis dalam pengolahan data skala besar.
+\end{minipage}
+
+\vfill
+
+{\small
+Program Studi Sains Data\\
+Fakultas Sains \\
+Institut Teknologi Sumatera
+}
+
+\vspace{1cm}
+
+% Optional: logo
+\includegraphics[width=3cm]{LOGO-SAINSDATA.png}
+
+\end{center}
+
+\end{document}
