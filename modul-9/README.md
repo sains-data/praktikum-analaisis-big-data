@@ -3,7 +3,7 @@
 
 > **Catatan:** Modul 9 menggunakan **lingkungan yang sama persis** dengan Modul 5
 > (repositori `bigdata-spark`). Jika kontainer sudah pernah dibuat dari Modul 5,
-> lewati langkah build dan langsung ke [Langkah 5 — Menjalankan Kontainer](#5-menjalankan-kontainer).
+> lewati langkah build dan langsung ke [Langkah 5 — Menjalankan Kontainer](#6-menjalankan-kontainer).
 
 ---
 
